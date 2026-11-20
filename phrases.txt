@@ -1,0 +1,518 @@
+#E
+A2|Please find attached the invoice for October.|Ekte Ekim ayı faturasını bulabilirsiniz.
+A2|Thank you for your email.|E-postanız için teşekkür ederim.
+A2|Kind regards,|Saygılarımla,
+A2|Best wishes,|İyi dilekler,
+A2|Dear Mr Popescu,|Sayın Popescu,|Dear Mr. Popescu,
+A2|I look forward to hearing from you.|Dönüşünüzü bekliyorum.
+B1|Could you please confirm receipt of this email?|Bu e-postayı aldığınızı teyit edebilir misiniz?
+B1|I am writing to follow up on my previous email.|Önceki e-postamın takibi için yazıyorum.
+B1|I am writing with regard to invoice number 2045.|2045 numaralı fatura ile ilgili yazıyorum.
+B1|Thank you for your prompt reply.|Hızlı dönüşünüz için teşekkür ederim.
+B1|Please let me know if you need any further information.|Ek bilgiye ihtiyacınız olursa lütfen bana bildirin.
+B1|I apologise for the delay in responding.|Geç dönüş için özür dilerim.|I apologize for the delay in responding.
+B1|As discussed on the phone, please find the details below.|Telefonda görüştüğümüz üzere detaylar aşağıdadır.
+B1|Could you please clarify the following points?|Aşağıdaki hususları açıklayabilir misiniz?
+B1|I have copied our finance manager for visibility.|Bilgi için finans müdürümüzü de ekledim.
+B1|Please see my comments below in red.|Yorumlarımı aşağıda kırmızıyla görebilirsiniz.
+B1|Sorry, I forgot to attach the file.|Kusura bakmayın, dosyayı eklemeyi unutmuşum.
+B1|I will get back to you by the end of the day.|Gün sonuna kadar size dönüş yapacağım.
+B1|I am out of the office until Monday.|Pazartesiye kadar ofis dışındayım.
+B2|We would appreciate it if you could send us the documents by Friday.|Belgeleri cuma gününe kadar gönderebilirseniz memnun oluruz.
+B2|Kindly note that our bank details have not changed.|Banka bilgilerimizin değişmediğini önemle belirtiriz.
+B2|Please treat this matter as urgent.|Lütfen bu konuyu acil olarak değerlendirin.
+B2|I would be grateful if you could look into this matter.|Bu konuyu incelerseniz minnettar olurum.
+B2|Further to our conversation, I am sending you the revised figures.|Görüşmemize istinaden güncellenmiş rakamları gönderiyorum.
+B2|For urgent matters, please contact my colleague.|Acil konular için lütfen iş arkadaşımla iletişime geçin.
+C1|Please disregard my previous email.|Lütfen önceki e-postamı dikkate almayınız.
+C1|I would like to draw your attention to the following discrepancy.|Aşağıdaki tutarsızlığa dikkatinizi çekmek isterim.
+#M
+A2|Shall we start?|Başlayalım mı?
+A2|Can everyone hear me?|Herkes beni duyabiliyor mu?
+B1|Let's go over this month's figures.|Bu ayın rakamlarının üzerinden geçelim.
+B1|Could you share your screen, please?|Ekranınızı paylaşabilir misiniz?
+B1|What is driving the increase in costs?|Maliyetlerdeki artışın nedeni nedir?
+B1|Who will be responsible for this?|Bundan kim sorumlu olacak?
+B1|Can we revisit this next week?|Bunu gelecek hafta tekrar ele alabilir miyiz?
+B1|I will circulate the minutes after the meeting.|Toplantıdan sonra tutanağı dağıtacağım.
+B1|Let's move on to the next item on the agenda.|Gündemdeki bir sonraki maddeye geçelim.
+B1|Sorry, could you repeat that?|Pardon, tekrar eder misiniz?
+B1|I'm afraid we're running out of time.|Korkarım vaktimiz azalıyor.
+B1|Does anyone have any questions?|Sorusu olan var mı?
+B2|Could you walk us through the variance?|Sapmayı bize adım adım açıklayabilir misiniz?
+B2|Let's discuss this separately after the meeting.|Bunu toplantıdan sonra ayrıca konuşalım.|Let's take this offline.
+B2|Let's set a deadline for this action item.|Bu aksiyon maddesi için bir son tarih belirleyelim.
+B2|To sum up, we have agreed on the following.|Özetle, aşağıdaki konularda mutabık kaldık.
+B2|I'd like to raise a concern about our cash flow.|Nakit akışımızla ilgili bir endişemi dile getirmek istiyorum.
+B2|If I could just add something here.|Buraya bir şey eklemek isterim.
+B2|Let's park this for now and come back to it later.|Bunu şimdilik bir kenara bırakıp sonra dönelim.
+B2|What are the next steps?|Sonraki adımlar neler?
+C1|Just to make sure we're on the same page, let me summarise.|Aynı noktada olduğumuzdan emin olmak için özetleyeyim.|Just to make sure we're on the same page, let me summarize.
+C1|I see your point, but I'd look at it from a different angle.|Ne demek istediğinizi anlıyorum ama konuya farklı bir açıdan bakardım.
+#P
+A2|Hello, this is Hasan from the finance department.|Merhaba, ben finans departmanından Hasan.
+A2|Could I speak to the accountant, please?|Muhasebeciyle görüşebilir miyim?
+A2|Just a moment, please.|Bir dakika lütfen.
+B1|I'm calling about the outstanding invoices.|Ödenmemiş faturalar hakkında arıyorum.
+B1|Could you put me through to the accounts department?|Beni muhasebe departmanına bağlayabilir misiniz?|Could you transfer me to the accounting department?
+B1|Can I leave a message?|Mesaj bırakabilir miyim?
+B1|Could you ask him to call me back?|Beni geri aramasını rica edebilir misiniz?
+B1|Sorry, the line is breaking up.|Kusura bakmayın, ses kesik kesik geliyor.
+B1|Could you spell that, please?|Bunu harf harf söyleyebilir misiniz?
+B1|Could you speak a little more slowly, please?|Biraz daha yavaş konuşabilir misiniz lütfen?
+B1|I'll send you the details by email after the call.|Görüşmeden sonra detayları e-postayla göndereceğim.
+B1|You're on mute.|Mikrofonunuz kapalı.
+B2|I'm afraid he's in a meeting at the moment.|Maalesef şu anda toplantıda.
+B2|Let me check and call you back in ten minutes.|Kontrol edip on dakika içinde sizi geri arayayım.
+B2|Thanks for your time, I'll let you go.|Vakit ayırdığınız için teşekkürler, sizi daha fazla tutmayayım.
+#A
+B1|We are closing the books for October.|Ekim ayının kapanışını yapıyoruz.
+B1|The trial balance does not balance.|Mizan tutmuyor.
+B1|The report is attached in Excel format.|Rapor Excel formatında ektedir.
+B1|Please send me the bank statements for the period.|Lütfen döneme ait banka ekstrelerini bana gönderin.
+B1|I have updated the figures in the file.|Dosyadaki rakamları güncelledim.
+B2|The month-end closing will be completed by the fifth working day.|Ay sonu kapanışı beşinci iş gününe kadar tamamlanacak.|The month-end close will be completed by the fifth business day.
+B2|Please post an accrual for the unbilled services.|Faturalanmamış hizmetler için tahakkuk kaydı atın lütfen.
+B2|This entry needs to be reversed next month.|Bu kaydın gelecek ay ters kayıtla kapatılması gerekiyor.
+B2|The balance sheet has been reconciled with the general ledger.|Bilanço büyük defterle mutabık hale getirildi.
+B2|Please reconcile the intercompany balances before consolidation.|Konsolidasyondan önce grup içi bakiyeleri mutabık hale getirin lütfen.
+B2|The figures are preliminary and subject to change.|Rakamlar ön niteliktedir ve değişebilir.
+B2|Amounts are in EUR, converted at the central bank rate.|Tutarlar EUR cinsindendir; merkez bankası kuruyla çevrilmiştir.
+B2|The difference arises from exchange rate fluctuations.|Fark kur dalgalanmalarından kaynaklanmaktadır.
+B2|We have recorded a provision for doubtful receivables.|Şüpheli alacaklar için karşılık ayırdık.
+B2|Depreciation has been calculated using the straight-line method.|Amortisman doğrusal yöntemle hesaplanmıştır.
+B2|This invoice was booked in the wrong period.|Bu fatura yanlış döneme kaydedilmiş.
+B2|Please reclassify this amount to account 770.|Lütfen bu tutarı 770 hesaba virman yapın.
+B2|The cut-off date for invoices is the 3rd of the month.|Faturalar için dönem ayrımı tarihi ayın 3'üdür.
+B2|We are still waiting for some supplier invoices.|Hâlâ bazı tedarikçi faturalarını bekliyoruz.
+B2|The variance is mainly due to timing differences.|Fark esas olarak zamanlama farklarından kaynaklanıyor.
+C1|These figures have not yet been audited.|Bu rakamlar henüz denetlenmemiştir.
+C1|We have mapped the Romanian accounts to the Turkish chart of accounts.|Romanya hesaplarını Türk hesap planıyla eşleştirdik.
+C1|The prior-year figures have been restated for comparability.|Geçen yıl rakamları karşılaştırılabilirlik için yeniden düzenlenmiştir.
+#O
+B1|The invoice is 30 days overdue.|Faturanın vadesi 30 gün geçmiştir.
+B1|We have received your payment, thank you.|Ödemenizi aldık, teşekkür ederiz.
+B1|When can we expect the payment?|Ödemeyi ne zaman bekleyebiliriz?
+B1|Could you send us a statement of account?|Bize cari hesap ekstresi gönderebilir misiniz?
+B1|Payment terms are 60 days from the invoice date.|Ödeme vadesi fatura tarihinden itibaren 60 gündür.
+B1|Please quote the invoice number in the payment reference.|Lütfen ödeme açıklamasına fatura numarasını yazınız.
+B2|Please arrange payment at your earliest convenience.|Lütfen ödemeyi en kısa sürede gerçekleştiriniz.
+B2|Payment was made today; please find the remittance advice attached.|Ödeme bugün yapılmıştır; ödeme bildirimi ektedir.
+B2|According to our records, the following invoices remain unpaid.|Kayıtlarımıza göre aşağıdaki faturalar henüz ödenmemiştir.
+B2|Please confirm the balance as of 31 December.|31 Aralık itibarıyla bakiyeyi teyit ediniz lütfen.
+B2|Our balance does not match yours; the difference is EUR 1,250.|Bakiyemiz sizinkiyle uyuşmuyor; fark 1.250 EUR.
+B2|We will issue a credit note for the returned goods.|İade edilen mallar için alacak dekontu (iade faturası) düzenleyeceğiz.|We will issue a credit memo for the returned goods.
+B2|Could we agree on a payment plan?|Bir ödeme planı üzerinde anlaşabilir miyiz?
+B2|The amount will be offset against our receivable.|Tutar alacağımızdan mahsup edilecektir.
+B2|We have paid the invoice twice by mistake.|Faturayı yanlışlıkla iki kez ödedik.
+B2|Could you refund the overpayment to our account?|Fazla ödenen tutarı hesabımıza iade edebilir misiniz?
+B2|The payment has been scheduled for next Tuesday.|Ödeme gelecek salı için planlandı.
+B2|The payment is on hold until we receive the corrected invoice.|Düzeltilmiş fatura gelene kadar ödeme bekletiliyor.
+B2|Please note that a late payment fee may apply.|Gecikme bedeli uygulanabileceğini hatırlatırız.
+C1|Unless payment is received within seven days, we will have to take further action.|Yedi gün içinde ödeme yapılmazsa ek adımlar atmak zorunda kalacağız.
+C1|We would appreciate it if you could settle the outstanding balance without further delay.|Açık bakiyeyi daha fazla gecikmeden kapatırsanız memnun oluruz.
+#V
+B1|The auditors have requested the following documents.|Denetçiler aşağıdaki belgeleri talep etti.
+B1|The SAF-T file has been submitted to ANAF.|SAF-T dosyası ANAF'a gönderildi.
+B1|The e-invoice was rejected by the system.|E-fatura sistem tarafından reddedildi.
+B2|Please provide supporting documents for these entries.|Lütfen bu kayıtlar için destekleyici belgeleri iletiniz.
+B2|This expense is not deductible for tax purposes.|Bu gider vergi açısından indirilemez.
+B2|The VAT return must be filed by the statutory deadline.|KDV beyannamesi yasal süresi içinde verilmelidir.
+B2|The reverse charge mechanism applies to this transaction.|Bu işlemde tersine vergilendirme (reverse charge) uygulanır.
+B2|This supply is exempt from VAT with the right of deduction.|Bu teslim, indirim hakkı tanınan KDV istisnası kapsamındadır.
+B2|We need a tax residency certificate to apply the treaty rate.|Anlaşma oranını uygulamak için mukimlik belgesi gerekiyor.
+B2|The tax audit covers the years 2023 and 2024.|Vergi incelemesi 2023 ve 2024 yıllarını kapsıyor.
+B2|Please match the invoice against the purchase order and delivery note.|Faturayı satın alma siparişi ve irsaliye ile eşleştiriniz lütfen.
+B2|This item needs to be verified before we draw a conclusion.|Bu kalemin, sonuca varmadan önce doğrulanması gerekiyor.
+B2|Could you check the customer's VAT number in VIES?|Müşterinin KDV numarasını VIES'te kontrol edebilir misiniz?
+B2|The invoice does not show our VAT number.|Faturada KDV numaramız yer almıyor.
+B2|We have corrected the error and resubmitted the declaration.|Hatayı düzelttik ve beyannameyi yeniden gönderdik.
+B2|Please send us the invoice in XML format as well.|Lütfen faturayı XML formatında da gönderiniz.
+C1|Transfer pricing documentation must be prepared every year.|Transfer fiyatlandırması dokümantasyonu her yıl hazırlanmalıdır.
+C1|We are requesting an extension of the filing deadline.|Beyan süresinin uzatılmasını talep ediyoruz.
+C1|The tax authority has issued an assessment notice.|Vergi idaresi tarhiyat ihbarnamesi düzenledi.
+C1|We disagree with the findings and will file an objection.|Bulgulara katılmıyoruz ve itiraz edeceğiz.
+C1|Based on the documents provided, the transaction qualifies as an intra-Community supply.|Sunulan belgelere göre işlem topluluk içi teslim niteliğindedir.
+C1|The discrepancy between the SAF-T file and the VAT return has been explained.|SAF-T dosyası ile KDV beyannamesi arasındaki fark açıklanmıştır.
+#H
+B1|Salaries will be paid on the 10th of each month.|Maaşlar her ayın 10'unda ödenecektir.
+B1|Please submit your timesheets by Friday.|Lütfen puantajlarınızı cumaya kadar teslim edin.
+B1|How many days of annual leave do I have left?|Kaç gün yıllık iznim kaldı?|How many vacation days do I have left?
+B1|I'd like to request three days off next week.|Gelecek hafta üç gün izin talep etmek istiyorum.
+B1|He is on sick leave until Wednesday.|Çarşambaya kadar hastalık izninde.
+B1|Overtime must be approved in advance.|Fazla mesai önceden onaylanmalıdır.
+B1|The new employee starts on the first of the month.|Yeni çalışan ayın birinde başlıyor.
+B2|Your payslip is available in the HR portal.|Maaş bordronuz İK portalında mevcut.|Your pay stub is available in the HR portal.
+B2|The gross salary includes all allowances.|Brüt ücret tüm ödenekleri kapsar.
+B2|Social security contributions are calculated on the gross salary.|SGK primleri brüt ücret üzerinden hesaplanır.
+B2|The overtime hours will be included in this month's payroll.|Fazla mesai saatleri bu ayın bordrosuna dahil edilecek.
+B2|The employment contract has been registered in REVISAL.|İş sözleşmesi REVISAL'e kaydedildi.
+B2|Please send me a copy of your residence permit.|Lütfen ikamet izninizin bir kopyasını gönderin.
+B2|The notice period is four weeks.|İhbar süresi dört haftadır.
+B2|Severance pay will be calculated on the last gross salary.|Kıdem tazminatı son brüt ücret üzerinden hesaplanacak.
+B2|There is an error in this month's payroll.|Bu ayın bordrosunda bir hata var.
+C1|The expatriate allowance is subject to income tax.|Expat ödeneği gelir vergisine tabidir.
+C1|We need an A1 certificate for the employees posted to Romania.|Romanya'ya görevlendirilen çalışanlar için A1 belgesi gerekiyor.
+C1|Under the social security agreement, contributions are paid in the home country.|Sosyal güvenlik sözleşmesi uyarınca primler asıl ülkede ödenir.
+C1|The salary will be grossed up so that the employee receives the agreed net amount.|Çalışanın anlaşılan net tutarı alması için ücret brüte çevrilecek.
+#K
+B1|Could you send me the bank statement for last month?|Geçen aya ait banka ekstresini gönderebilir misiniz?
+B1|The transfer should arrive within two working days.|Havale iki iş günü içinde ulaşmalı.|The transfer should arrive within two business days.
+B1|What exchange rate did you use?|Hangi döviz kurunu kullandınız?
+B2|Please find our bank details below.|Banka bilgilerimiz aşağıdadır.
+B2|The funds have not been credited to our account yet.|Tutar henüz hesabımıza geçmedi.
+B2|The bank charged a commission on the transfer.|Banka havale için komisyon kesti.
+B2|Please send us the SWIFT confirmation (MT103).|Lütfen SWIFT dekontunu (MT103) gönderiniz.
+B2|We need to renew the letter of guarantee before it expires.|Teminat mektubunu süresi dolmadan yenilememiz gerekiyor.
+B2|The loan instalment is due on the 15th.|Kredi taksitinin vadesi ayın 15'i.|The loan installment is due on the 15th.
+B2|Our cash position is sufficient for next month's payments.|Nakit pozisyonumuz gelecek ayın ödemeleri için yeterli.
+B2|We should convert part of the balance into euros.|Bakiyenin bir kısmını avroya çevirmeliyiz.
+C1|Export proceeds must be brought to Turkey within the legal period.|İhracat bedelinin yasal süre içinde Türkiye'ye getirilmesi gerekir.
+C1|We are considering a forward contract to hedge the currency risk.|Kur riskinden korunmak için forward sözleşmesi değerlendiriyoruz.
+C1|The bank requires updated financial statements to review the credit line.|Banka, kredi limitini gözden geçirmek için güncel finansal tablolar istiyor.
+C1|The dividend will be transferred after the withholding tax is paid.|Kâr payı, stopaj ödendikten sonra transfer edilecek.
+#B
+B1|Sales are in line with the forecast.|Satışlar tahminle uyumlu.
+B1|We are 5% over budget this quarter.|Bu çeyrekte bütçenin %5 üzerindeyiz.
+B1|Costs went up by 8% compared to last month.|Maliyetler geçen aya göre %8 arttı.
+B1|Revenue fell slightly in September.|Eylülde hasılat hafifçe düştü.
+B2|Gross margin decreased due to higher raw material prices.|Brüt marj, artan hammadde fiyatları nedeniyle düştü.
+B2|Year to date, revenue has increased by 12%.|Yılbaşından bu yana hasılat %12 arttı.
+B2|Compared to the same period last year, costs are lower.|Geçen yılın aynı dönemine göre maliyetler daha düşük.
+B2|We need to cut costs in the second half of the year.|Yılın ikinci yarısında maliyetleri düşürmemiz gerekiyor.
+B2|Please prepare a cash flow forecast for the next 13 weeks.|Lütfen önümüzdeki 13 hafta için nakit akış tahmini hazırlayın.
+B2|The main driver of the variance is the exchange rate.|Sapmanın ana nedeni döviz kurudur.
+B2|This is a one-off item and will not recur.|Bu tek seferlik bir kalemdir, tekrarlanmayacaktır.
+B2|The budget for next year has been approved by the board.|Gelecek yılın bütçesi yönetim kurulunca onaylandı.
+B2|Energy costs account for 15% of total production costs.|Enerji giderleri toplam üretim maliyetinin %15'ini oluşturuyor.
+B2|The unit cost has risen sharply since July.|Birim maliyet temmuzdan bu yana keskin biçimde arttı.
+B2|We have reached the break-even point this month.|Bu ay başa baş noktasına ulaştık.
+B2|The chart shows sales by country in euros.|Grafik, ülkelere göre satışları avro cinsinden gösteriyor.
+C1|We expect the margin to recover in the fourth quarter.|Marjın dördüncü çeyrekte toparlanmasını bekliyoruz.
+C1|Excluding one-off items, operating profit remained stable.|Tek seferlik kalemler hariç esas faaliyet kârı istikrarlı kaldı.
+C1|The forecast assumes an average exchange rate of 5.0 lei to the euro.|Tahmin, ortalama 5,0 lei/avro kuru varsayımına dayanıyor.
+C1|We should revise the forecast in light of the latest figures.|Son rakamlar ışığında tahmini revize etmeliyiz.
+#D
+B1|The shipment is being held at customs.|Sevkiyat gümrükte bekletiliyor.
+B1|When will the goods be delivered?|Mallar ne zaman teslim edilecek?
+B2|Please send us the A.TR certificate together with the invoice.|Lütfen A.TR belgesini faturayla birlikte gönderiniz.
+B2|The goods are delivered on DAP terms.|Mallar DAP teslim şekliyle teslim ediliyor.
+B2|Could you provide the HS codes for these products?|Bu ürünlerin GTİP kodlarını iletebilir misiniz?
+B2|Please send the signed CMR as proof of delivery.|Teslim kanıtı olarak imzalı CMR'yi gönderiniz lütfen.
+B2|Our EORI number is stated on the invoice.|EORI numaramız faturada yer alıyor.
+B2|The customs declaration has been closed.|Gümrük beyannamesi kapatıldı.
+B2|The truck crossed the border this morning.|Tır bu sabah sınırı geçti.
+B2|Who will bear the freight costs?|Navlun bedelini kim karşılayacak?
+B2|The goods were damaged during transport.|Mallar taşıma sırasında hasar gördü.
+C1|The customs value includes freight and insurance up to the EU border.|Gümrük kıymeti, AB sınırına kadar olan navlun ve sigortayı içerir.
+C1|The goods qualify for preferential treatment under the customs union.|Mallar gümrük birliği kapsamında tercihli muameleden yararlanır.
+C1|The Intrastat declaration must reflect the actual date of dispatch.|Intrastat beyanı fiili sevk tarihini yansıtmalıdır.
+#N
+B1|Would it be possible to extend the deadline?|Son tarihi uzatmak mümkün olur mu?
+B1|Could you give us a better price?|Daha iyi bir fiyat verebilir misiniz?
+B1|That sounds reasonable.|Makul görünüyor.
+B1|Let me think about it and get back to you.|Biraz düşünüp size döneyim.
+B2|We can offer a 2% discount for early payment.|Erken ödeme için %2 iskonto sunabiliriz.
+B2|I'm afraid we can't accept these terms.|Maalesef bu şartları kabul edemiyoruz.
+B2|What if we split the cost fifty-fifty?|Maliyeti yarı yarıya paylaşsak nasıl olur?
+B2|Is there any flexibility on the payment terms?|Ödeme koşullarında esneklik var mı?
+B2|We're willing to compromise on the delivery date.|Teslim tarihinde uzlaşmaya hazırız.
+B2|That's our final offer.|Bu son teklifimiz.
+B2|Could you put that in writing?|Bunu yazılı olarak iletebilir misiniz?
+B2|I'll need to check with my manager first.|Önce müdürüme danışmam gerekiyor.
+C1|We could consider a longer contract in return for a lower rate.|Daha düşük oran karşılığında daha uzun bir sözleşmeyi değerlendirebiliriz.
+C1|I'm sure we can find a solution that works for both sides.|Eminim her iki taraf için de uygun bir çözüm bulabiliriz.
+C1|With all due respect, the figures don't support that conclusion.|Saygısızlık etmek istemem ama rakamlar bu sonucu desteklemiyor.
+#d1
+A1|Good morning! How are you?|Günaydın! Nasılsınız?
+A1|I'm fine, thanks. And you?|İyiyim, teşekkürler. Ya siz?
+A1|Nice to meet you.|Tanıştığımıza memnun oldum.
+A1|My name is Hasan. I work in finance.|Adım Hasan. Finans alanında çalışıyorum.
+A1|Where are you from?|Nerelisiniz?
+A1|I'm from Turkey, but I live in Romania.|Türkiyeliyim ama Romanya'da yaşıyorum.
+A1|See you tomorrow.|Yarın görüşürüz.
+A1|Have a nice weekend!|İyi hafta sonları!
+A2|How was your weekend?|Hafta sonunuz nasıl geçti?
+A2|Long time no see!|Uzun zamandır görüşemedik!
+A2|Let me introduce you to my colleague.|Sizi iş arkadaşımla tanıştırayım.
+A2|What do you do?|Ne iş yapıyorsunuz?
+A2|How long have you been working here?|Ne zamandır burada çalışıyorsunuz?
+A2|Take care!|Kendinize iyi bakın!
+B1|It was a pleasure talking to you.|Sizinle konuşmak bir zevkti.
+B1|Please say hello to the team for me.|Ekibe benden selam söyleyin.
+B1|I've heard a lot about you.|Sizden çok bahsedildiğini duydum.
+B1|Let's keep in touch.|İletişimde kalalım.
+#d2
+A1|Where is the meeting room?|Toplantı odası nerede?
+A1|Can I use your pen?|Kaleminizi kullanabilir miyim?
+A1|The printer isn't working.|Yazıcı çalışmıyor.
+A2|What's the Wi-Fi password?|Wi-Fi şifresi nedir?
+A2|I'm working from home today.|Bugün evden çalışıyorum.
+A2|I'll be back in five minutes.|Beş dakika içinde dönerim.
+A2|I'm going for lunch. Do you want to join me?|Öğle yemeğine çıkıyorum. Bana katılmak ister misiniz?
+A2|Is this seat free?|Bu koltuk boş mu?
+A2|My computer is very slow today.|Bilgisayarım bugün çok yavaş.
+B1|I'm a bit busy at the moment. Can we talk later?|Şu an biraz meşgulüm. Sonra konuşabilir miyiz?
+B1|I'm snowed under with work this week.|Bu hafta işten başımı kaşıyacak vaktim yok.
+B1|Could you give me a hand with this?|Bu konuda bana yardım edebilir misiniz?
+B1|I'll take care of it.|Ben hallederim.
+B1|I'm on it.|Hemen ilgileniyorum.
+B1|It's not my day today.|Bugün benim günüm değil.
+B1|I need to leave early today.|Bugün erken çıkmam gerekiyor.
+B2|Let me know if anything comes up.|Bir şey çıkarsa bana haber verin.
+B2|I'll keep you posted.|Sizi gelişmelerden haberdar ederim.
+B2|It slipped my mind.|Aklımdan çıkmış.
+B2|Let's call it a day.|Bugünlük bu kadar yeter.
+#d3
+A2|Could you help me, please?|Bana yardım eder misiniz lütfen?
+A2|Can I ask you something?|Size bir şey sorabilir miyim?
+A2|Would you like a coffee?|Kahve ister misiniz?
+A2|Yes, please. / No, thank you.|Evet, lütfen. / Hayır, teşekkür ederim.
+B1|Would you mind closing the window?|Pencereyi kapatır mısınız?
+B1|Do you mind if I open the window?|Pencereyi açmamın sakıncası var mı?
+B1|Is it OK if I leave a bit earlier today?|Bugün biraz erken çıksam olur mu?
+B1|Could you do me a favour?|Bana bir iyilik yapar mısınız?|Could you do me a favor?
+B1|Let me know if you need anything.|Bir şeye ihtiyacınız olursa söyleyin.
+B1|Shall I send it to you now?|Size şimdi göndereyim mi?
+B1|Would you like me to check it?|Kontrol etmemi ister misiniz?
+B2|I was wondering if you could help me with this report.|Bu raporda bana yardım edip edemeyeceğinizi merak ediyordum.
+B2|Would it be possible to meet on Thursday instead?|Bunun yerine perşembe buluşmak mümkün olur mu?
+B2|I'd rather not, if you don't mind.|Sakıncası yoksa yapmamayı tercih ederim.
+B2|Feel free to call me any time.|İstediğiniz zaman beni arayabilirsiniz.
+#d4
+A2|I think so.|Sanırım öyle.
+A2|I don't think so.|Sanmıyorum.
+A2|I agree with you.|Size katılıyorum.
+A2|That's a good idea.|Bu iyi bir fikir.
+B1|In my opinion, we should wait.|Bence beklemeliyiz.
+B1|I'm not sure about that.|Bundan emin değilim.
+B1|You have a point.|Haklısınız, bir noktada.
+B1|I see what you mean.|Ne demek istediğinizi anlıyorum.
+B1|That's exactly what I was thinking.|Ben de tam olarak bunu düşünüyordum.
+B1|I'm afraid I disagree.|Korkarım katılmıyorum.
+B2|I see your point, but I'm not convinced.|Görüşünüzü anlıyorum ama ikna olmadım.
+B2|It depends on the circumstances.|Koşullara bağlı.
+B2|To be honest, I think it's too risky.|Açıkçası bence çok riskli.
+B2|That's not quite what I meant.|Tam olarak demek istediğim bu değildi.
+B2|Let's agree to disagree.|Farklı düşündüğümüzü kabul edelim.
+C1|I couldn't agree more.|Size tamamen katılıyorum.
+C1|I'd go along with that, up to a point.|Belli bir noktaya kadar buna katılırım.
+#d5
+A1|Thank you very much.|Çok teşekkür ederim.
+A1|You're welcome.|Rica ederim.
+A1|Sorry, I'm late.|Özür dilerim, geç kaldım.
+A2|No problem.|Sorun değil.
+A2|Don't worry about it.|Hiç dert etmeyin.
+A2|Congratulations!|Tebrikler!
+A2|Well done!|Aferin! / Harika iş!
+B1|Thanks a lot for your help.|Yardımınız için çok teşekkürler.
+B1|I really appreciate it.|Gerçekten minnettarım.
+B1|Sorry for the inconvenience.|Rahatsızlık için özür dileriz.
+B1|It was my fault.|Benim hatamdı.
+B1|That's very kind of you.|Çok naziksiniz.
+B1|What a pity!|Ne yazık!
+B1|That's great news!|Harika bir haber!
+B2|I owe you one.|Size bir borcum var.
+B2|No hard feelings.|Kırgınlık yok.
+B2|I'm sorry to hear that.|Bunu duyduğuma üzüldüm.
+#d6
+A1|What time is it?|Saat kaç?
+A1|It's half past nine.|Saat dokuz buçuk.
+A2|What time does the meeting start?|Toplantı saat kaçta başlıyor?
+A2|Are you free on Tuesday afternoon?|Salı öğleden sonra müsait misiniz?
+A2|Let's meet at ten o'clock.|Saat onda buluşalım.
+A2|I'm sorry, I can't make it on Monday.|Kusura bakmayın, pazartesi gelemiyorum.
+A2|How about next week?|Gelecek hafta nasıl olur?
+B1|Can we reschedule the meeting?|Toplantıyı başka bir zamana alabilir miyiz?
+B1|I'm running a bit late.|Biraz gecikiyorum.
+B1|I'll be there in ten minutes.|On dakika içinde orada olurum.
+B1|The deadline is the end of the month.|Son tarih ay sonu.
+B1|Does Thursday work for you?|Perşembe sizin için uygun mu?
+B2|Let's pencil it in for Friday.|Şimdilik cumaya not edelim.
+B2|I'm fully booked this week.|Bu hafta tamamen doluyum.
+B2|We're behind schedule.|Programın gerisindeyiz.
+B2|We're ahead of schedule.|Programın önündeyiz.
+#d7
+A1|I'm hungry. Let's get something to eat.|Acıktım. Bir şeyler yiyelim.
+A1|Can I have the menu, please?|Menüyü alabilir miyim lütfen?
+A2|What would you recommend?|Ne tavsiye edersiniz?
+A2|Can we have the bill, please?|Hesabı alabilir miyiz lütfen?|Can we have the check, please?
+A2|This one's on me.|Bu benden.
+A2|Cheers!|Şerefe!
+B1|Shall we split the bill?|Hesabı bölüşelim mi?|Shall we split the check?
+B1|Are you coming to the team dinner on Friday?|Cuma günkü ekip yemeğine geliyor musunuz?
+B1|Do you have any plans for the weekend?|Hafta sonu için planınız var mı?
+B1|I'm a vegetarian.|Vejetaryenim.
+B2|Help yourself.|Buyurun, kendiniz alın.
+B2|I'm full, thank you.|Doydum, teşekkür ederim.
+#d8
+A1|Where is the train station?|Tren istasyonu nerede?
+A1|How much is a ticket to Bucharest?|Bükreş'e bilet ne kadar?
+A2|I'd like to book a room for two nights.|İki gecelik oda ayırtmak istiyorum.
+A2|What time is check-out?|Çıkış saati kaçta?
+A2|My flight has been delayed.|Uçuşum ertelendi.
+A2|Could you call a taxi for me, please?|Bana bir taksi çağırabilir misiniz lütfen?
+B1|Is breakfast included?|Kahvaltı dahil mi?
+B1|I'm here on business.|Burada iş için bulunuyorum.
+B1|Could I get a receipt for the taxi?|Taksi için fiş alabilir miyim?
+B1|The traffic is terrible this morning.|Bu sabah trafik berbat.
+B2|I missed my connecting flight.|Aktarmalı uçuşumu kaçırdım.
+B2|My luggage hasn't arrived.|Bagajım gelmedi.
+#c_if
+A2|If you have any questions, please call me.|Sorunuz olursa lütfen beni arayın.
+A2|If it rains, we'll stay in the office.|Yağmur yağarsa ofiste kalırız.
+B1|If the invoice is correct, we will pay it tomorrow.|Fatura doğruysa yarın ödeyeceğiz.
+B1|If you heat water to 100 degrees, it boils.|Suyu 100 dereceye ısıtırsanız kaynar.
+B1|If I had more time, I would learn Romanian.|Daha çok vaktim olsaydı Romence öğrenirdim.
+B2|If we had received the documents earlier, we would have filed on time.|Belgeleri daha önce alsaydık zamanında beyan ederdik.
+B2|If you could send the file by noon, that would be great.|Dosyayı öğlene kadar gönderebilirseniz harika olur.
+C1|Should you need any further information, please do not hesitate to contact us.|Ek bilgiye ihtiyaç duymanız halinde bizimle iletişime geçmekten çekinmeyin.
+#c_when
+A2|When I arrive at the office, I check my emails.|Ofise vardığımda e-postalarımı kontrol ederim.
+A2|Call me when you are ready.|Hazır olduğunuzda beni arayın.
+B1|When the payment arrives, I will let you know.|Ödeme geldiğinde size haber vereceğim.
+B1|When I was in Istanbul, I worked for a bank.|İstanbul'dayken bir bankada çalışıyordum.
+B1|When will the report be ready?|Rapor ne zaman hazır olur?
+B2|When you consider the exchange rate, the result is not bad.|Kuru dikkate aldığınızda sonuç kötü değil.
+B2|I was about to leave when the phone rang.|Tam çıkmak üzereydim ki telefon çaldı.
+#c_while
+B1|While I was preparing the report, the system crashed.|Raporu hazırlarken sistem çöktü.
+B1|Please wait while I check the figures.|Rakamları kontrol ederken lütfen bekleyin.
+B1|I listen to podcasts while I drive.|Araba sürerken podcast dinlerim.
+B2|While sales increased, profits fell.|Satışlar artarken kârlar düştü.
+B2|While I understand your concern, we have to follow the procedure.|Endişenizi anlamakla birlikte prosedüre uymak zorundayız.
+B2|Could you check the invoices while you're at it?|Hazır başlamışken faturaları da kontrol edebilir misiniz?
+C1|While some costs are fixed, others vary with production.|Bazı maliyetler sabitken diğerleri üretime göre değişir.
+#c_whenever
+B1|Whenever I travel, I take my laptop.|Ne zaman seyahat etsem dizüstü bilgisayarımı yanıma alırım.
+B1|Call me whenever you want.|İstediğiniz zaman beni arayın.
+B1|Whenever there is a problem, he calls me.|Ne zaman bir sorun olsa beni arar.
+B2|Whenever a new invoice arrives, it must be registered in the system.|Her yeni fatura geldiğinde sisteme kaydedilmelidir.
+B2|Feel free to ask whenever something is unclear.|Bir şey belirsiz olduğunda çekinmeden sorun.
+B2|Whenever possible, please pay by bank transfer.|Mümkün olduğunda lütfen havaleyle ödeyin.
+C1|Whenever the exchange rate fluctuates, our margins are affected.|Kur her dalgalandığında marjlarımız etkileniyor.
+#c_however
+B1|The report is ready. However, some figures are missing.|Rapor hazır. Ancak bazı rakamlar eksik.
+B1|We sent the invoice. However, we haven't been paid yet.|Faturayı gönderdik. Ancak henüz ödeme almadık.
+B1|I'd like to help. However, I'm very busy today.|Yardım etmek isterim. Ancak bugün çok meşgulüm.
+B2|Sales grew by 10%; however, costs grew even faster.|Satışlar %10 büyüdü; ancak maliyetler daha da hızlı arttı.
+B2|The deadline is tight. We will, however, do our best.|Süre kısıtlı. Yine de elimizden geleni yapacağız.
+B2|However hard we try, we can't reduce this cost.|Ne kadar uğraşırsak uğraşalım bu maliyeti düşüremiyoruz.
+C1|However you look at it, the decision was wrong.|Nasıl bakarsanız bakın, karar yanlıştı.
+#c_until
+A2|Please wait until I call you.|Ben sizi arayana kadar lütfen bekleyin.
+A2|I'll be in Bucharest until Friday.|Cumaya kadar Bükreş'teyim.
+B1|We can't close the month until all invoices are booked.|Tüm faturalar kaydedilene kadar ayı kapatamayız.
+B1|Don't send the payment until I confirm the amount.|Tutarı ben teyit edene kadar ödemeyi göndermeyin.
+B1|The office is open until 6 p.m.|Ofis akşam 6'ya kadar açık.
+B2|It wasn't until we checked the bank statement that we found the error.|Hatayı ancak banka ekstresini kontrol edince bulduk.
+B2|Until further notice, all payments must be approved by the CFO.|Aksi bildirilene kadar tüm ödemeler CFO onayına tabidir.
+#c_till
+A2|I'll wait till you finish.|Siz bitirene kadar beklerim.
+A2|See you till Monday!|Pazartesiye kadar hoşça kalın!
+B1|We worked till midnight to finish the report.|Raporu bitirmek için gece yarısına kadar çalıştık.
+B1|Don't sign anything till you've read it.|Okuyana kadar hiçbir şey imzalamayın.
+B1|The shop is open from nine till five.|Dükkân dokuzdan beşe kadar açık.
+B2|I didn't realise the mistake till it was too late.|Hatayı iş işten geçene kadar fark etmedim.|I didn't realize the mistake till it was too late.
+#c_as
+B1|As I said in my email, the meeting is on Tuesday.|E-postamda belirttiğim gibi toplantı salı günü.
+B1|As you know, the deadline is next week.|Bildiğiniz gibi son tarih gelecek hafta.
+B1|As it was late, we decided to go home.|Geç olduğu için eve gitmeye karar verdik.
+B1|As requested, please find the documents attached.|Talep ettiğiniz üzere belgeler ektedir.
+B2|As the month progressed, sales improved.|Ay ilerledikçe satışlar iyileşti.
+B2|As far as I know, the payment was made yesterday.|Bildiğim kadarıyla ödeme dün yapıldı.
+B2|As agreed, we will invoice you at the end of the month.|Anlaştığımız gibi ay sonunda size fatura keseceğiz.
+C1|As things stand, we will not meet the budget.|Mevcut durumda bütçeyi tutturamayacağız.
+#c_assoon
+B1|I'll call you as soon as I get the results.|Sonuçları alır almaz sizi ararım.
+B1|Please reply as soon as possible.|Lütfen en kısa sürede yanıt verin.
+B1|As soon as the payment arrives, we will ship the goods.|Ödeme gelir gelmez malları sevk edeceğiz.
+B1|As soon as I got home, I checked my email.|Eve gelir gelmez e-postamı kontrol ettim.
+B2|We'll start the audit as soon as the books are closed.|Defterler kapanır kapanmaz denetime başlayacağız.
+B2|As soon as you have reviewed the draft, please let me know.|Taslağı inceler incelemez bana haber verin lütfen.
+#c_aslong
+B1|You can use my computer as long as you are careful.|Dikkatli olduğunuz sürece bilgisayarımı kullanabilirsiniz.
+B1|As long as we finish on time, it's fine.|Zamanında bitirdiğimiz sürece sorun yok.
+B1|I'll stay as long as you need me.|Bana ihtiyacınız olduğu sürece kalırım.
+B2|As long as the invoice is correct, we will pay within 30 days.|Fatura doğru olduğu sürece 30 gün içinde öderiz.
+B2|You may work from home as long as your manager approves it.|Müdürünüz onayladığı sürece evden çalışabilirsiniz.
+C1|As long as the exchange rate remains stable, our margins should hold.|Kur istikrarlı kaldığı sürece marjlarımız korunmalı.
+#c_unless
+B1|We won't pay unless we receive the original invoice.|Orijinal faturayı almadıkça ödeme yapmayacağız.
+B1|I'll come tomorrow unless it rains.|Yağmur yağmazsa yarın gelirim.
+B1|Unless you hurry, you'll miss the train.|Acele etmezseniz treni kaçıracaksınız.
+B2|Don't call me unless it's urgent.|Acil olmadıkça beni aramayın.
+B2|Unless otherwise stated, all amounts are in euros.|Aksi belirtilmedikçe tüm tutarlar avro cinsindendir.
+B2|The offer is valid for 30 days unless cancelled in writing.|Teklif, yazılı olarak iptal edilmedikçe 30 gün geçerlidir.|The offer is valid for 30 days unless canceled in writing.
+C1|Unless we take action now, the problem will only get worse.|Şimdi harekete geçmezsek sorun daha da kötüleşecek.
+#c_although
+B1|Although it was late, she was still working.|Geç olmasına rağmen hâlâ çalışıyordu.
+B1|Although the meeting was long, it was useful.|Toplantı uzun olmasına rağmen faydalıydı.
+B1|Although I studied English at school, I can't speak it well.|Okulda İngilizce okumama rağmen iyi konuşamıyorum.
+B2|Although sales increased, profit decreased.|Satışlar artmasına rağmen kâr azaldı.
+B2|The project was a success, although it went over budget.|Bütçeyi aşmasına rağmen proje başarılı oldu.
+B2|The plan is good, though it needs some changes.|Plan iyi, gerçi bazı değişiklikler gerekiyor.
+C1|Although not legally required, the disclosure is recommended.|Yasal olarak zorunlu olmasa da bu açıklama tavsiye edilir.
+#c_eventhough
+B2|Even though I was tired, I finished the report.|Yorgun olduğum halde raporu bitirdim.
+B2|Even though we sent three reminders, they haven't paid.|Üç hatırlatma göndermemize rağmen ödemediler.
+B2|She came to work even though she was ill.|Hasta olduğu halde işe geldi.|She came to work even though she was sick.
+B2|Even though the figures look good, we must be careful.|Rakamlar iyi görünse de dikkatli olmalıyız.
+B2|Even though it's expensive, it's worth it.|Pahalı olsa da değer.
+C1|Even though the contract has expired, both parties continue to perform it.|Sözleşmenin süresi dolmuş olsa da taraflar ifaya devam ediyor.
+#c_since
+B1|I have worked here since 2019.|2019'dan beri burada çalışıyorum.
+B1|Since it's Friday, let's finish early.|Cuma olduğuna göre erken bitirelim.
+B1|It has been a long time since we last met.|En son görüştüğümüzden bu yana uzun zaman geçti.
+B2|Since you are the expert, what do you think?|Uzman siz olduğunuza göre ne düşünüyorsunuz?
+B2|Prices have risen sharply since the beginning of the year.|Yılbaşından bu yana fiyatlar keskin biçimde arttı.
+B2|Since the invoice was issued in error, we will cancel it.|Fatura hatalı düzenlendiği için iptal edeceğiz.
+C1|Ever since the new system was introduced, closing has been faster.|Yeni sistem devreye girdiğinden beri kapanış daha hızlı.
+#c_because
+A2|I'm late because of the traffic.|Trafik yüzünden geç kaldım.
+A2|I can't come because I'm ill.|Hasta olduğum için gelemiyorum.|I can't come because I'm sick.
+B1|We changed the supplier because their prices were too high.|Fiyatları çok yüksek olduğu için tedarikçiyi değiştirdik.
+B1|The payment was delayed because the invoice was incorrect.|Fatura hatalı olduğu için ödeme gecikti.
+B1|Because of the holiday, the office will be closed on Monday.|Tatil nedeniyle ofis pazartesi kapalı olacak.
+B2|Just because something is cheap doesn't mean it's good value.|Bir şeyin ucuz olması iyi değer olduğu anlamına gelmez.
+#c_sothat
+B1|I left early so that I could catch the train.|Treni yakalayabilmek için erken çıktım.
+B1|Please speak slowly so that everyone can understand.|Herkes anlayabilsin diye lütfen yavaş konuşun.
+B2|We sent the invoice early so that they could pay on time.|Zamanında ödeyebilsinler diye faturayı erken gönderdik.
+B2|I'll write it down so that I don't forget.|Unutmayayım diye not alacağım.
+B2|Save the file in the shared folder so that the whole team can access it.|Tüm ekip erişebilsin diye dosyayı ortak klasöre kaydedin.
+C1|The procedure was simplified so that errors would be less likely.|Hata olasılığı azalsın diye prosedür sadeleştirildi.
+#c_incase
+B2|Take an umbrella in case it rains.|Yağmur yağar diye şemsiye alın.
+B2|I'll give you my number in case you need anything.|Bir şeye ihtiyacınız olur diye numaramı vereyim.
+B2|Keep a copy of the invoice in case the tax office asks for it.|Vergi dairesi ister diye faturanın bir kopyasını saklayın.
+B2|We booked an earlier flight in case there are delays.|Gecikme olur diye daha erken bir uçuş ayırttık.
+B2|In case of emergency, call this number.|Acil durumda bu numarayı arayın.
+C1|Please back up the data in case the system fails.|Sistem çöker diye lütfen verileri yedekleyin.
+#c_whereas
+B2|I prefer email, whereas my boss prefers phone calls.|Ben e-postayı tercih ederim, oysa patronum telefonu tercih ediyor.
+B2|Sales in Romania grew, whereas sales in Turkey fell.|Romanya'da satışlar büyürken Türkiye'de düştü.
+B2|Fixed costs stay the same, whereas variable costs change with volume.|Sabit maliyetler aynı kalırken değişken maliyetler hacimle değişir.
+C1|Whereas the old system required manual entries, the new one is automated.|Eski sistem manuel kayıt gerektirirken yenisi otomatik.
+C1|Whereas the parties wish to cooperate, they hereby agree as follows.|Taraflar işbirliği yapmak istediğinden, işbu belgeyle aşağıdaki şekilde anlaşmışlardır.
+#c_once
+B1|Once you finish, please send me the file.|Bitirdiğinizde lütfen dosyayı bana gönderin.
+B1|Once the contract is signed, we can start.|Sözleşme imzalandığında başlayabiliriz.
+B2|Once the goods have been received, the invoice will be paid.|Mallar teslim alındıktan sonra fatura ödenecek.
+B2|Once you get used to it, the system is easy to use.|Alıştıktan sonra sistemi kullanmak kolay.
+B2|Once approved, the budget cannot be changed.|Bütçe bir kez onaylandıktan sonra değiştirilemez.
+C1|Once all adjustments have been posted, we will issue the final report.|Tüm düzeltmeler kaydedildikten sonra nihai raporu yayımlayacağız.
+#c_before
+A2|Please call me before you leave.|Çıkmadan önce lütfen beni arayın.
+A2|I always have a coffee before I start work.|İşe başlamadan önce hep bir kahve içerim.
+B1|Check the figures before you send the report.|Raporu göndermeden önce rakamları kontrol edin.
+B1|We need to pay the VAT before the 25th.|KDV'yi ayın 25'inden önce ödememiz gerekiyor.
+B2|Before signing the contract, please read the terms carefully.|Sözleşmeyi imzalamadan önce şartları dikkatle okuyun.
+B2|It won't be long before the auditors arrive.|Denetçilerin gelmesine çok kalmadı.
+#c_after
+A2|After the meeting, I'll send you the notes.|Toplantıdan sonra size notları göndereceğim.
+A2|We usually go for a walk after lunch.|Öğle yemeğinden sonra genelde yürüyüşe çıkarız.
+B1|After I checked the invoice, I found an error.|Faturayı kontrol ettikten sonra bir hata buldum.
+B1|After closing the month, we prepare the reports.|Ayı kapattıktan sonra raporları hazırlarız.
+B2|After the merger was completed, the company changed its name.|Birleşme tamamlandıktan sonra şirket adını değiştirdi.
+B2|Shortly after we sent the reminder, they paid the invoice.|Hatırlatmayı göndermemizden kısa süre sonra faturayı ödediler.

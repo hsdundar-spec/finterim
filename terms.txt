@@ -1,0 +1,1224 @@
+#G
+A2|Invoice|Fatura
+A2|Payment|Ödeme
+A2|Account|Hesap
+A2|Balance|Bakiye
+A2|Amount|Tutar
+A2|Total|Toplam||grand total
+A2|Expense|Gider||cost
+A2|Income|Gelir
+A2|Cash|Nakit / Kasa
+A2|Price|Fiyat
+A2|Discount|İndirim / İskonto
+A2|Receipt|Makbuz / Fiş
+A2|Due date|Vade tarihi
+A2|Order|Sipariş
+B1|Profit|Kâr
+B1|Loss|Zarar
+B1|Asset|Varlık / Aktif
+B1|Liability|Yükümlülük / Borç
+B1|Revenue|Hasılat||turnover, sales, top line
+B1|Debit|Borç (hesabın borç tarafı)
+B1|Credit|Alacak (hesabın alacak tarafı)
+B1|Debit balance|Borç bakiyesi
+B1|Credit balance|Alacak bakiyesi
+B1|Debtor|Borçlu
+B1|Creditor|Alacaklı
+B1|Receivable|Alacak
+B1|Payable|Borç (ödenecek)
+B1|Trade receivables|Ticari alacaklar (120 Alıcılar)|Accounts receivable|trade debtors
+B1|Trade payables|Ticari borçlar (320 Satıcılar)|Accounts payable|trade creditors
+B1|Supplier|Tedarikçi / Satıcı|Vendor
+B1|Customer|Müşteri / Alıcı||client
+B1|Current account|Cari hesap
+B1|Statement of account|Cari hesap ekstresi||account statement
+B1|Petty cash|Küçük kasa
+B1|Cash payment|Nakit ödeme
+B1|Bookkeeping|Defter tutma
+B1|Bookkeeper|Muhasebe elemanı
+B1|Accountant|Muhasebeci
+B1|Chief accountant|Baş muhasebeci||head of accounting
+B1|Accounts department|Muhasebe departmanı|Accounting department
+B1|Finance department|Finans departmanı
+B1|Accounting software|Muhasebe yazılımı
+B1|ERP system|ERP sistemi (kurumsal kaynak planlama)
+B1|Spreadsheet|Elektronik tablo (Excel)
+B1|Opening balance|Açılış bakiyesi
+B1|Closing balance|Kapanış bakiyesi
+B1|Month-end closing|Ay sonu kapanışı||month-end close
+B1|Year-end closing|Yıl sonu kapanışı||year-end close
+B1|Overdue|Vadesi geçmiş|Past due
+B1|Payment terms|Ödeme koşulları / Vade şartları
+B1|Advance payment|Avans ödemesi / Verilen avans||prepayment
+B1|Refund|Geri ödeme / İade
+B1|Deposit|Depozito / Kapora
+B1|Expense claim|Masraf beyanı|Expense report
+B1|Reimbursement|Masraf iadesi
+B1|Invoice date|Fatura tarihi
+B1|Invoice number|Fatura numarası
+B1|Purchase order (PO)|Satın alma siparişi
+B1|Delivery note|Sevk irsaliyesi|Packing slip
+B1|Pro forma invoice|Proforma fatura
+B1|Credit note|Alacak dekontu / İade faturası|Credit memo
+B1|Debit note|Borç dekontu|Debit memo
+B1|Inventories|Stoklar|Inventory|stock
+B1|Office supplies|Büro malzemeleri / Kırtasiye
+B1|Partial payment|Kısmi ödeme
+B2|Ledger|Defter / Hesap kartı
+B2|General ledger (GL)|Büyük defter (defter-i kebir)||nominal ledger
+B2|Journal|Yevmiye defteri||day book
+B2|Journal entry|Yevmiye kaydı / Muhasebe fişi||journal voucher
+B2|Trial balance|Mizan
+B2|Chart of accounts|Hesap planı
+B2|Account code|Hesap kodu
+B2|Subsidiary ledger|Muavin (yardımcı) defter||sub-ledger
+B2|Posting|Deftere işleme / Kayıt atma
+B2|Posting date|Kayıt tarihi
+B2|Document date|Belge tarihi
+B2|Double-entry bookkeeping|Çift taraflı kayıt sistemi
+B2|Accrual|Tahakkuk
+B2|Accrual basis|Tahakkuk esası
+B2|Cash basis|Nakit esası
+B2|Accrued expenses|Gider tahakkukları (381)||accruals
+B2|Accrued income|Gelir tahakkukları (181)||unbilled revenue, accrued revenue
+B2|Prepaid expenses|Gelecek aylara ait giderler (180)||prepayments, deferred expenses
+B2|Deferred income|Gelecek aylara ait gelirler (380)|Unearned revenue
+B2|Adjusting entry|Düzeltme kaydı||adjustment
+B2|Opening entry|Açılış kaydı
+B2|Closing entry|Kapanış kaydı
+B2|Reversing entry|Ters kayıt||reversal
+B2|Reclassification|Virman / Yeniden sınıflandırma
+B2|Reconciliation|Mutabakat / Uzlaştırma
+B2|Bank reconciliation|Banka mutabakatı
+B2|Intercompany reconciliation|Grup içi mutabakat
+B2|Balance confirmation|Bakiye teyidi / Cari mutabakat
+B2|Intercompany transaction|Grup içi işlem
+B2|Offsetting|Mahsup / Netleştirme||set-off, netting
+B2|Matching|Eşleştirme (ödeme–fatura)||clearing
+B2|Open items|Açık kalemler
+B2|Outstanding balance|Açık (ödenmemiş) bakiye
+B2|Overpayment|Fazla ödeme
+B2|Underpayment|Eksik ödeme
+B2|Payment run|Toplu ödeme çalıştırması||payment batch
+B2|Write-off|Kayıttan düşme / Gider yazma
+B2|Bad debt|Değersiz alacak|Uncollectible account
+B2|Doubtful receivables|Şüpheli ticari alacaklar (128)||doubtful debts
+B2|Allowance for doubtful debts|Şüpheli alacak karşılığı (129)|Allowance for doubtful accounts|provision for bad debts
+B2|Provision|Karşılık
+B2|Depreciation|Amortisman
+B2|Accumulated depreciation|Birikmiş amortismanlar (257)
+B2|Amortisation|İtfa payı (maddi olmayan varlık amortismanı)|Amortization
+B2|Straight-line method|Normal (doğrusal) amortisman yöntemi
+B2|Reducing balance method|Azalan bakiyeler yöntemi|Declining balance method
+B2|Useful life|Faydalı ömür
+B2|Residual value|Kalıntı değer|Salvage value
+B2|Fixed assets|Duran varlıklar / Sabit kıymetler||non-current assets
+B2|Property, plant and equipment (PP&E)|Maddi duran varlıklar
+B2|Intangible assets|Maddi olmayan duran varlıklar
+B2|Fixed asset register|Sabit kıymet listesi / Demirbaş defteri
+B2|Capitalisation|Aktifleştirme|Capitalization
+B2|Disposal of assets|Varlıkların elden çıkarılması
+B2|Gain on disposal|Varlık satış kârı
+B2|Carrying amount|Defter değeri (kayıtlı değer)|Carrying value|book value, net book value (NBV)
+B2|Historical cost|Tarihi maliyet
+B2|Goods in transit|Yoldaki mallar
+B2|Trade goods|Ticari mallar (153)|Merchandise
+B2|Consumables|Sarf malzemeleri
+B2|Spare parts|Yedek parçalar
+B2|Advances received|Alınan avanslar (340)||customer advances
+B2|Other receivables|Diğer alacaklar (136)
+B2|Other payables|Diğer borçlar (336)
+B2|Notes receivable|Alacak senetleri (121)
+B2|Notes payable|Borç senetleri (321)
+B2|Cheques received|Alınan çekler (101)|Checks received
+B2|Cheques issued|Verilen çekler ve ödeme emirleri (103)|Checks issued
+B2|Due from shareholders|Ortaklardan alacaklar (131)
+B2|Due to shareholders|Ortaklara borçlar (331)
+B2|Deposits and guarantees given|Verilen depozito ve teminatlar (126)
+B2|Deposits and guarantees received|Alınan depozito ve teminatlar (326)
+B2|Foreign exchange difference|Kur farkı||FX difference
+B2|Foreign exchange gain|Kambiyo kârı (646)||FX gain
+B2|Foreign exchange loss|Kambiyo zararı (656)||FX loss
+B2|Revaluation|Yeniden değerleme / Kur değerlemesi
+B2|Accounting period|Hesap dönemi
+B2|Financial year|Mali yıl / Hesap yılı|Fiscal year
+B2|Going concern|İşletmenin sürekliliği
+B2|Materiality|Önemlilik
+B2|Prudence|İhtiyatlılık|Conservatism
+B2|Accruals concept|Dönemsellik ilkesi|Matching principle
+B2|Consistency|Tutarlılık ilkesi
+B2|Accounting policy|Muhasebe politikası
+B2|Accounting estimate|Muhasebe tahmini
+B2|Accounting error|Muhasebe hatası
+B2|Suspense account|Askı (geçici) hesap||clearing account
+B2|Contra account|Düzenleyici (ters) hesap
+B2|Control account|Kontrol hesabı
+B2|Voucher|Fiş / Muhasebe belgesi
+B2|Supporting document|Destekleyici (dayanak) belge||source document
+B2|Ageing report|Yaşlandırma raporu|Aging report|aged debt report
+B2|Credit limit|Kredi (risk) limiti
+B2|Credit control|Alacak takibi / Kredi kontrolü|Collections
+B2|Payment reminder|Ödeme hatırlatma yazısı||dunning letter
+B2|Collection|Tahsilat
+B2|Cut-off|Dönem ayrımı (cut-off)
+B2|Goods received not invoiced (GRNI)|Faturası gelmemiş mal alımları
+B2|Goods received note (GRN)|Mal kabul belgesi
+B2|Three-way match|Üçlü eşleştirme (sipariş–irsaliye–fatura)
+B2|Purchase ledger|Satıcılar defteri|Accounts payable ledger
+B2|Sales ledger|Müşteriler defteri|Accounts receivable ledger
+B2|Cash book|Kasa defteri
+B2|Cash discount|Nakit (erken ödeme) iskontosu||early payment discount
+B2|Trade discount|Ticari iskonto
+B2|Rebate|Ciro primi / Sonradan verilen indirim||volume rebate
+B2|Purchase returns|Alıştan iadeler
+B2|Rounding difference|Yuvarlama farkı
+B2|Duplicate invoice|Mükerrer fatura
+B2|Cancelled invoice|İptal edilen fatura|Canceled invoice
+C1|Accounting standards|Muhasebe standartları
+C1|Generally accepted accounting principles (GAAP)|Genel kabul görmüş muhasebe ilkeleri
+C1|Uniform chart of accounts|Tekdüzen hesap planı (TDHP)
+C1|Romanian chart of accounts|Romanya hesap planı (Planul de Conturi)
+C1|Account mapping|Hesap eşleştirme
+C1|Statutory accounts|Yasal (resmî) kayıtlar ve tablolar
+C1|Management accounts|Yönetim raporları (iç raporlama)||management reporting
+C1|Reporting package|Grup raporlama paketi||reporting pack
+C1|Closing checklist|Kapanış kontrol listesi
+C1|Period lock|Dönem kilitleme
+C1|Year-end adjustments|Yıl sonu düzeltme kayıtları
+C1|Accrued interest|Faiz tahakkuku
+C1|Unrealised gain|Gerçekleşmemiş kâr|Unrealized gain
+C1|Realised gain|Gerçekleşmiş kâr|Realized gain
+C1|Recharge|Masraf yansıtma||cost recharge, cross-charge
+C1|Self-billing|Alıcı tarafından fatura düzenleme (self-billing)
+C1|Construction in progress|Yapılmakta olan yatırımlar (258)||assets under construction
+C1|Leasehold improvements|Özel maliyetler (264)
+C1|Low-value assets|Küçük tutarlı demirbaşlar (doğrudan gider)
+C1|Component depreciation|Parça bazlı amortisman
+C1|Inventory valuation|Stok değerleme
+C1|Write-down of inventories|Stok değer düşüklüğü
+C1|Obsolete stock|Hareketsiz (atıl) stok|Obsolete inventory
+C1|Shrinkage|Fire / Stok kaybı
+C1|Scrap|Hurda
+C1|Consignment stock|Konsinye mallar|Consignment inventory
+C1|Substance over form|Özün önceliği ilkesi
+C1|Prior period error|Önceki dönem hatası
+C1|Accounting manual|Muhasebe el kitabı
+#F
+B1|Financial statements|Finansal tablolar||accounts
+B1|Balance sheet|Bilanço||statement of financial position
+B1|Profit and loss account|Gelir tablosu (kâr veya zarar)|Income statement|statement of profit or loss, P&L
+B1|Annual report|Faaliyet raporu
+B2|Cash flow statement|Nakit akış tablosu|Statement of cash flows
+B2|Statement of changes in equity|Özkaynak değişim tablosu
+B2|Statement of comprehensive income|Kapsamlı gelir tablosu
+B2|Notes to the financial statements|Finansal tablo dipnotları
+B2|Interim financial statements|Ara dönem finansal tabloları||interim accounts
+B2|Quarterly report|Çeyrek dönem raporu
+B2|Consolidated financial statements|Konsolide finansal tablolar
+B2|Separate financial statements|Bireysel (solo) finansal tablolar||standalone financial statements
+B2|Consolidation|Konsolidasyon
+B2|Elimination entry|Eliminasyon kaydı
+B2|Group|Grup (şirketler topluluğu)
+B2|Parent company|Ana ortaklık
+B2|Subsidiary|Bağlı ortaklık
+B2|Associate|İştirak
+B2|Current assets|Dönen varlıklar
+B2|Current liabilities|Kısa vadeli yükümlülükler||short-term liabilities
+B2|Non-current liabilities|Uzun vadeli yükümlülükler||long-term liabilities
+B2|Equity|Özkaynaklar|Stockholders' equity|shareholders' equity
+B2|Share capital|Sermaye (ödenmiş sermaye)|Common stock|capital stock
+B2|Share premium|Hisse senedi ihraç primleri|Additional paid-in capital
+B2|Retained earnings|Geçmiş yıllar kârları||accumulated profits
+B2|Accumulated losses|Geçmiş yıllar zararları|Accumulated deficit
+B2|Profit for the year|Dönem net kârı|Net income|net profit, bottom line
+B2|Legal reserves|Yasal yedekler
+B2|Other reserves|Diğer yedekler
+B2|Cash and cash equivalents|Nakit ve nakit benzerleri
+B2|Short-term investments|Kısa vadeli yatırımlar (menkul kıymetler)|Marketable securities
+B2|Gross sales|Brüt satışlar
+B2|Sales returns|Satıştan iadeler
+B2|Sales deductions|Satış indirimleri
+B2|Net sales|Net satışlar
+B2|Cost of sales|Satışların maliyeti|Cost of goods sold (COGS)
+B2|Gross profit|Brüt satış kârı
+B2|Operating expenses|Faaliyet giderleri||OPEX, operating expenditure
+B2|Distribution costs|Pazarlama, satış ve dağıtım giderleri|Selling expenses
+B2|Administrative expenses|Genel yönetim giderleri|General and administrative expenses (G&A)
+B2|Research and development expenses|Araştırma ve geliştirme giderleri||R&D
+B2|Other operating income|Diğer faaliyetlerden olağan gelir ve kârlar (64)
+B2|Other operating expenses|Diğer faaliyetlerden olağan gider ve zararlar (65)
+B2|Finance income|Finansman gelirleri
+B2|Finance costs|Finansman giderleri (66)
+B2|Operating profit|Esas faaliyet kârı|Operating income
+B2|Profit before tax (PBT)|Vergi öncesi kâr|Income before taxes
+B2|Income tax expense|Dönem vergi gideri
+B2|EBITDA|FAVÖK (faiz, amortisman ve vergi öncesi kâr)
+B2|EBIT|FVÖK (faiz ve vergi öncesi kâr)
+B2|Earnings per share (EPS)|Pay başına kazanç
+B2|Working capital|İşletme sermayesi
+B2|Net debt|Net borç
+B2|Current ratio|Cari oran
+B2|Quick ratio|Asit-test oranı||acid-test ratio
+B2|Return on equity (ROE)|Özkaynak kârlılığı
+B2|Return on assets (ROA)|Aktif kârlılığı
+B2|Gross margin|Brüt kâr marjı
+B2|Net margin|Net kâr marjı||profit margin
+B2|EBITDA margin|FAVÖK marjı
+B2|Operating activities|İşletme faaliyetleri (nakit akışı)
+B2|Investing activities|Yatırım faaliyetleri
+B2|Financing activities|Finansman faaliyetleri
+B2|Key figures|Temel finansal göstergeler||financial highlights
+B2|Year-on-year (YoY)|Geçen yıla göre (yıllık bazda)
+B2|Year-to-date (YTD)|Yılbaşından bugüne (kümülatif)
+B2|Month-on-month (MoM)|Önceki aya göre
+B2|Quarter (Q1–Q4)|Çeyrek (1.–4. çeyrek)
+B2|Half-year (H1/H2)|Yarıyıl (ilk / ikinci yarı)
+B2|Reporting date|Raporlama tarihi||balance sheet date
+B2|Comparative figures|Karşılaştırmalı tutarlar||prior-year figures
+B2|Disclosure|Açıklama (dipnot açıklaması)
+B2|IFRS|UFRS (Uluslararası Finansal Raporlama Standartları)||IFRS Accounting Standards
+B2|Turkish Financial Reporting Standards (TFRS)|TFRS (Türkiye Finansal Raporlama Standartları)
+C1|International Accounting Standards (IAS)|UMS / TMS (Uluslararası / Türkiye Muhasebe Standartları)
+C1|Romanian accounting regulation (OMFP 1802/2014)|Romanya muhasebe düzenlemesi (OMFP 1802/2014)
+C1|Extraordinary items|Olağan dışı gelir ve giderler (67–68)
+C1|Non-controlling interests (NCI)|Kontrol gücü olmayan paylar||minority interest
+C1|Goodwill|Şerefiye
+C1|Purchase price allocation (PPA)|Satın alma bedelinin dağıtımı
+C1|Revaluation reserve|Yeniden değerleme değer artış fonu||revaluation surplus
+C1|Treasury shares|Geri alınmış paylar|Treasury stock
+C1|Gearing|Kaldıraç (borç/özkaynak oranı)|Leverage|debt-to-equity ratio
+C1|Interest cover|Faiz karşılama oranı|Interest coverage ratio
+C1|Cash ratio|Nakit oranı
+C1|Return on capital employed (ROCE)|Kullanılan sermayenin getirisi
+C1|Days sales outstanding (DSO)|Alacak tahsil süresi (gün)||debtor days
+C1|Days payable outstanding (DPO)|Borç ödeme süresi (gün)||creditor days
+C1|Days inventory outstanding (DIO)|Stok devir süresi (gün)||stock days
+C1|Cash conversion cycle|Nakit dönüşüm süresi
+C1|Asset turnover|Aktif devir hızı
+C1|Inventory turnover|Stok devir hızı||stock turnover
+C1|Horizontal analysis|Yatay analiz
+C1|Vertical analysis|Dikey analiz
+C1|Trend analysis|Trend analizi
+C1|Ratio analysis|Oran analizi
+C1|Direct method|Doğrudan yöntem (nakit akışı)
+C1|Indirect method|Dolaylı yöntem (nakit akışı)
+C1|Free cash flow (FCF)|Serbest nakit akışı
+C1|Fair value|Gerçeğe uygun değer
+C1|Fair value hierarchy|Gerçeğe uygun değer hiyerarşisi
+C1|Amortised cost|İtfa edilmiş maliyet|Amortized cost
+C1|Effective interest method|Etkin faiz yöntemi
+C1|Impairment|Değer düşüklüğü
+C1|Expected credit loss (ECL)|Beklenen kredi zararı
+C1|Recoverable amount|Geri kazanılabilir tutar
+C1|Value in use|Kullanım değeri
+C1|Net realisable value|Net gerçekleşebilir değer|Net realizable value
+C1|Cash-generating unit (CGU)|Nakit üreten birim
+C1|Revenue recognition|Hasılatın finansal tablolara alınması (TFRS 15)
+C1|Performance obligation|Edim yükümlülüğü
+C1|Contract asset|Sözleşme varlığı
+C1|Contract liability|Sözleşme yükümlülüğü
+C1|Lease liability|Kiralama yükümlülüğü (TFRS 16)
+C1|Right-of-use asset|Kullanım hakkı varlığı
+C1|Deferred tax asset|Ertelenmiş vergi varlığı
+C1|Deferred tax liability|Ertelenmiş vergi yükümlülüğü
+C1|Temporary difference|Geçici fark
+C1|Contingent liability|Koşullu yükümlülük
+C1|Contingent asset|Koşullu varlık
+C1|Off-balance sheet items|Bilanço dışı kalemler
+C1|Related party transactions|İlişkili taraf işlemleri
+C1|Events after the reporting period|Raporlama döneminden sonraki olaylar||subsequent events
+C1|Restatement|Geçmiş dönemin yeniden düzenlenmesi
+C1|Segment reporting|Bölümlere göre raporlama
+C1|Functional currency|Geçerli (fonksiyonel) para birimi
+C1|Presentation currency|Sunum para birimi
+C1|Translation difference|Yabancı para çevrim farkı||currency translation reserve
+C1|Monetary items|Parasal kalemler
+C1|Non-monetary items|Parasal olmayan kalemler
+C1|Financial instrument|Finansal araç
+C1|Derivative|Türev araç
+C2|Hyperinflationary reporting|Yüksek enflasyonlu ekonomilerde raporlama (TMS 29)||inflation accounting
+C2|Other comprehensive income (OCI)|Diğer kapsamlı gelir
+C2|Reclassification to profit or loss|Kâr veya zarara yeniden sınıflandırma||recycling
+C2|Business combination|İşletme birleşmesi (TFRS 3)
+C2|Bargain purchase gain|Pazarlıklı satın alma kazancı
+C2|Equity method|Özkaynak yöntemi
+C2|Full consolidation|Tam konsolidasyon
+C2|Proportionate consolidation|Oransal konsolidasyon
+C2|Hedge accounting|Riskten korunma muhasebesi
+C2|Embedded derivative|Saklı türev
+#V
+A2|Tax|Vergi
+B1|VAT (value added tax)|KDV (katma değer vergisi) · RO: TVA
+B1|Tax office|Vergi dairesi
+B1|Tax identification number (TIN)|Vergi kimlik numarası (VKN) · RO: CUI / CIF||tax number
+B1|VAT number|KDV numarası (AB: ülke kodu + numara, ör. RO12345678)||VAT ID
+B1|Tax return|Vergi beyannamesi||tax declaration
+B1|Tax payment|Vergi ödemesi
+B1|Tax rate|Vergi oranı
+B1|Taxpayer|Mükellef
+B1|Tax debt|Vergi borcu
+B1|Tax refund|Vergi iadesi
+B2|Input VAT|İndirilecek KDV (191)||input tax
+B2|Output VAT|Hesaplanan KDV (391)||output tax
+B2|VAT payable|Ödenecek KDV
+B2|VAT carried forward|Devreden KDV
+B2|VAT refund|KDV iadesi
+B2|VAT return|KDV beyannamesi · RO: D300
+B2|VAT rate|KDV oranı
+B2|Standard rate|Genel oran
+B2|Reduced rate|İndirimli oran
+B2|Zero rate|Sıfır oran (%0)||zero-rated supply
+B2|VAT exemption|KDV istisnası||exempt supply
+B2|Exemption with right of deduction|İndirim hakkı tanınan istisna (tam istisna)
+B2|Exemption without right of deduction|İndirim hakkı tanınmayan istisna (kısmi istisna)
+B2|Reverse charge|Tersine vergilendirme (sorumlu sıfatıyla beyan) · RO: taxare inversă
+B2|VAT withholding|KDV tevkifatı
+B2|Partial withholding|Kısmi tevkifat
+B2|Place of supply|Teslim / hizmet yeri
+B2|Chargeable event|Vergiyi doğuran olay|Taxable event
+B2|Intra-Community supply|Topluluk içi teslim (AB)
+B2|Intra-Community acquisition|Topluluk içi alım (AB)
+B2|Export exemption|İhracat istisnası
+B2|EC Sales List|AB içi teslim özet beyanı · RO: D390||recapitulative statement
+B2|VIES|AB KDV numarası doğrulama sistemi (VIES)
+B2|Corporation tax|Kurumlar vergisi · RO: impozit pe profit|Corporate income tax
+B2|Income tax|Gelir vergisi · RO: impozit pe venit||personal income tax
+B2|Withholding tax (WHT)|Stopaj / Vergi kesintisi
+B2|Withholding tax return|Muhtasar beyanname (muhtasar ve prim hizmet)
+B2|Dividend withholding tax|Kâr payı stopajı
+B2|Advance tax payment|Geçici vergi||provisional tax
+B2|Tax base|Vergi matrahı
+B2|Taxable profit|Mali kâr (vergiye tabi kazanç)|Taxable income
+B2|Tax-deductible expense|Vergiden indirilebilir gider||allowable expense
+B2|Non-deductible expense|Kanunen kabul edilmeyen gider (KKEG)||disallowable expense
+B2|Tax loss|Mali zarar
+B2|Tax loss carried forward|Geçmiş yıl mali zararı (mahsup)|Tax loss carryforward
+B2|Tax credit|Vergi alacağı / Mahsup edilecek vergi
+B2|Tax incentive|Vergi teşviki
+B2|Tax exemption|Vergi istisnası / muafiyeti
+B2|Tax assessment|Tarhiyat
+B2|Tax audit|Vergi incelemesi · RO: inspecție fiscală
+B2|Tax inspector|Vergi müfettişi (vergi inceleme elemanı)
+B2|Tax penalty|Vergi cezası
+B2|Late payment interest|Gecikme faizi / Gecikme zammı · RO: dobânzi și penalități
+B2|Tax clearance certificate|Vergi borcu yoktur yazısı · RO: certificat de atestare fiscală
+B2|Filing deadline|Beyan son tarihi
+B2|Tax calendar|Vergi takvimi
+B2|Taxable period|Vergilendirme dönemi
+B2|Tax adviser|Vergi danışmanı|Tax advisor
+B2|Tax representative|Mali temsilci||fiscal representative
+B2|VAT registration|KDV mükellefiyet kaydı
+B2|Self-assessment|Beyan esası
+B2|Taxes payable|Ödenecek vergi ve fonlar (360)
+B2|Stamp duty|Damga vergisi
+B2|Property tax|Emlak vergisi · RO: impozit pe clădiri
+B2|Motor vehicle tax|Motorlu taşıtlar vergisi
+B2|Excise duty|Özel tüketim vergisi (ÖTV) · RO: accize|Excise tax|special consumption tax
+B2|Duties and fees|Harçlar
+B2|Local taxes|Yerel (belediye) vergiler
+B2|E-invoice|E-fatura · RO: e-Factura
+B2|E-archive invoice|E-arşiv fatura
+B2|E-ledger|E-defter
+B2|E-waybill|E-irsaliye
+B2|SAF-T (Standard Audit File for Tax)|SAF-T standart vergi denetim dosyası · RO: D406
+B2|National Agency for Fiscal Administration (ANAF)|Romanya Ulusal Vergi İdaresi (ANAF)
+B2|Turkish Revenue Administration (GİB)|Gelir İdaresi Başkanlığı (GİB)
+B2|Virtual Private Space (SPV)|RO: Spațiul Privat Virtual (ANAF çevrim içi hesabı)
+B2|Annual income tax return|Yıllık gelir vergisi beyannamesi
+B2|Double tax treaty (DTT)|Çifte vergilendirmeyi önleme anlaşması||double taxation agreement (DTA)
+B2|Tax residency certificate|Mukimlik belgesi · RO: certificat de rezidență fiscală
+B2|Transfer pricing|Transfer fiyatlandırması
+B2|Arm's length principle|Emsallere uygunluk ilkesi
+C1|e-Transport UIT code|RO: e-Transport UIT kodu (taşıma bildirimi)
+C1|Annual corporation tax return|Yıllık kurumlar vergisi beyannamesi · RO: D101
+C1|Domestic supplies statement|RO: D394 yurt içi alım-satım bildirimi
+C1|Ba-Bs forms|Ba-Bs formları (mal/hizmet alış-satış bildirimi)
+C1|Microenterprise tax|RO: mikro işletme vergisi (impozit pe veniturile microîntreprinderilor)
+C1|Accounting profit|Ticari kâr (muhasebe kârı)
+C1|Supply for export|İhraç kaydıyla teslim
+C1|Distance selling|Mesafeli satış (AB)
+C1|One-Stop Shop (OSS)|AB tek durak (OSS) KDV beyan sistemi
+C1|VAT group|KDV grubu
+C1|VAT deregistration|KDV kaydının silinmesi
+C1|Cash accounting scheme|Tahsilat esaslı KDV · RO: TVA la încasare
+C1|Pro rata deduction|KDV kısmi indirim oranı (pro rata)
+C1|Tax loss penalty|Vergi ziyaı cezası
+C1|Irregularity penalty|Usulsüzlük cezası
+C1|Permanent establishment (PE)|İş yeri (daimi iş yeri)
+C1|Transfer pricing file|Transfer fiyatlandırması dosyası · RO: dosarul prețurilor de transfer
+C1|Thin capitalisation|Örtülü sermaye|Thin capitalization
+C1|Disguised profit distribution|Transfer fiyatlandırması yoluyla örtülü kazanç dağıtımı
+C1|Interest limitation rule|Finansman gideri kısıtlaması · RO: plafonare costuri îndatorare
+C1|Controlled foreign company (CFC)|Kontrol edilen yabancı kurum
+C1|Beneficial owner|Gerçek faydalanıcı
+C1|Tax haven|Vergi cenneti
+C1|Tax avoidance|Vergiden kaçınma
+C1|Tax evasion|Vergi kaçakçılığı
+C1|Tax amnesty|Vergi affı
+C1|Tax restructuring|Vergi borcu yapılandırması
+C1|Statute of limitations|Zamanaşımı||limitation period
+C1|Tax ruling|Özelge · RO: soluție fiscală individuală anticipată
+C1|Tax dispute|Vergi uyuşmazlığı
+C1|Tax settlement|Uzlaşma (vergi)
+C1|Tax appeal|Vergi itirazı / Vergi davası
+C1|Treaty rate|Anlaşma (indirimli) stopaj oranı
+C1|Inflation adjustment for tax|VUK enflasyon düzeltmesi
+C1|Digital services tax|Dijital hizmet vergisi
+C2|Capital goods adjustment|Yatırım malları KDV düzeltmesi
+C2|Bad debt relief|Tahsil edilemeyen alacaklarda KDV düzeltmesi
+C2|Split payment|Bölünmüş ödeme (KDV)
+C2|Global minimum tax (Pillar Two)|Küresel asgari kurumlar vergisi (İkinci Sütun)
+C2|Base erosion and profit shifting (BEPS)|Matrah aşınması ve kâr aktarımı (BEPS)
+C2|Country-by-country report (CbCR)|Ülke bazlı rapor
+C2|Master file|Ana dosya (transfer fiyatlandırması)
+C2|Local file|Yerel dosya (transfer fiyatlandırması)
+C2|Advance pricing agreement (APA)|Peşin fiyatlandırma anlaşması
+C2|Mutual agreement procedure (MAP)|Karşılıklı anlaşma usulü
+#B
+A2|Salary|Maaş
+A2|Wage|Ücret (saatlik / günlük)
+A2|Employee|Çalışan / İşçi
+A2|Employer|İşveren
+B1|Payroll|Bordro
+B1|Payslip|Ücret pusulası (maaş bordrosu)|Pay stub
+B1|Gross salary|Brüt ücret||gross pay
+B1|Net salary|Net ücret||net pay, take-home pay
+B1|Overtime|Fazla mesai
+B1|Working hours|Çalışma saatleri
+B1|Shift|Vardiya
+B1|Night shift|Gece vardiyası
+B1|Annual leave|Yıllık ücretli izin|Vacation|holiday entitlement
+B1|Public holiday|Resmî tatil||bank holiday
+B1|Sick leave|Hastalık izni
+B1|Medical certificate|Sağlık (istirahat) raporu|Doctor's note|sick note
+B1|Maternity leave|Doğum izni
+B1|Paternity leave|Babalık izni
+B1|Unpaid leave|Ücretsiz izin
+B1|Bonus|Prim / İkramiye
+B1|Allowance|Ödenek / Yardım
+B1|Meal vouchers|Yemek kartı / Yemek yardımı · RO: tichete de masă||meal allowance
+B1|Travel allowance|Yol yardımı
+B1|Per diem|Harcırah / Gündelik · RO: diurnă||daily allowance
+B1|Benefits|Yan haklar||fringe benefits, perks
+B1|Pension|Emekli aylığı / Emeklilik
+B1|Private pension|Bireysel emeklilik (BES)
+B1|Health insurance|Sağlık sigortası
+B1|Job description|Görev tanımı
+B1|Job title|Unvan
+B1|Recruitment|İşe alım|Hiring
+B1|Onboarding|İşe başlangıç (oryantasyon)
+B1|Job interview|İş görüşmesi (mülakat)
+B1|CV|Özgeçmiş|Résumé
+B1|Employment contract|İş sözleşmesi · RO: contract individual de muncă
+B1|Fixed-term contract|Belirli süreli iş sözleşmesi
+B1|Permanent contract|Belirsiz süreli iş sözleşmesi||open-ended contract
+B1|Part-time|Kısmi süreli
+B1|Full-time|Tam zamanlı
+B1|Probation period|Deneme süresi||probationary period
+B1|Notice period|İhbar süresi
+B1|Resignation|İstifa
+B1|Dismissal|İşten çıkarma|Termination|firing
+B1|Redundancy|Ekonomik nedenle işten çıkarma|Layoff
+B1|Severance pay|Kıdem tazminatı
+B1|Notice pay|İhbar tazminatı||pay in lieu of notice
+B1|Unemployment insurance|İşsizlik sigortası
+B1|Minimum wage|Asgari ücret
+B1|Pay rise|Maaş zammı|Raise
+B1|Headcount|Personel sayısı
+B1|Human resources (HR)|İnsan kaynakları (İK)
+B1|Training|Eğitim
+B1|Workload|İş yükü
+B1|Remote work|Uzaktan çalışma||working from home (WFH)
+B1|Company car|Şirket aracı
+B2|Social security|Sosyal güvenlik (SGK)
+B2|Social security contributions|SGK primleri · RO: CAS
+B2|Health insurance contribution|Genel sağlık sigortası primi · RO: CASS
+B2|Work insurance contribution|RO: CAM (işveren iş sigortası katkısı)
+B2|Employer's contribution|İşveren payı
+B2|Employee's contribution|İşçi payı
+B2|Total employment cost|İşverene toplam maliyet||employer cost
+B2|Income tax withholding|Ücret gelir vergisi kesintisi
+B2|Cumulative tax base|Kümülatif vergi matrahı
+B2|Tax band|Gelir vergisi dilimi|Tax bracket
+B2|Minimum wage exemption|Asgari ücret istisnası (gelir ve damga vergisi)
+B2|Personal deduction|Kişisel indirim · RO: deducere personală
+B2|Monthly premium and service declaration|Aylık prim ve hizmet belgesi (APHB)
+B2|Payroll declaration|RO: D112 bordro beyannamesi
+B2|Employee register|RO: REVISAL çalışan kayıt sistemi
+B2|Employment start notification|SGK işe giriş bildirgesi
+B2|Employment termination notification|SGK işten çıkış bildirgesi
+B2|Termination code|İşten çıkış kodu
+B2|Gross-up|Netten brüte hesaplama||net-to-gross calculation
+B2|Salary advance|Personel avansı (195)||personnel advance
+B2|Salaries payable|Personele borçlar (335)|Wages payable
+B2|Social security payable|Ödenecek sosyal güvenlik kesintileri (361)
+B2|Staff costs|Personel giderleri|Payroll costs|employee expenses
+B2|Payroll accrual|Ücret tahakkuku
+B2|Timesheet|Puantaj (çalışma çizelgesi)||attendance record
+B2|Absenteeism|Devamsızlık
+B2|Performance review|Performans değerlendirmesi||appraisal
+B2|Career development|Kariyer gelişimi
+B2|Staff turnover|Personel devir hızı|Employee turnover|attrition
+B2|Retention|Çalışanı elde tutma
+B2|Organisation chart|Organizasyon şeması|Organization chart|org chart
+B2|Line manager|Birinci amir (bağlı olunan yönetici)||direct manager, supervisor
+B2|Job offer|İş teklifi
+B2|Hybrid work|Hibrit çalışma
+B2|Collective agreement|Toplu iş sözleşmesi|Collective bargaining agreement
+B2|Trade union|Sendika|Labor union
+B2|Labour law|İş hukuku (TR: 4857 · RO: Codul Muncii)|Labor law
+B2|Occupational health and safety (OHS)|İş sağlığı ve güvenliği (İSG)
+B2|Work accident|İş kazası|Workplace accident
+B2|Disciplinary procedure|Disiplin süreci
+B2|Written warning|Yazılı uyarı / İhtar
+B2|Grievance|Çalışan şikâyeti
+B2|Non-compete clause|Rekabet yasağı maddesi
+B2|Confidentiality agreement|Gizlilik sözleşmesi||non-disclosure agreement (NDA)
+B2|Commission|Satış primi / Komisyon
+B2|Variable pay|Değişken ücret
+C1|Expatriate (expat)|Yurt dışına görevlendirilen çalışan
+C1|Secondment|Geçici (yurt dışı) görevlendirme|Assignment|posted work
+C1|A1 certificate|A1 belgesi (AB sosyal güvenlik)
+C1|Social security agreement|Sosyal güvenlik sözleşmesi (TR–RO)
+C1|Certificate of coverage|Sigortalılık (kapsam) belgesi
+C1|Work permit|Çalışma izni · RO: aviz de muncă
+C1|Residence permit|İkamet izni · RO: permis de ședere
+C1|Tax equalisation|Vergi eşitleme (expat)|Tax equalization
+C1|Shadow payroll|Gölge bordro
+C1|Split payroll|Bölünmüş bordro (iki ülkede ödeme)
+C1|Host country|Görev ülkesi (ev sahibi ülke)
+C1|Home country|Asıl ülke (menşe ülke)
+C1|Relocation allowance|Taşınma yardımı
+C1|Housing allowance|Konut (kira) yardımı
+C1|Hardship allowance|Zorluk zammı
+C1|Provision for severance pay|Kıdem tazminatı karşılığı (TMS 19)||employee termination benefits
+C1|Unused leave provision|Kullanılmamış izin karşılığı|Unused vacation accrual
+C1|Actuarial loss|Aktüeryal kayıp
+C1|Severance pay ceiling|Kıdem tazminatı tavanı
+C1|Short-time working allowance|Kısa çalışma ödeneği
+C1|Time off in lieu (TOIL)|Fazla mesai karşılığı serbest zaman|Comp time|compensatory time off
+C1|Attachment of earnings|Maaş haczi|Wage garnishment
+C1|Personal data protection|Kişisel verilerin korunması (KVKK / GDPR)
+C1|Employee share options|Çalışan hisse opsiyonları|Employee stock options
+C1|13th salary|13. maaş (ikramiye)
+C1|Pay scale|Ücret skalası||salary band
+C1|Job grading|Kademe belirleme
+#K
+B1|Bank account|Banka hesabı
+B1|Bank statement|Banka ekstresi / Hesap özeti
+B1|Bank transfer|Havale / EFT|Wire transfer
+B1|SWIFT code|SWIFT (BIC) kodu
+B1|IBAN|IBAN (uluslararası banka hesap numarası)
+B1|Exchange rate|Döviz kuru
+B1|Foreign currency|Döviz / Yabancı para
+B1|Interest|Faiz
+B1|Interest rate|Faiz oranı
+B1|Loan|Kredi
+B1|Instalment|Taksit|Installment
+B1|Cheque|Çek|Check
+B1|Credit card|Kredi kartı
+B1|Debit card|Banka kartı
+B2|Overdraft|Kredili mevduat hesabı (KMH)
+B2|Credit line|Banka kredi limiti|Line of credit|facility
+B2|Principal|Anapara
+B2|Maturity|Vade (kredi / mevduat)
+B2|Time deposit|Vadeli mevduat||fixed deposit
+B2|Demand deposit|Vadesiz mevduat
+B2|Collateral|Teminat||security
+B2|Guarantee|Garanti / Kefalet
+B2|Letter of guarantee|Teminat mektubu||bank guarantee
+B2|Letter of credit (L/C)|Akreditif
+B2|Documentary collection|Vesaik mukabili ödeme||cash against documents (CAD)
+B2|Promissory note|Bono / Senet
+B2|Bill of exchange|Poliçe
+B2|Mortgage|İpotek
+B2|Bank charges|Banka masrafları|Bank fees
+B2|Value date|Valör tarihi
+B2|Remittance advice|Ödeme bildirimi (dekont)
+B2|Payment order|Ödeme talimatı
+B2|Direct debit|Otomatik ödeme talimatı
+B2|Standing order|Düzenli ödeme talimatı
+B2|Cash flow|Nakit akışı
+B2|Cash flow forecast|Nakit akış tahmini||cash forecast
+B2|Liquidity|Likidite
+B2|Treasury|Hazine (fon) yönetimi
+B2|Spot rate|Spot kur
+B2|Official exchange rate|Merkez bankası kuru (TCMB / BNR)||central bank rate
+B2|Buying rate|Döviz alış kuru
+B2|Selling rate|Döviz satış kuru
+C1|Forward contract|Vadeli döviz (forward) sözleşmesi
+C1|Hedging|Riskten korunma
+C1|Currency swap|Döviz takası (swap)
+C1|Interest rate swap|Faiz takası
+C1|Factoring|Faktoring
+C1|Supply chain finance|Tedarikçi finansmanı||reverse factoring
+C1|Leasing|Finansal kiralama
+C1|Credit rating|Kredi notu
+C1|Covenant|Kredi sözleşmesi taahhüdü (kovenant)
+C1|Refinancing|Yeniden finansman
+C1|Default|Temerrüt
+C1|Syndicated loan|Sendikasyon kredisi
+C1|Grace period|Ödemesiz dönem
+C1|Floating rate|Değişken faiz||variable rate
+C1|Fixed rate|Sabit faiz
+C1|EURIBOR / ROBOR|EURIBOR / ROBOR (gösterge faiz oranları)
+C1|Know your customer (KYC)|Müşterini tanı (KYC)
+C1|Anti-money laundering (AML)|Kara para aklamayla mücadele
+C1|Export proceeds repatriation|İhracat bedelinin yurda getirilmesi (32 Sayılı Karar)
+C1|Export proceeds acceptance certificate|İhracat bedeli kabul belgesi (İBKB)
+C1|Profit repatriation|Kâr transferi
+C1|Exchange control regulations|Kambiyo mevzuatı
+C1|Capital movements|Sermaye hareketleri
+C1|Foreign direct investment (FDI)|Doğrudan yabancı yatırım
+C1|Cash pooling|Nakit havuzu (grup içi)
+C1|Intercompany loan|Grup içi kredi
+#D
+B2|Audit|Denetim
+B2|Auditor|Denetçi
+B2|External audit|Bağımsız denetim||statutory audit
+B2|Internal audit|İç denetim
+B2|Audit report|Denetim raporu
+B2|Audit opinion|Denetim görüşü
+B2|Management letter|Yönetim mektubu
+B2|Audit evidence|Denetim kanıtı
+B2|Sampling|Örnekleme
+B2|Confirmation letter|Teyit mektubu (dış teyit)
+B2|Internal control|İç kontrol
+B2|Compliance|Mevzuata uyum
+B2|Fraud|Hile / Suiistimal
+B2|Audit findings|Denetim bulguları
+B2|Audit fee|Denetim ücreti
+B2|Sworn financial adviser|Yeminli mali müşavir (YMM)
+B2|Chartered accountant|Serbest muhasebeci mali müşavir (SMMM)|Certified public accountant (CPA)
+C1|Unqualified opinion|Olumlu görüş||clean opinion
+C1|Qualified opinion|Şartlı görüş
+C1|Adverse opinion|Olumsuz görüş
+C1|Disclaimer of opinion|Görüş vermekten kaçınma
+C1|Emphasis of matter|Dikkat çekilen husus
+C1|Key audit matters (KAM)|Kilit denetim konuları
+C1|Management representation letter|Yönetim beyan mektubu
+C1|Segregation of duties|Görevler ayrılığı
+C1|Audit trail|Denetim izi
+C1|Misstatement|Yanlışlık (hatalı sunum)
+C1|Material weakness|Önemli zayıflık
+C1|Risk assessment|Risk değerlendirmesi
+C1|Walkthrough|Süreç izleme testi
+C1|Substantive procedures|Maddi doğrulama prosedürleri
+C1|Test of controls|Kontrol testleri
+C1|Working papers|Çalışma kâğıtları
+C1|Due diligence|Durum tespiti (due diligence)
+C1|Audit committee|Denetim komitesi
+C1|Engagement letter|Denetim sözleşmesi (görevlendirme mektubu)
+C1|Fieldwork|Saha çalışması
+C1|Stock count|Fiziki stok sayımı|Inventory count|stocktake
+#T
+B1|Export|İhracat
+B1|Import|İthalat
+B1|Freight|Navlun
+B1|Shipment|Sevkiyat
+B1|Commercial invoice|Ticari fatura
+B1|Packing list|Çeki listesi
+B2|Customs declaration|Gümrük beyannamesi
+B2|Customs duty|Gümrük vergisi
+B2|HS code|GTİP · AB: TARIC kodu||tariff code
+B2|Certificate of origin|Menşe şahadetnamesi
+B2|A.TR movement certificate|A.TR dolaşım belgesi
+B2|EUR.1 movement certificate|EUR.1 dolaşım belgesi
+B2|Bill of lading (B/L)|Konşimento
+B2|CMR consignment note|CMR (karayolu taşıma senedi)
+B2|Air waybill (AWB)|Hava yolu taşıma senedi
+B2|Incoterms|Incoterms teslim şekilleri
+B2|Ex Works (EXW)|İş yerinde teslim (EXW)
+B2|Free Carrier (FCA)|Taşıyıcıya teslim (FCA)
+B2|Free on Board (FOB)|Gemide teslim (FOB)
+B2|Cost, Insurance and Freight (CIF)|Masraflar, sigorta ve navlun ödenmiş (CIF)
+B2|Delivered at Place (DAP)|Belirlenen yerde teslim (DAP)
+B2|Delivered Duty Paid (DDP)|Gümrük vergileri ödenmiş teslim (DDP)
+B2|Customs broker|Gümrük müşaviri
+B2|Bonded warehouse|Antrepo
+B2|Freight forwarder|Taşıma işleri organizatörü (forwarder)
+B2|Carrier|Taşıyıcı (nakliyeci)
+B2|Proof of delivery (POD)|Teslim belgesi
+B2|EORI number|EORI numarası
+B2|Intrastat declaration|Intrastat beyanı
+C1|Customs value|Gümrük kıymeti
+C1|Inward processing|Dahilde işleme rejimi
+C1|Outward processing|Hariçte işleme rejimi
+C1|Transit procedure|Transit rejimi (NCTS)
+C1|Authorised economic operator (AEO)|Yetkilendirilmiş yükümlü (YYS)|Authorized economic operator
+C1|Preferential origin|Tercihli menşe
+C1|Anti-dumping duty|Damping karşıtı vergi
+C1|Customs union|Gümrük birliği (TR–AB)
+C1|Demurrage|Konteyner gecikme bedeli (demuraj)
+#M
+B1|Budget|Bütçe
+B1|Forecast|Tahmin
+B1|Unit cost|Birim maliyet
+B1|Fixed cost|Sabit maliyet
+B1|Variable cost|Değişken maliyet
+B1|Raw materials|Hammadde
+B1|Finished goods|Mamul
+B1|Cost reduction|Maliyet düşürme||cost saving
+B2|Actual vs budget|Gerçekleşen–bütçe karşılaştırması
+B2|Variance analysis|Sapma analizi
+B2|Favourable variance|Olumlu sapma|Favorable variance
+B2|Adverse variance|Olumsuz sapma|Unfavorable variance
+B2|Cost centre|Masraf merkezi|Cost center
+B2|Profit centre|Kâr merkezi|Profit center
+B2|Direct cost|Direkt maliyet
+B2|Indirect cost|Endirekt maliyet
+B2|Overheads|Genel giderler|Overhead
+B2|Production overheads|Genel üretim giderleri|Manufacturing overhead
+B2|Direct materials|Direkt ilk madde ve malzeme
+B2|Direct labour|Direkt işçilik|Direct labor
+B2|Work in progress (WIP)|Yarı mamul|Work in process
+B2|Bill of materials (BOM)|Ürün ağacı (reçete)
+B2|Break-even point|Başa baş noktası
+B2|Contribution margin|Katkı payı
+B2|Cost allocation|Maliyet dağıtımı
+B2|Cost driver|Maliyet etkeni
+B2|Weighted average cost|Ağırlıklı ortalama maliyet
+B2|First in, first out (FIFO)|İlk giren ilk çıkar (FİFO)
+B2|Capital expenditure (CAPEX)|Yatırım harcaması (CAPEX)
+B2|Key performance indicator (KPI)|Temel performans göstergesi
+C1|Standard costing|Standart maliyetleme
+C1|Activity-based costing (ABC)|Faaliyet tabanlı maliyetleme
+C1|Job costing|Sipariş maliyetleme
+C1|Process costing|Safha maliyetleme
+C1|Marginal costing|Değişken (marjinal) maliyetleme|Variable costing
+C1|Absorption costing|Tam maliyetleme|Full costing
+C1|Sunk cost|Batık maliyet
+C1|Opportunity cost|Fırsat maliyeti
+C1|Target costing|Hedef maliyetleme
+C1|Rolling forecast|Kayan (yuvarlanan) tahmin
+C1|Zero-based budgeting|Sıfır tabanlı bütçeleme
+C1|Moving average cost|Hareketli ortalama maliyet
+C1|Yield|Verim (randıman)
+#Y
+B1|Shareholder|Pay sahibi / Ortak|Stockholder
+B1|Dividend|Kâr payı / Temettü
+B1|Branch|Şube
+B1|Board of directors|Yönetim kurulu
+B2|Capital increase|Sermaye artırımı
+B2|Profit distribution|Kâr dağıtımı
+B2|General meeting|Genel kurul||general assembly
+B2|Articles of association|Esas sözleşme|Articles of incorporation
+B2|Limited company|Limited şirket · RO: SRL|Limited liability company (LLC)
+B2|Joint-stock company|Anonim şirket · RO: SA|Corporation
+B2|Holding company|Holding şirketi
+B2|Trade register|Ticaret sicili · RO: ONRC
+B2|Registered office|Merkez adresi (kayıtlı adres)
+B2|Power of attorney|Vekâletname
+B2|Authorised signatory|Yetkili imza|Authorized signatory
+B2|Return on investment (ROI)|Yatırım getirisi
+B2|Payback period|Geri ödeme süresi
+B2|Valuation|Değerleme
+B2|Merger|Birleşme
+B2|Acquisition|Devralma / Satın alma
+B2|Joint venture|Ortak girişim
+C1|Net present value (NPV)|Net bugünkü değer
+C1|Internal rate of return (IRR)|İç verim oranı
+C1|Share transfer|Pay devri
+C1|Capital decrease|Sermaye azaltımı
+C1|Liquidation|Tasfiye
+C1|Insolvency|Ödeme güçlüğü (iflas öncesi)
+C1|Bankruptcy|İflas
+C1|Concordat|Konkordato
+#W1
+A1|Office|Ofis
+A1|Meeting|Toplantı
+A1|Email|E-posta
+A1|Phone|Telefon
+A1|Computer|Bilgisayar
+A1|Desk|Çalışma masası
+A1|Colleague|İş arkadaşı|Coworker
+A1|Boss|Patron / Amir
+A1|Company|Şirket||firm
+A1|Team|Ekip
+A1|Work|İş / Çalışma
+A1|Job|Meslek / İş
+A1|Name|Ad / İsim
+A1|Address|Adres
+A1|Number|Numara / Sayı
+A1|Date|Tarih
+A2|Manager|Müdür / Yönetici
+A2|Director|Direktör
+A2|Department|Departman / Bölüm
+A2|Document|Belge
+A2|File|Dosya
+A2|Folder|Klasör
+A2|Attachment|Ek (e-posta eki)
+A2|Message|Mesaj
+A2|Letter|Mektup / Resmî yazı
+A2|Form|Form
+A2|Signature|İmza
+A2|Stamp|Kaşe / Mühür
+A2|Copy|Kopya / Suret
+A2|Printer|Yazıcı
+A2|Password|Şifre / Parola
+A2|Website|İnternet sitesi
+A2|Appointment|Randevu
+A2|Schedule|Program / Çizelge
+A2|Calendar|Takvim
+A2|Holiday|Tatil|Vacation (trip)
+A2|Business trip|İş seyahati
+A2|Lunch break|Öğle arası
+A2|Problem|Sorun
+A2|Question|Soru
+A2|Answer|Cevap / Yanıt
+A2|Information|Bilgi
+A2|Idea|Fikir
+A2|Plan|Plan
+A2|List|Liste
+A2|Product|Ürün
+A2|Service|Hizmet
+A2|Market|Pazar / Piyasa
+A2|Contract|Sözleşme
+B1|Report|Rapor
+B1|Deadline|Son teslim tarihi
+B1|Task|Görev
+B1|Project|Proje
+B1|Goal|Hedef||target
+B1|Result|Sonuç
+B1|Decision|Karar
+B1|Agreement|Anlaşma / Mutabakat
+B1|Agenda|Gündem (toplantı)
+B1|Minutes|Toplantı tutanağı
+B1|Presentation|Sunum
+B1|Feedback|Geri bildirim
+B1|Request|Talep / Rica
+B1|Approval|Onay
+B1|Complaint|Şikâyet
+B1|Solution|Çözüm
+B1|Opportunity|Fırsat
+B1|Risk|Risk
+B1|Responsibility|Sorumluluk
+B1|Experience|Deneyim / Tecrübe
+B1|Skill|Beceri
+B1|Process|Süreç
+B1|Procedure|Prosedür / Usul
+B1|Policy|Politika / Kural
+B1|Update|Güncelleme / Son durum
+B1|Reminder|Hatırlatma
+B1|Delay|Gecikme
+B1|Mistake|Hata
+B1|Priority|Öncelik
+B1|Quality|Kalite
+B1|Quantity|Miktar
+B1|Purpose|Amaç
+B1|Reason|Neden / Sebep
+B1|Detail|Ayrıntı
+B2|Stakeholder|Paydaş
+B2|Action item|Aksiyon maddesi
+B2|Follow-up|Takip
+B2|Workaround|Geçici çözüm
+B2|Bottleneck|Darboğaz
+B2|Requirement|Gereklilik / Şart
+B2|Issue|Konu / Sorun
+B2|Outcome|Sonuç / Çıktı
+B2|Milestone|Ara hedef (kilometre taşı)
+B2|Deliverable|Teslim edilecek çıktı
+B2|Headquarters (HQ)|Genel merkez||head office
+B2|Overview|Genel bakış
+B2|Summary|Özet
+B2|Assumption|Varsayım
+B2|Estimate|Tahmini hesap (yaklaşık rakam)
+B2|Trend|Eğilim
+B2|Benchmark|Kıyaslama ölçütü
+C1|Discrepancy|Tutarsızlık / Fark
+C1|Oversight|Gözden kaçırma (dikkatsizlik)
+C1|Contingency plan|Acil durum planı||plan B
+C1|Rationale|Gerekçe
+C1|Leeway|Esneklik payı
+#W2
+A1|Send|Göndermek
+A1|Call|Aramak (telefonla)
+A1|Meet|Buluşmak / Tanışmak
+A1|Write|Yazmak
+A1|Read|Okumak
+A1|Speak|Konuşmak
+A1|Listen|Dinlemek
+A1|Ask|Sormak / Rica etmek
+A1|Help|Yardım etmek
+A1|Start|Başlamak||begin
+A1|Finish|Bitirmek||end
+A1|Open|Açmak
+A1|Close|Kapatmak
+A1|Buy|Satın almak
+A1|Sell|Satmak
+A1|Pay|Ödemek
+A1|Need|İhtiyaç duymak
+A1|Want|İstemek
+A1|Know|Bilmek
+A1|Think|Düşünmek
+A1|Understand|Anlamak
+A1|Come|Gelmek
+A1|Go|Gitmek
+A1|Wait|Beklemek
+A1|Give|Vermek
+A1|Take|Almak
+A1|Make|Yapmak / Üretmek
+A1|Do|Yapmak
+A1|Have|Sahip olmak
+A2|Check|Kontrol etmek
+A2|Prepare|Hazırlamak
+A2|Receive|Almak (teslim almak)
+A2|Forward|İletmek (e-postayı)
+A2|Reply|Yanıtlamak
+A2|Print|Yazdırmak
+A2|Sign|İmzalamak
+A2|Book|Rezervasyon yapmak
+A2|Cancel|İptal etmek
+A2|Change|Değiştirmek
+A2|Arrive|Varmak
+A2|Leave|Ayrılmak / Bırakmak
+A2|Remember|Hatırlamak
+A2|Forget|Unutmak
+A2|Explain|Açıklamak
+A2|Agree|Aynı fikirde olmak / Kabul etmek
+A2|Decide|Karar vermek
+A2|Try|Denemek
+A2|Use|Kullanmak
+A2|Find|Bulmak
+A2|Show|Göstermek
+A2|Tell|Söylemek / Anlatmak
+A2|Save|Kaydetmek / Biriktirmek
+A2|Spend|Harcamak
+A2|Borrow|Ödünç almak
+A2|Lend|Ödünç vermek
+B1|Confirm|Teyit etmek
+B1|Approve|Onaylamak (yetkili olarak)
+B1|Attach|Eklemek (e-postaya)
+B1|Arrange|Ayarlamak / Organize etmek
+B1|Postpone|Ertelemek||put off
+B1|Discuss|Görüşmek / Tartışmak
+B1|Suggest|Önermek
+B1|Recommend|Tavsiye etmek
+B1|Improve|Geliştirmek / İyileştirmek
+B1|Increase|Artmak / Artırmak
+B1|Decrease|Azalmak / Azaltmak
+B1|Compare|Karşılaştırmak
+B1|Calculate|Hesaplamak
+B1|Organise|Düzenlemek|Organize
+B1|Deliver|Teslim etmek
+B1|Provide|Sağlamak
+B1|Require|Gerektirmek
+B1|Include|İçermek / Dahil etmek
+B1|Complete|Tamamlamak
+B1|Solve|Çözmek
+B1|Manage|Yönetmek
+B1|Respond|Yanıt vermek
+B1|Inform|Bilgilendirmek
+B1|Contact|İletişime geçmek
+B1|Apologise|Özür dilemek|Apologize
+B1|Complain|Şikâyet etmek
+B1|Expect|Beklemek (ummak)
+B1|Mention|Bahsetmek
+B1|Realise|Farkına varmak|Realize
+B1|Notice|Fark etmek
+B1|Support|Desteklemek
+B1|Share|Paylaşmak
+B2|Ensure|Garanti altına almak (sağlamak)||make sure
+B2|Clarify|Netleştirmek
+B2|Prioritise|Önceliklendirmek|Prioritize
+B2|Implement|Uygulamaya koymak
+B2|Allocate|Tahsis etmek / Dağıtmak
+B2|Verify|Doğrulamak
+B2|Review|Gözden geçirmek
+B2|Submit|Sunmak / Teslim etmek (resmî)
+B2|Assess|Değerlendirmek
+B2|Negotiate|Müzakere etmek / Pazarlık etmek
+B2|Delegate|Yetki devretmek / Görev vermek
+B2|Escalate|Üst kademeye taşımak
+B2|Streamline|Sadeleştirmek / Verimli hale getirmek
+B2|Comply with|Uymak (kurala)
+B2|Look into|İncelemek / Araştırmak
+B2|Sort out|Halletmek / Çözmek
+B2|Carry out|Yürütmek / Gerçekleştirmek
+B2|Set up|Kurmak / Ayarlamak
+B2|Figure out|Anlamak / Çözüm bulmak
+B2|Catch up|Yetişmek / Arayı kapatmak
+B2|Run out of|Tükenmek (-in bitmesi)
+B2|Point out|Belirtmek / Dikkat çekmek
+B2|Turn down|Reddetmek
+B2|Fill in|Doldurmak (form)|Fill out
+B2|Back up|Yedeklemek / Arka çıkmak
+C1|Expedite|Hızlandırmak
+C1|Mitigate|Hafifletmek (riski azaltmak)
+C1|Foresee|Öngörmek
+C1|Undertake|Üstlenmek
+C1|Endorse|Desteklemek / Onaylamak
+C1|Reiterate|Yinelemek
+C1|Substantiate|Kanıtlamak / Belgeyle desteklemek
+#W3
+A1|Good|İyi
+A1|Bad|Kötü
+A1|Big|Büyük
+A1|Small|Küçük
+A1|New|Yeni
+A1|Old|Eski / Yaşlı
+A1|Easy|Kolay
+A1|Difficult|Zor||hard
+A1|Fast|Hızlı||quick
+A1|Slow|Yavaş
+A1|Early|Erken
+A1|Late|Geç
+A1|Busy|Meşgul / Yoğun
+A1|Free|Boş / Ücretsiz
+A1|Ready|Hazır
+A1|Right|Doğru / Sağ
+A1|Wrong|Yanlış
+A1|Important|Önemli
+A2|Available|Müsait / Mevcut
+A2|Urgent|Acil
+A2|Possible|Mümkün
+A2|Impossible|İmkânsız
+A2|Necessary|Gerekli
+A2|Correct|Doğru (hatasız)
+A2|Expensive|Pahalı
+A2|Cheap|Ucuz
+A2|Same|Aynı
+A2|Different|Farklı
+A2|Similar|Benzer
+A2|Full|Dolu / Tam
+A2|Empty|Boş (içi boş)
+A2|Final|Son / Kesin
+A2|Monthly|Aylık
+A2|Weekly|Haftalık
+A2|Daily|Günlük
+A2|Annual|Yıllık||yearly
+A2|Usually|Genellikle
+A2|Always|Her zaman
+A2|Never|Asla / Hiç
+A2|Sometimes|Bazen
+A2|Often|Sık sık
+A2|Already|Zaten / Çoktan
+A2|Still|Hâlâ
+A2|Yet|Henüz
+A2|Soon|Yakında
+A2|Again|Tekrar
+A2|Together|Birlikte
+A2|Maybe|Belki||perhaps
+A2|Probably|Muhtemelen
+A2|Really|Gerçekten
+A2|Exactly|Tam olarak
+A2|Almost|Neredeyse
+B1|Accurate|Doğru / Kesin
+B1|Approximately|Yaklaşık olarak||roughly, around
+B1|Recent|Son (yakın zamandaki)
+B1|Current|Mevcut / Güncel
+B1|Previous|Önceki
+B1|Following|Aşağıdaki / Sonraki
+B1|Pending|Bekleyen (sonuçlanmamış)
+B1|Confidential|Gizli
+B1|Reliable|Güvenilir
+B1|Efficient|Verimli
+B1|Flexible|Esnek
+B1|Responsible|Sorumlu
+B1|Successful|Başarılı
+B1|Unfortunately|Maalesef
+B1|Fortunately|Neyse ki
+B1|Immediately|Hemen
+B1|Recently|Son zamanlarda
+B1|Currently|Şu anda
+B1|Finally|Sonunda / Son olarak
+B1|Especially|Özellikle
+B1|Actually|Aslında
+B1|Obviously|Belli ki / Açıkçası
+B1|Directly|Doğrudan
+B1|Carefully|Dikkatlice
+B2|Mandatory|Zorunlu||compulsory
+B2|Optional|İsteğe bağlı
+B2|Relevant|İlgili
+B2|Sufficient|Yeterli
+B2|Significant|Kayda değer / Önemli
+B2|Temporary|Geçici
+B2|Permanent|Kalıcı
+B2|Preliminary|Ön (taslak)
+B2|Feasible|Uygulanabilir
+B2|Consistent|Tutarlı
+B2|Accordingly|Buna göre
+B2|Respectively|Sırasıyla
+B2|Eventually|Nihayetinde
+B2|Gradually|Yavaş yavaş
+B2|Apparently|Görünüşe göre
+B2|Briefly|Kısaca
+B2|Thoroughly|Titizlikle / Baştan sona
+C1|Comprehensive|Kapsamlı
+C1|Ambiguous|Belirsiz (iki anlamlı)
+C1|Inevitable|Kaçınılmaz
+C1|Unprecedented|Eşi görülmemiş
+C1|Tentative|Kesinleşmemiş
+C1|Arguably|Tartışılabilir olsa da
+#W4
+A1|Today|Bugün
+A1|Tomorrow|Yarın
+A1|Yesterday|Dün
+A1|Now|Şimdi
+A1|Later|Sonra / Daha sonra
+A1|And|Ve
+A1|But|Ama / Fakat
+A1|Or|Veya
+A1|Because|Çünkü
+A1|With|İle
+A1|Without|-sız (olmadan)
+A1|For|İçin
+A1|From|-den
+A1|In|İçinde / -de
+A1|On|Üzerinde / -de (gün)
+A1|At|-de (saat, yer)
+A2|Before|Önce
+A2|After|Sonra
+A2|During|Sırasında
+A2|Until|-e kadar||till
+A2|Since|-den beri
+A2|So|Bu yüzden
+A2|If|Eğer
+A2|When|-dığında / Ne zaman
+A2|Also|Ayrıca / -de
+A2|Next week|Gelecek hafta
+A2|Last month|Geçen ay
+A2|This morning|Bu sabah
+A2|By Friday|En geç cuma gününe kadar
+A2|About|Hakkında / Yaklaşık
+B1|However|Ancak / Bununla birlikte
+B1|Although|-e rağmen / -dığı halde||though
+B1|While|-iken / Oysa
+B1|Unless|-medikçe / -mezse
+B1|As soon as|-er -mez
+B1|As long as|-dığı sürece
+B1|Whenever|Her ne zaman
+B1|Instead of|Yerine
+B1|According to|-e göre
+B1|Due to|Nedeniyle||because of
+B1|Therefore|Bu nedenle
+B1|Otherwise|Aksi halde
+B1|In addition|Ek olarak
+B1|Except|Hariç
+B1|Within|İçinde (süre)
+B1|Regarding|İlgili olarak||concerning, with regard to
+B1|Per|Başına (ör. per month = aylık)
+B2|Whereas|Oysa (karşıtlık)
+B2|Even though|-diği halde (güçlü karşıtlık)
+B2|In case|Olur diye (ihtimale karşı)
+B2|Provided that|Şartıyla
+B2|So that|-sın diye
+B2|Moreover|Üstelik
+B2|Nevertheless|Yine de
+B2|Furthermore|Ayrıca (resmî)
+B2|Meanwhile|Bu arada
+B2|As of|İtibarıyla
+B2|Prior to|-den önce (resmî)
+B2|In terms of|Açısından
+B2|On behalf of|Adına
+C1|Hence|Bu nedenle (resmî)
+C1|Thus|Böylece
+C1|Albeit|Her ne kadar … da
+C1|Whereby|Ki bununla (resmî)
+C1|Hereby|İşbu (yazı ile)
+C1|Pursuant to|-e istinaden
+C1|Subject to|-e tabi olarak / -e bağlı
+C1|In lieu of|Yerine (resmî)
+C1|With effect from|-den itibaren geçerli olmak üzere
+C1|Thereafter|Bundan sonra
+C2|Notwithstanding|-e bakılmaksızın / -e rağmen (hukuki)
