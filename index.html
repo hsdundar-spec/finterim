@@ -71,6 +71,7 @@ main{padding:10px max(16px,env(safe-area-inset-right)) calc(92px + env(safe-area
 .ib:active{background:var(--soft)}
 .ib svg{width:20px;height:20px}
 .ib.on{color:var(--acc)}.ib.on svg{fill:currentColor}
+.lvh{display:flex;align-items:center;gap:8px;margin:10px 2px 0;font-size:16px}.lvh .lv{font-size:13px;padding:2px 7px}.lvh small{color:var(--mute);font-weight:500;font-size:13px}
 .empty{text-align:center;padding:44px 16px;color:var(--mute)}
 .empty b{display:block;color:var(--ink);font-size:18px;margin-bottom:4px}
 .note{background:var(--soft);border-radius:14px;padding:12px 14px;margin-bottom:10px;font-size:15px}
@@ -216,7 +217,7 @@ const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',
 const norm=s=>String(s).toLocaleLowerCase('tr').replace(/ı/g,'i').normalize('NFD').replace(/[̀-ͯ]/g,'');
 const LV=['A1','A2','B1','B2','C1','C2'];
 const TG={G:'Genel muhasebe',F:'Finansal tablolar',V:'Vergi',B:'Bordro ve İK',K:'Banka ve finans',D:'Denetim',T:'Dış ticaret ve gümrük',M:'Maliyet ve bütçe',Y:'Şirket ve sermaye',W1:'Ofis ve iş',W2:'Fiiller',W3:'Sıfat ve zarflar',W4:'Zaman, bağlaç, edat'};
-const PG={E:'E-posta',M:'Toplantı',P:'Telefon ve online görüşme',A:'Ay sonu ve raporlama',O:'Ödeme ve tahsilat',V:'Vergi ve denetim',H:'Bordro ve İK',K:'Banka ve finans',B:'Bütçe ve analiz',D:'Dış ticaret',N:'Müzakere ve rica',d1:'Selamlaşma ve tanışma',d2:'Ofiste gündelik',d3:'Rica, teklif ve izin',d4:'Fikir bildirme',d5:'Teşekkür, özür, tepki',d6:'Zaman ve randevu',d7:'Yemek ve sosyal',d8:'Seyahat'};
+const PG={E:'E-posta',M:'Toplantı',P:'Telefon ve online görüşme',A:'Ay sonu ve raporlama',O:'Ödeme ve tahsilat',V:'Vergi ve denetim',H:'Bordro ve İK',K:'Banka ve finans',B:'Bütçe ve analiz',D:'Dış ticaret',N:'Müzakere ve rica',d1:'Selamlaşma ve tanışma',d2:'Ofiste gündelik',d3:'Rica, teklif ve izin',d4:'Fikir bildirme',d5:'Teşekkür, özür, tepki',d6:'Zaman ve randevu',d7:'Yemek ve sosyal',d8:'Seyahat',d9:'Alışveriş',d10:'Sağlık ve doktor',d11:'Ev ve kira',d12:'Sohbet ve hava durumu',d13:'Duygular',d14:'Telefon ve mesajlaşma',d15:'Aile ve arkadaşlar',d16:'Boş zaman ve hobiler',d17:'Deyimler ve kalıp sözler',d18:'Ulaşım ve araç',d19:'Flört ve randevu',d20:'İltifat ve övgü'};
 const CN={c_if:['if','Eğer / -se. Gerçek koşul: if + şimdiki zaman, will. Varsayım: if + geçmiş zaman, would. Resmî yazıda: "Should you need…"'],
 c_when:['when','-dığında / ne zaman. Gelecekten söz ederken bile when\'den sonra şimdiki zaman gelir: "when it arrives".'],
 c_while:['while','-iken (aynı anda süren iki eylem) ya da karşıtlık: "oysa, -mekle birlikte".'],
@@ -238,8 +239,9 @@ c_whereas:['whereas','Oysa / -iken (karşıtlık). Sözleşmelerde "Whereas…" 
 c_once:['once','-dıktan sonra / bir kez … -ince.'],
 c_before:['before','-meden önce. "before + -ing" de olur: before signing.'],
 c_after:['after','-dıktan sonra. "after + -ing" de olur: after closing the month.']};
+const LVN={A1:'Başlangıç',A2:'Temel',B1:'Orta',B2:'Orta üstü',C1:'İleri',C2:'Uzman'};
 const TSEC={pro:['G','F','V','B','K','D','T','M','Y'],day:['W1','W2','W3','W4']};
-const PSEC={biz:['E','M','P','A','O','V','H','K','B','D','N'],day:['d1','d2','d3','d4','d5','d6','d7','d8'],conj:Object.keys(CN)};
+const PSEC={biz:['E','M','P','A','O','V','H','K','B','D','N'],day:['d1','d2','d3','d4','d5','d6','d7','d8','d9','d10','d11','d12','d13','d14','d15','d16','d17','d18','d19','d20'],conj:Object.keys(CN)};
 const lab=c=>TG[c]||PG[c]||(CN[c]?'Bağlaç: '+CN[c][0]:c);
 const store={get(k,d){try{const v=localStorage.getItem('finterim2.'+k);return v===null?d:JSON.parse(v)}catch(e){return d}},set(k,v){try{localStorage.setItem('finterim2.'+k,JSON.stringify(v))}catch(e){}}};
 const S={tab:store.get('tab','t'),dir:store.get('dir','en'),acc:store.get('acc','en-GB'),showUS:store.get('showUS',true),rate:store.get('rate',1),q:'',limit:80,
@@ -299,9 +301,10 @@ const renderFilters=()=>{const k=S.tab,f=S.f[k];const secs=k==='t'?[['pro','Mesl
 <div class="chips">${LV.map(l=>`<button class="chip lvc" data-lv="${l}" aria-pressed="${f.lv.includes(l)}">${l}</button>`).join('')}<button class="chip" data-fav="1" aria-pressed="${f.fav}">${I.st}Favoriler</button></div>`;
  $('q').placeholder=k==='t'?(S.dir==='en'?'Ara: accrual, labour, labor…':'Ara: mizan, stopaj, tahakkuk…'):'Ara: invoice, unless, ödeme…';};
 let io;
+const withHeads=(L,q)=>{if(q)return L.slice(0,S.limit).map(card).join('');const cnt={};L.forEach(x=>cnt[x.lv]=(cnt[x.lv]||0)+1);let last='';return L.slice(0,S.limit).map(x=>{let h='';if(x.lv!==last){last=x.lv;h=`<h3 class="lvh"><span class="lv lv-${x.lv}">${x.lv}</span>${LVN[x.lv]} <small>${cnt[x.lv]}</small></h3>`}return h+card(x)}).join('')};
 const renderList=()=>{const k=S.tab,f=S.f[k];const L=listFor(k);const q=S.q.trim();const unit=k==='t'?'terim':'cümle';
  let head='';if(!q&&k==='p'&&f.sec==='conj'&&CN[f.grp])head=`<div class="note"><b>${esc(CN[f.grp][0])}</b>${esc(CN[f.grp][1])}</div>`;
- const body=L.length?`<div class="list">${L.slice(0,S.limit).map(card).join('')}</div>${L.length>S.limit?'<div class="more" id="more"></div>':''}`:
+ const body=L.length?`<div class="list">${withHeads(L,q)}</div>${L.length>S.limit?'<div class="more" id="more"></div>':''}`:
   f.fav?`<div class="empty"><b>Bu filtrede favori yok</b>Kartlardaki yıldıza dokunarak favori ekleyin.</div>`:`<div class="empty"><b>Sonuç bulunamadı</b>Farklı bir yazım deneyin; Türkçe karakter gerekmez (ör. "sirket").</div>`;
  $('view').innerHTML=`${head}<div class="meta"><span>${L.length} ${unit}${q?' · tüm bölümlerde':''}</span><span>${S.dir==='en'?'İngilizce → Türkçe':'Türkçe → İngilizce'}</span></div>${body}`;
  if(io)io.disconnect();const m=$('more');if(m&&'IntersectionObserver' in window){io=new IntersectionObserver(e=>{if(e[0].isIntersecting){S.limit+=80;renderList()}},{rootMargin:'600px'});io.observe(m)}};
