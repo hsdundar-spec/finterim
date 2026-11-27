@@ -1,5 +1,5 @@
 /* FinTerim service worker: uygulamayı çevrimdışı çalıştırır */
-const CACHE = 'finterim-v5';
+const CACHE = 'finterim-v6';
 const CORE = ['./', './index.html', './terms.txt', './phrases.txt', './manifest.webmanifest',
   './icon-192.png', './icon-512.png', './apple-touch-icon.png', './maskable-512.png'];
 self.addEventListener('install', e => {
