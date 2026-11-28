@@ -487,7 +487,7 @@ B1|Overtime|Fazla mesai
 B1|Working hours|Çalışma saatleri
 B1|Shift|Vardiya
 B1|Night shift|Gece vardiyası
-B1|Annual leave|Yıllık ücretli izin|Vacation|holiday entitlement
+B1|Annual leave|Yıllık ücretli izin|Vacation time|holiday entitlement
 B1|Public holiday|Resmî tatil||bank holiday
 B1|Sick leave|Hastalık izni
 B1|Medical certificate|Sağlık (istirahat) raporu|Doctor's note|sick note
@@ -824,23 +824,14 @@ C1|Liquidation|Tasfiye
 C1|Insolvency|Ödeme güçlüğü (iflas öncesi)
 C1|Bankruptcy|İflas
 C1|Concordat|Konkordato
-#W1
+#WF1
 A1|Office|Ofis
 A1|Meeting|Toplantı
 A1|Email|E-posta
-A1|Phone|Telefon
-A1|Computer|Bilgisayar
-A1|Desk|Çalışma masası
 A1|Colleague|İş arkadaşı|Coworker
 A1|Boss|Patron / Amir
 A1|Company|Şirket||firm
 A1|Team|Ekip
-A1|Work|İş / Çalışma
-A1|Job|Meslek / İş
-A1|Name|Ad / İsim
-A1|Address|Adres
-A1|Number|Numara / Sayı
-A1|Date|Tarih
 A2|Manager|Müdür / Yönetici
 A2|Director|Direktör
 A2|Department|Departman / Bölüm
@@ -848,28 +839,14 @@ A2|Document|Belge
 A2|File|Dosya
 A2|Folder|Klasör
 A2|Attachment|Ek (e-posta eki)
-A2|Message|Mesaj
-A2|Letter|Mektup / Resmî yazı
 A2|Form|Form
 A2|Signature|İmza
 A2|Stamp|Kaşe / Mühür
 A2|Copy|Kopya / Suret
 A2|Printer|Yazıcı
-A2|Password|Şifre / Parola
-A2|Website|İnternet sitesi
-A2|Appointment|Randevu
 A2|Schedule|Program / Çizelge
-A2|Calendar|Takvim
-A2|Holiday|Tatil|Vacation (trip)
 A2|Business trip|İş seyahati
 A2|Lunch break|Öğle arası
-A2|Problem|Sorun
-A2|Question|Soru
-A2|Answer|Cevap / Yanıt
-A2|Information|Bilgi
-A2|Idea|Fikir
-A2|Plan|Plan
-A2|List|Liste
 A2|Product|Ürün
 A2|Service|Hizmet
 A2|Market|Pazar / Piyasa
@@ -879,35 +856,18 @@ B1|Deadline|Son teslim tarihi
 B1|Task|Görev
 B1|Project|Proje
 B1|Goal|Hedef||target
-B1|Result|Sonuç
-B1|Decision|Karar
 B1|Agreement|Anlaşma / Mutabakat
 B1|Agenda|Gündem (toplantı)
 B1|Minutes|Toplantı tutanağı
 B1|Presentation|Sunum
 B1|Feedback|Geri bildirim
-B1|Request|Talep / Rica
 B1|Approval|Onay
-B1|Complaint|Şikâyet
-B1|Solution|Çözüm
-B1|Opportunity|Fırsat
 B1|Risk|Risk
-B1|Responsibility|Sorumluluk
-B1|Experience|Deneyim / Tecrübe
-B1|Skill|Beceri
 B1|Process|Süreç
 B1|Procedure|Prosedür / Usul
 B1|Policy|Politika / Kural
 B1|Update|Güncelleme / Son durum
-B1|Reminder|Hatırlatma
-B1|Delay|Gecikme
-B1|Mistake|Hata
 B1|Priority|Öncelik
-B1|Quality|Kalite
-B1|Quantity|Miktar
-B1|Purpose|Amaç
-B1|Reason|Neden / Sebep
-B1|Detail|Ayrıntı
 B2|Stakeholder|Paydaş
 B2|Action item|Aksiyon maddesi
 B2|Follow-up|Takip
@@ -930,74 +890,14 @@ C1|Oversight|Gözden kaçırma (dikkatsizlik)
 C1|Contingency plan|Acil durum planı||plan B
 C1|Rationale|Gerekçe
 C1|Leeway|Esneklik payı
-#W2
-A1|Send|Göndermek
-A1|Call|Aramak (telefonla)
-A1|Meet|Buluşmak / Tanışmak
-A1|Write|Yazmak
-A1|Read|Okumak
-A1|Speak|Konuşmak
-A1|Listen|Dinlemek
-A1|Ask|Sormak / Rica etmek
-A1|Help|Yardım etmek
-A1|Start|Başlamak||begin
-A1|Finish|Bitirmek||end
-A1|Open|Açmak
-A1|Close|Kapatmak
-A1|Buy|Satın almak
-A1|Sell|Satmak
-A1|Pay|Ödemek
-A1|Need|İhtiyaç duymak
-A1|Want|İstemek
-A1|Know|Bilmek
-A1|Think|Düşünmek
-A1|Understand|Anlamak
-A1|Come|Gelmek
-A1|Go|Gitmek
-A1|Wait|Beklemek
-A1|Give|Vermek
-A1|Take|Almak
-A1|Make|Yapmak / Üretmek
-A1|Do|Yapmak
-A1|Have|Sahip olmak
-A2|Check|Kontrol etmek
-A2|Prepare|Hazırlamak
-A2|Receive|Almak (teslim almak)
+#WF2
 A2|Forward|İletmek (e-postayı)
-A2|Reply|Yanıtlamak
-A2|Print|Yazdırmak
-A2|Sign|İmzalamak
-A2|Book|Rezervasyon yapmak
-A2|Cancel|İptal etmek
-A2|Change|Değiştirmek
-A2|Arrive|Varmak
-A2|Leave|Ayrılmak / Bırakmak
-A2|Remember|Hatırlamak
-A2|Forget|Unutmak
-A2|Explain|Açıklamak
-A2|Agree|Aynı fikirde olmak / Kabul etmek
-A2|Decide|Karar vermek
-A2|Try|Denemek
-A2|Use|Kullanmak
-A2|Find|Bulmak
-A2|Show|Göstermek
-A2|Tell|Söylemek / Anlatmak
-A2|Save|Kaydetmek / Biriktirmek
-A2|Spend|Harcamak
-A2|Borrow|Ödünç almak
-A2|Lend|Ödünç vermek
 B1|Confirm|Teyit etmek
 B1|Approve|Onaylamak (yetkili olarak)
 B1|Attach|Eklemek (e-postaya)
 B1|Arrange|Ayarlamak / Organize etmek
 B1|Postpone|Ertelemek||put off
 B1|Discuss|Görüşmek / Tartışmak
-B1|Suggest|Önermek
-B1|Recommend|Tavsiye etmek
-B1|Improve|Geliştirmek / İyileştirmek
-B1|Increase|Artmak / Artırmak
-B1|Decrease|Azalmak / Azaltmak
-B1|Compare|Karşılaştırmak
 B1|Calculate|Hesaplamak
 B1|Organise|Düzenlemek|Organize
 B1|Deliver|Teslim etmek
@@ -1005,19 +905,10 @@ B1|Provide|Sağlamak
 B1|Require|Gerektirmek
 B1|Include|İçermek / Dahil etmek
 B1|Complete|Tamamlamak
-B1|Solve|Çözmek
 B1|Manage|Yönetmek
 B1|Respond|Yanıt vermek
 B1|Inform|Bilgilendirmek
 B1|Contact|İletişime geçmek
-B1|Apologise|Özür dilemek|Apologize
-B1|Complain|Şikâyet etmek
-B1|Expect|Beklemek (ummak)
-B1|Mention|Bahsetmek
-B1|Realise|Farkına varmak|Realize
-B1|Notice|Fark etmek
-B1|Support|Desteklemek
-B1|Share|Paylaşmak
 B2|Ensure|Garanti altına almak (sağlamak)||make sure
 B2|Clarify|Netleştirmek
 B2|Prioritise|Önceliklendirmek|Prioritize
@@ -1032,17 +923,7 @@ B2|Delegate|Yetki devretmek / Görev vermek
 B2|Escalate|Üst kademeye taşımak
 B2|Streamline|Sadeleştirmek / Verimli hale getirmek
 B2|Comply with|Uymak (kurala)
-B2|Look into|İncelemek / Araştırmak
-B2|Sort out|Halletmek / Çözmek
 B2|Carry out|Yürütmek / Gerçekleştirmek
-B2|Set up|Kurmak / Ayarlamak
-B2|Figure out|Anlamak / Çözüm bulmak
-B2|Catch up|Yetişmek / Arayı kapatmak
-B2|Run out of|Tükenmek (-in bitmesi)
-B2|Point out|Belirtmek / Dikkat çekmek
-B2|Turn down|Reddetmek
-B2|Fill in|Doldurmak (form)|Fill out
-B2|Back up|Yedeklemek / Arka çıkmak
 C1|Expedite|Hızlandırmak
 C1|Mitigate|Hafifletmek (riski azaltmak)
 C1|Foresee|Öngörmek
@@ -1050,159 +931,31 @@ C1|Undertake|Üstlenmek
 C1|Endorse|Desteklemek / Onaylamak
 C1|Reiterate|Yinelemek
 C1|Substantiate|Kanıtlamak / Belgeyle desteklemek
-#W3
-A1|Good|İyi
-A1|Bad|Kötü
-A1|Big|Büyük
-A1|Small|Küçük
-A1|New|Yeni
-A1|Old|Eski / Yaşlı
-A1|Easy|Kolay
-A1|Difficult|Zor||hard
-A1|Fast|Hızlı||quick
-A1|Slow|Yavaş
-A1|Early|Erken
-A1|Late|Geç
-A1|Busy|Meşgul / Yoğun
-A1|Free|Boş / Ücretsiz
-A1|Ready|Hazır
-A1|Right|Doğru / Sağ
-A1|Wrong|Yanlış
-A1|Important|Önemli
-A2|Available|Müsait / Mevcut
-A2|Urgent|Acil
-A2|Possible|Mümkün
-A2|Impossible|İmkânsız
-A2|Necessary|Gerekli
-A2|Correct|Doğru (hatasız)
-A2|Expensive|Pahalı
-A2|Cheap|Ucuz
-A2|Same|Aynı
-A2|Different|Farklı
-A2|Similar|Benzer
-A2|Full|Dolu / Tam
-A2|Empty|Boş (içi boş)
-A2|Final|Son / Kesin
-A2|Monthly|Aylık
-A2|Weekly|Haftalık
-A2|Daily|Günlük
-A2|Annual|Yıllık||yearly
-A2|Usually|Genellikle
-A2|Always|Her zaman
-A2|Never|Asla / Hiç
-A2|Sometimes|Bazen
-A2|Often|Sık sık
-A2|Already|Zaten / Çoktan
-A2|Still|Hâlâ
-A2|Yet|Henüz
-A2|Soon|Yakında
-A2|Again|Tekrar
-A2|Together|Birlikte
-A2|Maybe|Belki||perhaps
-A2|Probably|Muhtemelen
-A2|Really|Gerçekten
-A2|Exactly|Tam olarak
-A2|Almost|Neredeyse
+#WF3
 B1|Accurate|Doğru / Kesin
 B1|Approximately|Yaklaşık olarak||roughly, around
-B1|Recent|Son (yakın zamandaki)
-B1|Current|Mevcut / Güncel
-B1|Previous|Önceki
-B1|Following|Aşağıdaki / Sonraki
 B1|Pending|Bekleyen (sonuçlanmamış)
 B1|Confidential|Gizli
-B1|Reliable|Güvenilir
 B1|Efficient|Verimli
-B1|Flexible|Esnek
-B1|Responsible|Sorumlu
-B1|Successful|Başarılı
-B1|Unfortunately|Maalesef
-B1|Fortunately|Neyse ki
-B1|Immediately|Hemen
-B1|Recently|Son zamanlarda
-B1|Currently|Şu anda
-B1|Finally|Sonunda / Son olarak
-B1|Especially|Özellikle
-B1|Actually|Aslında
-B1|Obviously|Belli ki / Açıkçası
-B1|Directly|Doğrudan
-B1|Carefully|Dikkatlice
 B2|Mandatory|Zorunlu||compulsory
 B2|Optional|İsteğe bağlı
 B2|Relevant|İlgili
 B2|Sufficient|Yeterli
 B2|Significant|Kayda değer / Önemli
-B2|Temporary|Geçici
-B2|Permanent|Kalıcı
 B2|Preliminary|Ön (taslak)
 B2|Feasible|Uygulanabilir
 B2|Consistent|Tutarlı
 B2|Accordingly|Buna göre
 B2|Respectively|Sırasıyla
-B2|Eventually|Nihayetinde
-B2|Gradually|Yavaş yavaş
-B2|Apparently|Görünüşe göre
-B2|Briefly|Kısaca
 B2|Thoroughly|Titizlikle / Baştan sona
 C1|Comprehensive|Kapsamlı
 C1|Ambiguous|Belirsiz (iki anlamlı)
-C1|Inevitable|Kaçınılmaz
-C1|Unprecedented|Eşi görülmemiş
 C1|Tentative|Kesinleşmemiş
-C1|Arguably|Tartışılabilir olsa da
-#W4
-A1|Today|Bugün
-A1|Tomorrow|Yarın
-A1|Yesterday|Dün
-A1|Now|Şimdi
-A1|Later|Sonra / Daha sonra
-A1|And|Ve
-A1|But|Ama / Fakat
-A1|Or|Veya
-A1|Because|Çünkü
-A1|With|İle
-A1|Without|-sız (olmadan)
-A1|For|İçin
-A1|From|-den
-A1|In|İçinde / -de
-A1|On|Üzerinde / -de (gün)
-A1|At|-de (saat, yer)
-A2|Before|Önce
-A2|After|Sonra
-A2|During|Sırasında
-A2|Until|-e kadar||till
-A2|Since|-den beri
-A2|So|Bu yüzden
-A2|If|Eğer
-A2|When|-dığında / Ne zaman
-A2|Also|Ayrıca / -de
-A2|Next week|Gelecek hafta
-A2|Last month|Geçen ay
-A2|This morning|Bu sabah
-A2|By Friday|En geç cuma gününe kadar
-A2|About|Hakkında / Yaklaşık
-B1|However|Ancak / Bununla birlikte
-B1|Although|-e rağmen / -dığı halde||though
-B1|While|-iken / Oysa
-B1|Unless|-medikçe / -mezse
-B1|As soon as|-er -mez
-B1|As long as|-dığı sürece
-B1|Whenever|Her ne zaman
-B1|Instead of|Yerine
+#WF4
 B1|According to|-e göre
-B1|Due to|Nedeniyle||because of
-B1|Therefore|Bu nedenle
-B1|Otherwise|Aksi halde
-B1|In addition|Ek olarak
-B1|Except|Hariç
-B1|Within|İçinde (süre)
 B1|Regarding|İlgili olarak||concerning, with regard to
 B1|Per|Başına (ör. per month = aylık)
-B2|Whereas|Oysa (karşıtlık)
-B2|Even though|-diği halde (güçlü karşıtlık)
-B2|In case|Olur diye (ihtimale karşı)
 B2|Provided that|Şartıyla
-B2|So that|-sın diye
 B2|Moreover|Üstelik
 B2|Nevertheless|Yine de
 B2|Furthermore|Ayrıca (resmî)

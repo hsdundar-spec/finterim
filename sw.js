@@ -1,7 +1,10 @@
-/* FinTerim service worker: uygulamayı çevrimdışı çalıştırır */
-const CACHE = 'finterim-v6';
-const CORE = ['./', './index.html', './terms.txt', './phrases.txt', './manifest.webmanifest',
-  './icon-192.png', './icon-512.png', './apple-touch-icon.png', './maskable-512.png'];
+/* FinTerim + GünTerim service worker: iki uygulamayı da çevrimdışı çalıştırır */
+const CACHE = 'finterim-v8';
+const CORE = ['./', './index.html', './gun.html', './app.js', './app.css',
+  './terms.txt', './phrases.txt', './gun-terms.txt', './gun-phrases.txt',
+  './manifest.webmanifest', './gun.webmanifest',
+  './icon-192.png', './icon-512.png', './apple-touch-icon.png', './maskable-512.png',
+  './gun-icon-192.png', './gun-icon-512.png', './gun-apple-touch-icon.png', './gun-maskable-512.png'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(CORE)).then(() => self.skipWaiting()));
 });

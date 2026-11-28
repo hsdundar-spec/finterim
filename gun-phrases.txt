@@ -1,0 +1,891 @@
+#h_intro
+A1|Good morning! How are you?|Günaydın! Nasılsınız?
+A1|I'm fine, thanks. And you?|İyiyim, teşekkürler. Ya siz?
+A1|Nice to meet you.|Tanıştığımıza memnun oldum.
+A1|My name is Hasan. I work in finance.|Adım Hasan. Finans alanında çalışıyorum.
+A1|Where are you from?|Nerelisiniz?
+A1|I'm from Turkey, but I live in Romania.|Türkiyeliyim ama Romanya'da yaşıyorum.
+A1|See you tomorrow.|Yarın görüşürüz.
+A1|Have a nice weekend!|İyi hafta sonları!
+A2|How was your weekend?|Hafta sonunuz nasıl geçti?
+A2|Long time no see!|Uzun zamandır görüşemedik!
+A2|Let me introduce you to my colleague.|Sizi iş arkadaşımla tanıştırayım.
+A2|What do you do?|Ne iş yapıyorsunuz?
+A2|How long have you been working here?|Ne zamandır burada çalışıyorsunuz?
+A2|Take care!|Kendinize iyi bakın!
+B1|It was a pleasure talking to you.|Sizinle konuşmak bir zevkti.
+B1|Please say hello to the team for me.|Ekibe benden selam söyleyin.
+B1|I've heard a lot about you.|Sizden çok bahsedildiğini duydum.
+B1|Let's keep in touch.|İletişimde kalalım.
+A1|Hi! / Hello!|Selam! / Merhaba!
+A1|Goodbye!|Hoşça kalın!
+A1|Good night!|İyi geceler!
+A1|What's your name?|Adınız ne?
+A1|Welcome!|Hoş geldiniz!
+A2|What's new?|Ne var ne yok?
+A2|Not bad, thanks.|Fena değil, teşekkürler.
+A2|How's it going?|Nasıl gidiyor?
+A2|This is my wife, Ayşe.|Bu eşim Ayşe.
+A2|Do you speak Turkish?|Türkçe biliyor musunuz?
+A2|I'm learning English.|İngilizce öğreniyorum.
+B1|I don't think we've met before.|Daha önce tanıştığımızı sanmıyorum.
+B1|Have we met somewhere before?|Daha önce bir yerde tanışmış mıydık?
+B1|How do you know each other?|Birbirinizi nereden tanıyorsunuz?
+B1|Sorry, I didn't catch your name.|Kusura bakmayın, adınızı tam anlayamadım.
+B2|It's been ages!|Görüşmeyeli asırlar oldu!
+B2|What have you been up to lately?|Son zamanlarda neler yapıyorsun?
+B2|I must be going now.|Artık gitmem gerekiyor.
+C1|Give my regards to your family.|Ailenize selamlarımı iletin.
+C1|We must do this again sometime.|Bunu bir ara tekrarlamalıyız.
+#k_req
+A2|Could you help me, please?|Bana yardım eder misiniz lütfen?
+A2|Can I ask you something?|Size bir şey sorabilir miyim?
+A2|Would you like a coffee?|Kahve ister misiniz?
+A2|Yes, please. / No, thank you.|Evet, lütfen. / Hayır, teşekkür ederim.
+B1|Would you mind closing the window?|Pencereyi kapatır mısınız?
+B1|Do you mind if I open the window?|Pencereyi açmamın sakıncası var mı?
+B1|Is it OK if I leave a bit earlier today?|Bugün biraz erken çıksam olur mu?
+B1|Could you do me a favour?|Bana bir iyilik yapar mısınız?|Could you do me a favor?
+B1|Let me know if you need anything.|Bir şeye ihtiyacınız olursa söyleyin.
+B1|Shall I send it to you now?|Size şimdi göndereyim mi?
+B1|Would you like me to check it?|Kontrol etmemi ister misiniz?
+B2|I was wondering if you could help me with this report.|Bu raporda bana yardım edip edemeyeceğinizi merak ediyordum.
+B2|Would it be possible to meet on Thursday instead?|Bunun yerine perşembe buluşmak mümkün olur mu?
+B2|I'd rather not, if you don't mind.|Sakıncası yoksa yapmamayı tercih ederim.
+B2|Feel free to call me any time.|İstediğiniz zaman beni arayabilirsiniz.
+A1|Can I help you?|Yardımcı olabilir miyim?
+A2|Can you say that again, please?|Tekrar söyler misiniz lütfen?
+A2|Can I borrow your charger?|Şarj aletinizi ödünç alabilir miyim?
+B1|Could you keep an eye on my bag?|Çantama göz kulak olur musunuz?
+B1|Is there anything I can do to help?|Yardım edebileceğim bir şey var mı?
+B1|Would you like me to pick you up?|Sizi almamı ister misiniz?
+B1|May I come in?|Girebilir miyim?
+B2|I hate to ask, but could you lend me some money?|Sormak istemezdim ama bana biraz borç verebilir misiniz?
+B2|Would you be so kind as to hold the door?|Kapıyı tutma nezaketini gösterir misiniz?
+B2|If it's not too much trouble, could you call me later?|Zahmet olmazsa beni sonra arayabilir misiniz?
+C1|I'd be much obliged if you could help me out.|Bana yardımcı olabilirseniz çok minnettar kalırım.
+C1|Would it be an imposition to ask you to stay a bit longer?|Biraz daha kalmanızı istesem sizi zor durumda bırakır mıyım?
+#k_op
+A2|I think so.|Sanırım öyle.
+A2|I don't think so.|Sanmıyorum.
+A2|I agree with you.|Size katılıyorum.
+A2|That's a good idea.|Bu iyi bir fikir.
+B1|In my opinion, we should wait.|Bence beklemeliyiz.
+B1|I'm not sure about that.|Bundan emin değilim.
+B1|You have a point.|Haklısınız, bir noktada.
+B1|I see what you mean.|Ne demek istediğinizi anlıyorum.
+B1|That's exactly what I was thinking.|Ben de tam olarak bunu düşünüyordum.
+B1|I'm afraid I disagree.|Korkarım katılmıyorum.
+B2|I see your point, but I'm not convinced.|Görüşünüzü anlıyorum ama ikna olmadım.
+B2|It depends on the circumstances.|Koşullara bağlı.
+B2|To be honest, I think it's too risky.|Açıkçası bence çok riskli.
+B2|That's not quite what I meant.|Tam olarak demek istediğim bu değildi.
+B2|Let's agree to disagree.|Farklı düşündüğümüzü kabul edelim.
+C1|I couldn't agree more.|Size tamamen katılıyorum.
+C1|I'd go along with that, up to a point.|Belli bir noktaya kadar buna katılırım.
+A2|I like it.|Beğendim.
+A2|I don't like it.|Beğenmedim.
+A2|Me too. / Me neither.|Ben de. / Ben de değil.
+B1|What do you think?|Siz ne düşünüyorsunuz?
+B1|I totally agree.|Kesinlikle katılıyorum.
+B1|That makes sense.|Mantıklı.
+B1|It's up to you.|Size kalmış.
+B1|I don't mind.|Benim için fark etmez.
+B2|That's a fair point.|Haklı bir nokta.
+B2|I'm in two minds about it.|Bu konuda kararsızım.
+B2|I have mixed feelings about it.|Bu konuda karışık duygular içindeyim.
+B2|Let's look at it another way.|Konuya başka bir açıdan bakalım.
+C1|I beg to differ.|Kusura bakmayın ama farklı düşünüyorum.
+C1|That's beside the point.|Konumuz bu değil.
+C1|It's a double-edged sword.|İki tarafı keskin bir kılıç.
+C2|I'm inclined to think otherwise.|Aksini düşünmeye meyilliyim.
+C2|That argument doesn't hold water.|Bu argüman inandırıcı değil (temelsiz).
+#k_thx
+A1|Thank you very much.|Çok teşekkür ederim.
+A1|You're welcome.|Rica ederim.
+A1|Sorry, I'm late.|Özür dilerim, geç kaldım.
+A2|No problem.|Sorun değil.
+A2|Don't worry about it.|Hiç dert etmeyin.
+A2|Congratulations!|Tebrikler!
+A2|Well done!|Aferin! / Harika iş!
+B1|Thanks a lot for your help.|Yardımınız için çok teşekkürler.
+B1|I really appreciate it.|Gerçekten minnettarım.
+B1|Sorry for the inconvenience.|Rahatsızlık için özür dileriz.
+B1|It was my fault.|Benim hatamdı.
+B1|That's very kind of you.|Çok naziksiniz.
+B1|What a pity!|Ne yazık!
+B1|That's great news!|Harika bir haber!
+B2|I owe you one.|Size bir borcum var.
+B2|No hard feelings.|Kırgınlık yok.
+B2|I'm sorry to hear that.|Bunu duyduğuma üzüldüm.
+A2|Excuse me.|Affedersiniz.
+A2|Happy birthday!|Doğum günün kutlu olsun!
+A2|Get well soon!|Geçmiş olsun!
+A2|Have a good trip!|İyi yolculuklar!
+B1|Thanks anyway.|Yine de teşekkürler.
+B1|You shouldn't have!|Zahmet etmeseydiniz!
+B1|I'm really sorry about that.|Bunun için gerçekten üzgünüm.
+B1|That's a relief!|İçim rahatladı!
+B1|Really? I can't believe it!|Gerçekten mi? İnanamıyorum!
+B2|My condolences.|Başınız sağ olsun.
+B2|I didn't mean to upset you.|Sizi üzmek istememiştim.
+B2|Thanks for having me.|Beni ağırladığınız için teşekkürler.
+B2|No worries at all.|Hiç dert değil.
+C1|I can't thank you enough.|Size ne kadar teşekkür etsem az.
+C1|Please accept my sincere apologies.|Lütfen içten özürlerimi kabul edin.
+C1|That's very thoughtful of you.|Çok düşüncelisiniz.
+#n_time
+A1|What time is it?|Saat kaç?
+A1|It's half past nine.|Saat dokuz buçuk.
+A2|It's quarter to eight.|Saat sekize çeyrek var.|It's a quarter to eight.
+A1|It's seven o'clock.|Saat yedi.
+A1|It's quarter past ten.|Saat onu çeyrek geçiyor.|It's a quarter after ten.
+A1|What time do you get up?|Saat kaçta kalkarsınız?
+A2|The film starts at half past eight.|Film sekiz buçukta başlıyor.|The movie starts at eight thirty.
+A2|It's ten to six.|Saat altıya on var.|It's ten of six.
+A2|The shop opens at 9 a.m.|Dükkân sabah 9'da açılıyor.|The store opens at 9 a.m.
+A2|Do you have the time?|Saatiniz var mı? (Saat kaç?)
+A2|I'll be back in twenty minutes.|Yirmi dakika içinde dönerim.
+B1|My watch is five minutes fast.|Saatim beş dakika ileri.
+B1|The train left on time.|Tren zamanında kalktı.
+B1|We got there just in time.|Oraya tam vaktinde vardık.
+B1|It takes about an hour and a half.|Yaklaşık bir buçuk saat sürüyor.
+B2|Let's meet at around ten-ish.|Saat on gibi buluşalım.
+B2|I lost track of time.|Zamanın nasıl geçtiğini fark etmedim.
+#p_plan
+A2|What time does the meeting start?|Toplantı saat kaçta başlıyor?
+A2|Are you free on Tuesday afternoon?|Salı öğleden sonra müsait misiniz?
+A2|Let's meet at ten o'clock.|Saat onda buluşalım.
+A2|I'm sorry, I can't make it on Monday.|Kusura bakmayın, pazartesi gelemiyorum.
+A2|How about next week?|Gelecek hafta nasıl olur?
+B1|Can we reschedule the meeting?|Toplantıyı başka bir zamana alabilir miyiz?
+B1|I'm running a bit late.|Biraz gecikiyorum.
+B1|I'll be there in ten minutes.|On dakika içinde orada olurum.
+B1|The deadline is the end of the month.|Son tarih ay sonu.
+B1|Does Thursday work for you?|Perşembe sizin için uygun mu?
+B2|Let's pencil it in for Friday.|Şimdilik cumaya not edelim.
+B2|I'm fully booked this week.|Bu hafta tamamen doluyum.
+B2|We're behind schedule.|Programın gerisindeyiz.
+B2|We're ahead of schedule.|Programın önündeyiz.
+A1|See you at five.|Beşte görüşürüz.
+A2|I'm free after lunch.|Öğle yemeğinden sonra boşum.
+B1|Is it too early to call you?|Sizi aramak için çok mu erken?
+B1|I'll be a few minutes late.|Birkaç dakika gecikeceğim.
+B1|Let's meet halfway.|Yarı yolda buluşalım.
+B1|I'll get there as soon as I can.|Elimden geldiğince çabuk oraya varacağım.
+B2|Can we push the meeting back an hour?|Toplantıyı bir saat sonraya alabilir miyiz?
+B2|Can we bring the meeting forward to Monday?|Toplantıyı pazartesiye öne çekebilir miyiz?
+B2|I'm tied up until three.|Saat üçe kadar meşgulüm.
+B2|Time flies!|Zaman nasıl da geçiyor!
+C1|Let's play it by ear.|Duruma göre hareket edelim.
+C1|We're cutting it fine.|Son dakikaya bırakıyoruz.|We're cutting it close.
+B1|What are you up to this weekend?|Bu hafta sonu ne yapıyorsun?
+B1|Shall we do something on Saturday?|Cumartesi bir şey yapalım mı?
+#c_rest
+A1|I'm hungry. Let's get something to eat.|Acıktım. Bir şeyler yiyelim.
+A1|Can I have the menu, please?|Menüyü alabilir miyim lütfen?
+A2|What would you recommend?|Ne tavsiye edersiniz?
+A2|Can we have the bill, please?|Hesabı alabilir miyiz lütfen?|Can we have the check, please?
+A2|This one's on me.|Bu benden.
+A2|Cheers!|Şerefe!
+B1|Shall we split the bill?|Hesabı bölüşelim mi?|Shall we split the check?
+B1|Are you coming to the team dinner on Friday?|Cuma günkü ekip yemeğine geliyor musunuz?
+B1|Do you have any plans for the weekend?|Hafta sonu için planınız var mı?
+B1|I'm a vegetarian.|Vejetaryenim.
+B2|Help yourself.|Buyurun, kendiniz alın.
+B2|I'm full, thank you.|Doydum, teşekkür ederim.
+A1|I'd like a coffee, please.|Bir kahve alabilir miyim lütfen?
+A1|Water, please.|Su lütfen.
+A2|Is there a table for two?|İki kişilik masa var mı?
+A2|I'm allergic to nuts.|Kuruyemişe alerjim var.
+A2|Could we have some more bread?|Biraz daha ekmek alabilir miyiz?
+A2|It's delicious!|Çok lezzetli!
+B1|I'll have the same, please.|Ben de aynısından alayım lütfen.
+B1|Can I pay by card?|Kartla ödeyebilir miyim?
+B1|Is service included?|Servis ücreti dahil mi?|Is the tip included?
+B1|Would you like to join us for dinner?|Akşam yemeğinde bize katılmak ister misiniz?
+B1|What would you like to drink?|Ne içmek istersiniz?
+B2|I've booked a table for eight o'clock.|Saat sekize masa ayırttım.
+B2|This isn't what I ordered.|Bu benim sipariş ettiğim şey değil.
+B2|Let's grab a bite after work.|İşten sonra bir şeyler atıştıralım.
+B2|I'm on a diet.|Diyetteyim.
+C1|It's my treat this time.|Bu sefer benden.
+C1|I couldn't eat another bite.|Bir lokma daha yiyemem.
+#n_dir
+A1|Where is the train station?|Tren istasyonu nerede?
+A2|How do I get to the city centre?|Şehir merkezine nasıl gidebilirim?|How do I get downtown?
+A2|Is it far from here?|Buradan uzak mı?
+A2|Turn left at the traffic lights.|Trafik ışıklarından sola dönün.
+A2|Go straight on.|Dümdüz gidin.|Go straight ahead.
+A1|It's on the left.|Solda.
+A1|The bank is next to the pharmacy.|Banka eczanenin yanında.
+A2|Excuse me, how do I get to the station?|Affedersiniz, istasyona nasıl gidebilirim?
+A2|Take the second street on the right.|Sağdan ikinci sokağa girin.
+A2|It's opposite the post office.|Postanenin karşısında.
+A2|Cross the road at the traffic lights.|Trafik ışıklarından karşıya geçin.|Cross the street at the stoplight.
+B1|It's just around the corner.|Hemen köşeyi dönünce.
+B1|Go past the church and turn right.|Kiliseyi geçin ve sağa dönün.
+B1|At the roundabout, take the third exit.|Döner kavşakta üçüncü çıkıştan çıkın.|At the traffic circle, take the third exit.
+B1|You can't miss it.|Kolayca bulursunuz.
+#l_trav
+A1|How much is a ticket to Bucharest?|Bükreş'e bilet ne kadar?
+A2|I'd like to book a room for two nights.|İki gecelik oda ayırtmak istiyorum.
+A2|What time is check-out?|Çıkış saati kaçta?
+A2|My flight has been delayed.|Uçuşum ertelendi.
+B1|Is breakfast included?|Kahvaltı dahil mi?
+B2|I missed my connecting flight.|Aktarmalı uçuşumu kaçırdım.
+B2|My luggage hasn't arrived.|Bagajım gelmedi.
+A1|Where is the airport?|Havalimanı nerede?
+A1|One ticket, please.|Bir bilet lütfen.
+A2|Which platform does the train leave from?|Tren hangi perondan kalkıyor?
+B1|I'd like a window seat, please.|Cam kenarı bir koltuk istiyorum lütfen.
+B1|What time do we board?|Saat kaçta uçağa biniyoruz?
+B1|Could you tell me where the nearest pharmacy is?|En yakın eczanenin nerede olduğunu söyleyebilir misiniz?
+B1|Can I check in online?|Online check-in yapabilir miyim?
+B1|I'm lost. Can you help me?|Kayboldum. Bana yardım edebilir misiniz?
+B2|There's a problem with my booking.|Rezervasyonumla ilgili bir sorun var.|There's a problem with my reservation.
+B2|I'd like to change my flight.|Uçuşumu değiştirmek istiyorum.
+B2|The room hasn't been cleaned.|Oda temizlenmemiş.
+B2|Do I need a visa to travel to the UK?|İngiltere'ye seyahat için vizeye ihtiyacım var mı?
+C1|I'm still a bit jet-lagged.|Hâlâ biraz jet-lag'im var.
+B1|Is there a shuttle to the city centre?|Şehir merkezine servis var mı?|Is there a shuttle downtown?
+B1|We're going to Istanbul for a week.|Bir haftalığına İstanbul'a gidiyoruz.
+#c_tran
+A2|Could you call a taxi for me, please?|Bana bir taksi çağırabilir misiniz lütfen?
+B1|I'm here on business.|Burada iş için bulunuyorum.
+B1|Could I get a receipt for the taxi?|Taksi için fiş alabilir miyim?
+B1|The traffic is terrible this morning.|Bu sabah trafik berbat.
+C1|We hit heavy traffic on the way.|Yolda yoğun trafiğe takıldık.
+A1|Where can I park?|Nereye park edebilirim?
+A2|Fill it up, please.|Depoyu doldurun lütfen.
+A2|Is this the bus to the city centre?|Şehir merkezine giden otobüs bu mu?|Is this the bus downtown?
+A2|Where is the nearest petrol station?|En yakın benzin istasyonu nerede?|Where is the nearest gas station?
+A2|How long does it take to get there?|Oraya gitmek ne kadar sürer?
+B1|I've got a flat tyre.|Lastiğim patladı.|I've got a flat tire.
+B1|The car won't start.|Araba çalışmıyor.
+B1|Is there a toll on this road?|Bu yol paralı mı?
+B1|I need to buy a road vignette.|Yol vinyeti (rovinietă) almam gerekiyor.
+B1|Could you drop me off at the station?|Beni istasyonda bırakabilir misiniz?
+B2|The traffic is bumper to bumper.|Trafik tıkalı, araçlar burun buruna.
+B2|I got a parking ticket.|Park cezası yedim.
+B2|My car is in the garage for a service.|Arabam bakımda.|My car is in the shop.
+B2|There's been an accident on the motorway.|Otoyolda kaza olmuş.|There's been an accident on the highway.
+C1|I was pulled over for speeding.|Hız yaptığım için kenara çekildim.
+C1|We'll take turns driving.|Sırayla süreriz.
+#k_cond
+A2|If you have any questions, please call me.|Sorunuz olursa lütfen beni arayın.|||if
+B1|If you heat water to 100 degrees, it boils.|Suyu 100 dereceye ısıtırsanız kaynar.|||if
+B1|If I had more time, I would learn Romanian.|Daha çok vaktim olsaydı Romence öğrenirdim.|||if
+B1|As long as we finish on time, it's fine.|Zamanında bitirdiğimiz sürece sorun yok.|||as long as
+B1|I'll stay as long as you need me.|Bana ihtiyacınız olduğu sürece kalırım.|||as long as
+B1|I'll come tomorrow unless it rains.|Yağmur yağmazsa yarın gelirim.|||unless
+B1|Unless you hurry, you'll miss the train.|Acele etmezseniz treni kaçıracaksınız.|||unless
+B2|Don't call me unless it's urgent.|Acil olmadıkça beni aramayın.|||unless
+C1|Unless we take action now, the problem will only get worse.|Şimdi harekete geçmezsek sorun daha da kötüleşecek.|||unless
+A2|If it rains, we'll stay in the office.|Yağmur yağarsa ofiste kalırız.|||if
+B1|You can use my computer as long as you are careful.|Dikkatli olduğunuz sürece bilgisayarımı kullanabilirsiniz.|||as long as
+A2|If you're hungry, there's some soup in the fridge.|Acıktıysan buzdolabında çorba var.|||if
+B1|If I were you, I'd take the train.|Yerinde olsam treni alırdım.|||if
+B1|You won't get a seat unless you book.|Rezervasyon yapmazsan yer bulamazsın.|||unless
+#k_tlink
+A2|Call me when you are ready.|Hazır olduğunuzda beni arayın.|||when
+B2|I was about to leave when the phone rang.|Tam çıkmak üzereydim ki telefon çaldı.|||when
+B1|I listen to podcasts while I drive.|Araba sürerken podcast dinlerim.|||while
+B1|Call me whenever you want.|İstediğiniz zaman beni arayın.|||whenever
+B1|Whenever there is a problem, he calls me.|Ne zaman bir sorun olsa beni arar.|||whenever
+B2|Feel free to ask whenever something is unclear.|Bir şey belirsiz olduğunda çekinmeden sorun.|||whenever
+A2|Please wait until I call you.|Ben sizi arayana kadar lütfen bekleyin.|||until
+A2|I'll be in Bucharest until Friday.|Cumaya kadar Bükreş'teyim.|||until
+A2|I'll wait till you finish.|Siz bitirene kadar beklerim.|||till
+A2|See you till Monday!|Pazartesiye kadar hoşça kalın!|||till
+B1|Don't sign anything till you've read it.|Okuyana kadar hiçbir şey imzalamayın.|||till
+B1|The shop is open from nine till five.|Dükkân dokuzdan beşe kadar açık.|||till
+B2|I didn't realise the mistake till it was too late.|Hatayı iş işten geçene kadar fark etmedim.|I didn't realize the mistake till it was too late.||till
+B1|I'll call you as soon as I get the results.|Sonuçları alır almaz sizi ararım.|||as soon as
+B1|Please reply as soon as possible.|Lütfen en kısa sürede yanıt verin.|||as soon as
+B1|It has been a long time since we last met.|En son görüştüğümüzden bu yana uzun zaman geçti.|||since
+A2|Please call me before you leave.|Çıkmadan önce lütfen beni arayın.|||before
+A2|We usually go for a walk after lunch.|Öğle yemeğinden sonra genelde yürüyüşe çıkarız.|||after
+A2|I'll call you when I get home.|Eve varınca seni ararım.|||when
+A2|Wash your hands before you eat.|Yemekten önce ellerini yıka.|||before
+A2|After dinner, we watched a film.|Akşam yemeğinden sonra film izledik.|After dinner, we watched a movie.||after
+B1|Once you get there, send me a message.|Oraya varınca bana mesaj at.|||once
+#k_contr
+B1|I'd like to help. However, I'm very busy today.|Yardım etmek isterim. Ancak bugün çok meşgulüm.|||however
+C1|However you look at it, the decision was wrong.|Nasıl bakarsanız bakın, karar yanlıştı.|||however
+B1|Although it was late, she was still working.|Geç olmasına rağmen hâlâ çalışıyordu.|||although
+B1|Although I studied English at school, I can't speak it well.|Okulda İngilizce okumama rağmen iyi konuşamıyorum.|||although
+B2|The plan is good, though it needs some changes.|Plan iyi, gerçi bazı değişiklikler gerekiyor.|||although
+B2|Even though it's expensive, it's worth it.|Pahalı olsa da değer.|||even though
+A2|It was cold, but we went to the beach anyway.|Hava soğuktu ama yine de plaja gittik.|||however
+B1|Although he's eighty, he still drives.|Seksen yaşında olmasına rağmen hâlâ araba kullanıyor.|||although
+B1|I like the city. However, it's too noisy for me.|Şehri seviyorum. Ancak benim için fazla gürültülü.|||however
+B1|Even though I was tired, I went to the party.|Yorgun olduğum halde partiye gittim.|||even though
+B2|My brother loves football, whereas I prefer tennis.|Ağabeyim futbolu sever, oysa ben teniste daha iyiyim.|My brother loves soccer, whereas I prefer tennis.||whereas
+B2|While I love summer, I can't stand the heat.|Yazı sevsem de sıcağa dayanamıyorum.|||while
+#k_why
+B1|As it was late, we decided to go home.|Geç olduğu için eve gitmeye karar verdik.|||as
+B1|Since it's Friday, let's finish early.|Cuma olduğuna göre erken bitirelim.|||since
+A2|I'm late because of the traffic.|Trafik yüzünden geç kaldım.|||because
+A2|I can't come because I'm ill.|Hasta olduğum için gelemiyorum.|I can't come because I'm sick.||because
+B2|Just because something is cheap doesn't mean it's good value.|Bir şeyin ucuz olması iyi değer olduğu anlamına gelmez.|||because
+A2|I'm staying at home because it's raining.|Yağmur yağdığı için evde kalıyorum.|||because
+A2|She's happy because she passed her exam.|Sınavını geçtiği için mutlu.|||because
+B1|Since you're here, can you help me move the sofa?|Hazır buradasın, kanepeyi taşımama yardım eder misin?|||since
+B1|As it's your birthday, dinner is on me.|Doğum günün olduğu için yemek benden.|||as
+B1|The flight was cancelled due to fog.|Uçuş sis nedeniyle iptal edildi.|The flight was canceled due to fog.
+B2|That's why I never drive in the city centre.|İşte bu yüzden şehir merkezinde hiç araba kullanmam.|That's why I never drive downtown.
+#k_purp
+B1|I left early so that I could catch the train.|Treni yakalayabilmek için erken çıktım.|||so that
+B1|Please speak slowly so that everyone can understand.|Herkes anlayabilsin diye lütfen yavaş konuşun.|||so that
+B2|I'll write it down so that I don't forget.|Unutmayayım diye not alacağım.|||so that
+B2|Take an umbrella in case it rains.|Yağmur yağar diye şemsiye alın.|||in case
+B2|I'll give you my number in case you need anything.|Bir şeye ihtiyacınız olur diye numaramı vereyim.|||in case
+B2|We booked an earlier flight in case there are delays.|Gecikme olur diye daha erken bir uçuş ayırttık.|||in case
+B2|In case of emergency, call this number.|Acil durumda bu numarayı arayın.|||in case
+A2|I'm learning English to travel more.|Daha çok seyahat etmek için İngilizce öğreniyorum.
+B1|Turn the music down so that the baby can sleep.|Bebek uyuyabilsin diye müziği kısın.|||so that
+B1|Write it down in case you forget.|Unutursun diye bir yere yaz.|||in case
+B2|I set two alarms so as not to oversleep.|Uyuyakalmamak için iki alarm kurdum.
+#n_cal
+A1|What day is it today?|Bugün günlerden ne?
+A2|What's the date today?|Bugün ayın kaçı?
+A1|Today is Monday.|Bugün pazartesi.
+A1|My birthday is in May.|Doğum günüm mayısta.
+A1|See you on Friday!|Cuma görüşürüz!
+A2|What did you do last weekend?|Geçen hafta sonu ne yaptınız?
+A2|I'll call you the day after tomorrow.|Seni öbür gün ararım.
+A2|We moved here two years ago.|Buraya iki yıl önce taşındık.
+A2|I go swimming twice a week.|Haftada iki kez yüzmeye giderim.
+B1|The meeting is on the twenty-eighth of November.|Toplantı 28 Kasım'da.|The meeting is on November twenty-eighth.
+B1|I was born in nineteen seventy-eight.|1978'de doğdum.
+B1|We go on holiday every summer.|Her yaz tatile gideriz.|We go on vacation every summer.
+B1|The shop is closed on weekdays after six.|Dükkân hafta içi altıdan sonra kapalı.
+B2|It's been a decade since I left Turkey.|Türkiye'den ayrılalı on yıl oldu.
+B2|Nowadays everyone pays by phone.|Bu günlerde herkes telefonla ödüyor.
+#c_clo
+A1|How much is this?|Bu ne kadar?
+A1|I'm just looking, thanks.|Sadece bakıyorum, teşekkürler.
+A1|Do you have this in blue?|Bunun mavisi var mı?
+A2|Can I try it on?|Deneyebilir miyim?
+A2|Where are the changing rooms?|Deneme kabinleri nerede?|Where are the fitting rooms?
+A2|Do you have a smaller size?|Daha küçük bedeni var mı?
+A2|I'll take it.|Bunu alıyorum.
+A2|Can I have a bag, please?|Poşet alabilir miyim lütfen?
+A2|It's too expensive.|Çok pahalı.
+B1|Is there a discount on this?|Bunda indirim var mı?
+B1|Can I get a refund?|Para iadesi alabilir miyim?
+B1|I'd like to return this.|Bunu iade etmek istiyorum.
+B1|Could I exchange it for a different size?|Bunu başka bir bedenle değiştirebilir miyim?
+B1|Do you deliver?|Eve teslimat yapıyor musunuz?
+B1|What time do you close?|Saat kaçta kapanıyorsunuz?
+B2|It's out of stock at the moment.|Şu anda stokta yok.
+B2|It's a real bargain.|Gerçekten kelepir.
+B2|That's a rip-off!|Bu düpedüz kazık!
+B2|I'm afraid it's faulty.|Korkarım bu kusurlu.|I'm afraid it's defective.
+C1|Could you throw in free delivery?|Teslimatı da ücretsiz yapabilir misiniz?
+C1|I'll have to shop around first.|Önce başka yerlere de bakmam gerek.
+#s_doc
+A1|I'm ill.|Hastayım.|I'm sick.
+A1|I have a headache.|Başım ağrıyor.
+A1|I need a doctor.|Doktora ihtiyacım var.
+A2|I have a cold.|Soğuk algınlığım var.
+A2|I have a sore throat.|Boğazım ağrıyor.
+A2|I don't feel well.|Kendimi iyi hissetmiyorum.
+A2|Where is the nearest hospital?|En yakın hastane nerede?
+A2|I'd like to make an appointment.|Randevu almak istiyorum.
+B1|I've had a fever since yesterday.|Dünden beri ateşim var.
+B1|How often should I take this medicine?|Bu ilacı ne sıklıkla almalıyım?
+B1|Do I need a prescription?|Reçete gerekiyor mu?
+B1|I'm allergic to penicillin.|Penisiline alerjim var.
+B1|I feel dizzy.|Başım dönüyor.
+B1|I've hurt my back.|Sırtımı incittim.
+B2|I'm feeling a bit under the weather.|Kendimi biraz halsiz hissediyorum.
+B2|It's nothing serious.|Ciddi bir şey değil.
+B2|I need a sick note for work.|İş için istirahat raporuna ihtiyacım var.|I need a doctor's note for work.
+B2|Is it covered by my insurance?|Sigortam bunu karşılıyor mu?
+C1|I'm on the mend.|İyileşmeye başladım.
+C1|I've been feeling run down lately.|Son zamanlarda kendimi bitkin hissediyorum.
+A2|My knee hurts.|Dizim ağrıyor.
+A2|I've got a stomach ache.|Midem ağrıyor.
+B1|I've been coughing for a week.|Bir haftadır öksürüyorum.
+B1|Take one tablet three times a day.|Günde üç kez bir tablet alın.
+#s_emg
+A2|In an emergency, call 112.|Acil durumda 112'yi arayın.
+A1|Help!|İmdat!
+A1|Call an ambulance!|Ambulans çağırın!
+A1|Call the police!|Polisi arayın!
+A2|There's been an accident.|Bir kaza oldu.
+A2|Fire!|Yangın var!
+A2|I've lost my passport.|Pasaportumu kaybettim.
+A2|My wallet has been stolen.|Cüzdanım çalındı.
+B1|Is anyone hurt?|Yaralanan var mı?
+B1|I need to report a theft.|Bir hırsızlığı bildirmem gerekiyor.
+B1|Where is the nearest police station?|En yakın karakol nerede?
+B1|He's not breathing!|Nefes almıyor!
+B2|I've locked myself out.|Kapıda kaldım (anahtarı içeride unuttum).
+B2|My car broke down on the motorway.|Arabam otoyolda bozuldu.|My car broke down on the highway.
+B2|Stay calm, help is on the way.|Sakin olun, yardım geliyor.
+#h_home
+A1|Where do you live?|Nerede yaşıyorsunuz?
+A2|I live in a flat near the sea.|Denize yakın bir dairede oturuyorum.|I live in an apartment near the ocean.
+A2|How much is the rent?|Kira ne kadar?
+A2|The heating isn't working.|Kalorifer çalışmıyor.
+A2|There's no hot water.|Sıcak su yok.
+B1|Are bills included in the rent?|Faturalar kiraya dahil mi?|Are utilities included in the rent?
+B1|When is the rent due?|Kira ne zaman ödenecek?
+B1|The tap is leaking.|Musluk damlatıyor.|The faucet is leaking.
+B1|Could you send someone to fix it?|Tamir için birini gönderebilir misiniz?
+B1|I'm moving house next month.|Gelecek ay taşınıyorum.|I'm moving next month.
+B1|How much is the deposit?|Depozito ne kadar?
+B2|I'd like to extend the lease for another year.|Kira sözleşmesini bir yıl daha uzatmak istiyorum.
+B2|The landlord wants to raise the rent.|Ev sahibi kirayı artırmak istiyor.
+B2|Who is responsible for the repairs?|Tamirlerden kim sorumlu?
+B2|The neighbours are very noisy.|Komşular çok gürültülü.|The neighbors are very noisy.
+C1|You'll need to give a month's notice before you move out.|Taşınmadan bir ay önce haber vermeniz gerekecek.
+C1|The deposit will be returned once the inspection is done.|Depozito kontrol yapıldıktan sonra iade edilecek.
+#n_wea
+A1|It's cold today.|Bugün hava soğuk.
+A1|It's raining.|Yağmur yağıyor.
+A1|What a beautiful day!|Ne güzel bir gün!
+A2|What's the weather like today?|Bugün hava nasıl?
+A2|It's going to snow tomorrow.|Yarın kar yağacak.
+B1|It's freezing outside!|Dışarısı buz gibi!
+B1|They say it'll clear up later.|Sonra açacağını söylüyorlar.
+B2|It's pouring down.|Bardaktan boşanırcasına yağıyor.
+C1|We've had a spell of bad weather.|Bir süredir kötü hava devam ediyor.
+A1|It's sunny today.|Bugün hava güneşli.
+A2|Take a coat, it's windy.|Bir mont al, hava rüzgârlı.
+A2|It's minus five outside.|Dışarısı eksi beş derece.
+B1|What's the forecast for tomorrow?|Yarın için hava tahmini ne?
+B1|It's very humid in Constanța in summer.|Yazın Köstence'de hava çok nemli.
+B1|There's a storm coming.|Fırtına geliyor.
+C1|It's overcast but it probably won't rain.|Hava kapalı ama muhtemelen yağmur yağmaz.
+#p_chat
+A2|Do you like football?|Futbolu sever misiniz?|Do you like soccer?
+A2|What do you do in your free time?|Boş zamanınızda ne yaparsınız?
+A2|Have you been here before?|Daha önce burada bulundunuz mu?
+B1|Did you watch the match last night?|Dün akşamki maçı izlediniz mi?|Did you watch the game last night?
+B1|How long have you lived in Constanța?|Ne zamandır Köstence'de yaşıyorsunuz?
+B1|Any plans for the holidays?|Tatil için planınız var mı?|Any plans for the vacation?
+B2|What a small world!|Dünya ne kadar küçük!
+B2|I'm not much of a sports fan.|Pek spor hayranı sayılmam.
+B2|Speaking of which, how's your new job?|Hazır lafı açılmışken, yeni işin nasıl?
+C1|Anyway, I'd better let you get on.|Neyse, sizi işinizden alıkoymayayım.
+C1|That reminds me, did you hear the news?|Aklıma geldi, haberi duydunuz mu?
+A2|How was your day?|Günün nasıl geçti?
+B1|Did you hear the news?|Haberleri duydunuz mu?
+B1|What do you think of Constanța?|Köstence hakkında ne düşünüyorsunuz?
+B2|It's been one of those days.|Öyle bir gündü işte (her şey ters gitti).
+#k_emo
+A1|I'm happy.|Mutluyum.
+A1|I'm tired.|Yorgunum.
+A1|I'm hungry. / I'm thirsty.|Açım. / Susadım.
+A2|I'm bored.|Sıkıldım.
+A2|I'm worried about the exam.|Sınav için endişeliyim.
+A2|I'm so excited!|Çok heyecanlıyım!
+A2|Don't be sad.|Üzülme.
+B1|I'm really looking forward to the weekend.|Hafta sonunu dört gözle bekliyorum.
+B1|I'm fed up with this weather.|Bu havadan bıktım.
+B1|I'm a bit nervous about the interview.|Mülakat için biraz gerginim.
+B1|That made my day!|Bu günümü güzelleştirdi!
+B1|Calm down, it's not a big deal.|Sakin olun, büyütecek bir şey yok.
+B2|I'm over the moon!|Havalara uçuyorum!
+B2|It really gets on my nerves.|Bu gerçekten sinirime dokunuyor.
+B2|I'm keeping my fingers crossed.|Şans diliyorum, umarım olur.
+B2|I'm feeling a bit down today.|Bugün biraz moralim bozuk.
+C1|I was on edge all day.|Bütün gün diken üstündeydim.
+C1|It took me by surprise.|Beni hazırlıksız yakaladı.
+C2|I was at my wits' end.|Ne yapacağımı bilemez hale gelmiştim.
+C2|It was a weight off my shoulders.|Omuzlarımdan büyük bir yük kalktı.
+#p_phone
+A1|Call me later.|Beni sonra ara.
+A2|What's your phone number?|Telefon numaranız ne?
+A2|I'll text you.|Sana mesaj atarım.
+A2|My battery is dead.|Şarjım bitti.
+A2|Sorry, wrong number.|Pardon, yanlış numara.
+B1|I missed your call.|Aramanızı kaçırdım.
+B1|There's no signal here.|Burada telefon çekmiyor.|There's no service here.
+B1|Can you hear me now?|Şimdi duyabiliyor musunuz?
+B1|I'll call you back in five minutes.|Beş dakika sonra seni geri ararım.
+B1|Send me your location.|Bana konumunu gönder.
+B2|Sorry, you cut out for a second.|Pardon, bir saniye sesiniz gitti.
+B2|Drop me a line when you get there.|Oraya varınca bana bir haber ver.
+B2|I'll give you a ring tomorrow.|Yarın seni ararım.|I'll give you a call tomorrow.
+C1|I've been trying to get hold of you all day.|Bütün gün size ulaşmaya çalışıyorum.
+#h_fam
+A1|Do you have any children?|Çocuğunuz var mı?
+A1|I have two brothers.|İki erkek kardeşim var.
+A1|This is my friend Elena.|Bu arkadaşım Elena.
+A2|Are you married?|Evli misiniz?
+A2|My parents live in Turkey.|Annemle babam Türkiye'de yaşıyor.
+A2|How is your family?|Aileniz nasıl?
+B1|We get on really well.|Çok iyi anlaşıyoruz.|We get along really well.
+B1|I'm visiting my family next weekend.|Gelecek hafta sonu ailemi ziyaret ediyorum.
+B1|She takes after her mother.|Annesine çekmiş.
+B1|We grew up together.|Birlikte büyüdük.
+B2|We've lost touch over the years.|Yıllar içinde bağımız koptu.
+B2|He's like a brother to me.|O benim için bir kardeş gibi.
+B2|We fell out over something silly.|Saçma bir şey yüzünden aramız bozuldu.
+C1|We see eye to eye on most things.|Çoğu konuda aynı fikirdeyiz.
+C1|Blood is thicker than water.|Kan sudan koyudur.
+#l_media
+A1|I like reading.|Kitap okumayı severim.
+A2|Do you want to go to the cinema?|Sinemaya gitmek ister misin?|Do you want to go to the movies?
+A2|What kind of music do you like?|Ne tür müzik seversiniz?
+B1|Have you seen any good films lately?|Son zamanlarda iyi bir film izlediniz mi?|Have you seen any good movies lately?
+A1|I like this song.|Bu şarkıyı seviyorum.
+A2|What's your favourite film?|En sevdiğin film hangisi?|What's your favorite movie?
+A2|Have you read this book?|Bu kitabı okudun mu?
+B1|What's it about?|Ne hakkında?
+B1|It's based on a true story.|Gerçek bir hikâyeye dayanıyor.
+B1|Who's in it?|Kimler oynuyor?
+B1|Don't tell me the ending!|Sonunu söyleme!
+B1|I'm watching a series on Netflix.|Netflix'te bir dizi izliyorum.
+B2|I couldn't put it down.|Elimden bırakamadım.
+B2|It was a bit overrated.|Biraz abartılmıştı.
+#l_hob
+A1|I play tennis on Sundays.|Pazarları tenis oynarım.
+A2|I go to the gym three times a week.|Haftada üç kez spor salonuna giderim.
+B1|I've just started learning the guitar.|Gitar öğrenmeye yeni başladım.
+B1|I'm into photography.|Fotoğrafçılığa merakım var.
+B1|We usually go hiking at the weekend.|Hafta sonları genelde doğa yürüyüşüne gideriz.|We usually go hiking on the weekend.
+B2|I'm not really into that kind of thing.|O tür şeylere pek ilgim yok.
+B2|It helps me unwind after work.|İşten sonra kafamı dağıtmama yardımcı oluyor.
+B2|I've taken up running.|Koşuya başladım.
+C1|I've been meaning to take up swimming again.|Bir süredir yeniden yüzmeye başlamayı düşünüyorum.
+C1|It's not my cup of tea.|Bana göre değil.
+A2|I go running in the park.|Parkta koşuya çıkarım.
+B1|Are you into sport?|Sporla ilgilenir misin?|Are you into sports?
+B2|I play five-a-side football on Thursdays.|Perşembeleri halı saha futbolu oynarım.|I play pickup soccer on Thursdays.
+#k_idiom
+B1|No way!|Olamaz! / Hayatta olmaz!
+B1|Fingers crossed.|İnşallah olur (şans dileği).
+B1|Better late than never.|Geç olsun, güç olmasın.
+B1|Take it easy.|Kafana takma. / Kendini yorma.
+B1|It's a piece of cake.|Çocuk oyuncağı.
+B2|Break a leg!|Bol şans! (sahneye ya da sunuma çıkana)
+B2|It costs an arm and a leg.|Dudak uçuklatan bir fiyatı var.
+B2|I'll sleep on it.|Bir gece düşünüp karar vereyim.
+B2|We're in the same boat.|Aynı gemideyiz.
+B2|Don't beat around the bush.|Lafı dolandırma.
+B2|It's not rocket science.|Bunda anlaşılmayacak bir şey yok.
+B2|Keep me in the loop.|Beni gelişmelerden haberdar edin.
+B2|You've hit the nail on the head.|Tam üstüne bastınız.
+B2|Easier said than done.|Söylemesi kolay.
+B2|Every cloud has a silver lining.|Her işte bir hayır vardır.
+C1|The ball is in your court.|Top sizde.
+C1|Let's cross that bridge when we come to it.|O köprüye gelince geçeriz.
+C1|I'm all ears.|Can kulağıyla dinliyorum.
+C1|It's just the tip of the iceberg.|Bu, buzdağının görünen kısmı.
+C1|Let's get the ball rolling.|Hadi işe koyulalım.
+C1|We need to think outside the box.|Kalıpların dışında düşünmemiz gerek.
+C1|Don't put all your eggs in one basket.|Bütün yumurtaları aynı sepete koyma.
+C2|It's six of one and half a dozen of the other.|Hepsi aynı kapıya çıkıyor.
+C2|We'll have to bite the bullet.|Dişimizi sıkmak zorunda kalacağız.
+C2|That's the last straw.|Bardağı taşıran son damla bu.
+C2|Let's not jump the gun.|Acele edip erken davranmayalım.
+C2|He's sitting on the fence.|Taraf tutmuyor, ortada duruyor.
+C2|Don't count your chickens before they hatch.|Dereyi görmeden paçaları sıvama.
+C2|It's water under the bridge.|Geçmiş geçmişte kaldı.
+#p_date
+A1|Are you free tonight?|Bu akşam boş musun?
+A1|Do you want to have dinner with me?|Benimle akşam yemeği yemek ister misin?
+A1|I like you.|Senden hoşlanıyorum.
+A1|You look beautiful.|Çok güzel görünüyorsun.
+A2|Would you like to go out sometime?|Bir ara dışarı çıkmak ister misin?
+A2|Can I buy you a drink?|Sana bir içki ısmarlayabilir miyim?
+A2|Can I have your number?|Numaranı alabilir miyim?
+A2|Is this seat taken?|Bu koltuk dolu mu?
+A2|Are you here with friends?|Arkadaşlarınla mı buradasın?
+A2|I had a great time tonight.|Bu akşam çok güzel vakit geçirdim.
+A2|I'll walk you home.|Seni eve kadar yürüyerek bırakayım.
+A2|Text me when you get home.|Eve varınca bana mesaj at.
+B1|Would you like to grab a coffee sometime?|Bir ara kahve içmeye ne dersin?
+B1|What are you doing this weekend?|Bu hafta sonu ne yapıyorsun?
+B1|I'd love to see you again.|Seni tekrar görmeyi çok isterim.
+B1|How about dinner on Saturday?|Cumartesi akşam yemeğine ne dersin?
+B1|I really enjoy spending time with you.|Seninle vakit geçirmekten gerçekten keyif alıyorum.
+B1|I've been thinking about you.|Seni düşünüyordum.
+B1|Shall I pick you up at eight?|Seni sekizde alayım mı?
+B1|I can't stop smiling when I'm with you.|Seninleyken gülümsemeden duramıyorum.
+B1|Are you seeing anyone?|Biriyle görüşüyor musun?
+B1|I'm sorry, I'm not interested.|Kusura bakma, ilgilenmiyorum.
+B2|I'd like to get to know you better.|Seni daha yakından tanımak isterim.
+B2|We have a lot in common.|Çok ortak noktamız var.
+B2|I think there's a spark between us.|Sanırım aramızda bir kıvılcım var.
+B2|Would you like to be my girlfriend?|Kız arkadaşım olur musun?
+B2|Would you like to be my boyfriend?|Erkek arkadaşım olur musun?
+B2|Let's take things slowly.|Her şeyi yavaş yavaş götürelim.
+B2|I'm not looking for anything serious right now.|Şu an ciddi bir şey aramıyorum.
+B2|I'd rather we just stayed friends.|Sadece arkadaş kalsak daha iyi olur.
+B2|We met on a dating app.|Bir tanışma uygulamasında tanıştık.
+B2|It was love at first sight.|İlk görüşte aşktı.
+C1|I've fallen for you.|Sana gönlümü kaptırdım.
+C1|You mean the world to me.|Benim için dünyalara bedelsin.
+C1|I think we're on the same wavelength.|Sanırım aynı frekanstayız.
+C1|We just clicked from the start.|Daha ilk andan anlaştık.
+C1|I didn't want the evening to end.|Akşamın bitmesini istemedim.
+C2|You swept me off my feet.|Beni büyüledin, aklımı başımdan aldın.
+C2|I'm head over heels for you.|Sana sırılsıklam âşığım.
+C2|We're two peas in a pod.|Tıpatıp birbirimize benziyoruz.
+#p_comp
+A1|You look great!|Harika görünüyorsun!
+A1|You're very kind.|Çok naziksin.
+A1|Nice shirt!|Güzel gömlek!
+A1|You have a beautiful smile.|Çok güzel bir gülüşün var.
+A2|You have beautiful eyes.|Çok güzel gözlerin var.
+A2|That colour really suits you.|O renk sana çok yakışıyor.|That color really suits you.
+A2|I love your new haircut.|Yeni saç kesimine bayıldım.
+A2|You're a great cook!|Harika yemek yapıyorsun!
+A2|You're so funny!|Çok komiksin!
+A2|Your English is very good.|İngilizcen çok iyi.
+B1|You look amazing tonight.|Bu akşam muhteşem görünüyorsun.
+B1|You have a great sense of humour.|Harika bir espri anlayışın var.|You have a great sense of humor.
+B1|You always know how to make me laugh.|Beni nasıl güldüreceğini hep biliyorsun.
+B1|You're really easy to talk to.|Seninle konuşmak çok kolay.
+B1|You've got great taste.|Zevkin çok güzel.
+B1|You did a great job on the report.|Raporda harika iş çıkardınız.
+B1|Thanks for your help, you're a star!|Yardımın için teşekkürler, bir tanesin!
+B1|Your presentation was excellent.|Sunumunuz mükemmeldi.
+B2|You light up the room.|Girdiğin yere ışık saçıyorsun.
+B2|I admire your patience.|Sabrına hayranım.
+B2|You've got a great eye for detail.|Ayrıntılara çok dikkat ediyorsunuz.
+B2|You handled that situation really well.|O durumu gerçekten çok iyi idare ettiniz.
+B2|I really appreciate your hard work.|Emeğinizi gerçekten takdir ediyorum.
+B2|You're a natural!|Bu işte doğuştan yeteneklisin!
+B2|You're the best colleague I could ask for.|İsteyebileceğim en iyi iş arkadaşısın.
+B2|Thank you, that's very kind of you to say.|Teşekkürler, bunu söylemeniz çok nazik.
+C1|You never cease to amaze me.|Beni şaşırtmaktan hiç vazgeçmiyorsun.
+C1|You bring out the best in me.|İçimdeki en iyi yanı ortaya çıkarıyorsun.
+C1|Your attention to detail is second to none.|Ayrıntılara gösterdiğiniz özen eşsiz.
+C1|You went above and beyond on this project.|Bu projede beklenenin çok ötesine geçtiniz.
+C1|I couldn't have done it without you.|Sen olmasan bunu başaramazdım.
+C2|You're a breath of fresh air.|Bir nefes temiz hava gibisin.
+C2|You're one in a million.|Milyonda birsin.
+C2|Credit where credit's due, that was brilliant.|Hakkını vermek lazım, harikaydı.
+#n_num
+A1|I'm thirty-five years old.|Otuz beş yaşındayım.
+A1|My phone number is 0722 455 310.|Telefon numaram 0722 455 310.
+A1|We need three tickets.|Üç bilete ihtiyacımız var.
+A1|I live on the third floor.|Üçüncü katta oturuyorum.
+A2|It costs nineteen ninety-nine.|On dokuz doksan dokuza (19,99) mal oluyor.
+A2|That's two hundred and fifty lei.|Bu iki yüz elli lei ediyor.
+A2|About half of the people came.|İnsanların yaklaşık yarısı geldi.
+A2|Prices went up by ten percent.|Fiyatlar yüzde on arttı.|Prices went up by ten per cent.
+A2|Could you write the number down for me?|Numarayı benim için yazabilir misiniz?
+B1|The population is around three hundred thousand.|Nüfus üç yüz bin civarında.
+B1|It's my fiftieth birthday next year.|Gelecek yıl ellinci doğum günüm.
+B1|Can you repeat the last four digits?|Son dört rakamı tekrar edebilir misiniz?
+B1|It's two point five kilometres from here.|Buradan iki virgül beş kilometre.|It's two point five kilometers from here.
+B2|Roughly a third of my salary goes on rent.|Maaşımın kabaca üçte biri kiraya gidiyor.
+B2|There were thousands of people at the concert.|Konserde binlerce kişi vardı.
+#n_math
+A1|Two plus three equals five.|İki artı üç eşittir beş.
+A1|Ten minus four is six.|On eksi dört altı eder.
+A1|Three times four is twelve.|Üç çarpı dört on iki eder.
+A1|Twenty divided by five is four.|Yirmi bölü beş dört eder.
+A2|Can you add these numbers up?|Bu sayıları toplayabilir misin?
+A2|What's the total?|Toplam ne kadar?
+A2|Let's count the chairs.|Sandalyeleri sayalım.
+A2|Split it between four people.|Bunu dört kişiye bölüştürün.
+B1|The average age is forty.|Yaş ortalaması kırk.
+B1|Let's round it up to a hundred.|Yüze yuvarlayalım.
+B1|Seven is an odd number.|Yedi tek sayıdır.
+B1|Ten is more than eight.|On, sekizden büyüktür.
+B1|Can I use the calculator on your phone?|Telefonundaki hesap makinesini kullanabilir miyim?
+B2|Twelve is twice as much as six.|On iki, altının iki katıdır.
+#n_col
+A1|My car is white.|Arabam beyaz.
+A1|What colour is it?|Ne renk?|What color is it?
+A1|I like the blue one.|Mavi olanı beğendim.
+A2|Do you have it in black?|Siyahı var mı?
+A2|She has dark brown hair.|Koyu kahverengi saçları var.
+A2|The table is round.|Masa yuvarlak.
+B1|Draw a circle here.|Buraya bir daire çizin.
+B1|The box is rectangular.|Kutu dikdörtgen şeklinde.
+B1|Navy blue suits you.|Lacivert sana yakışıyor.
+B2|It's more of a greyish green.|Daha çok griye çalan bir yeşil.|It's more of a grayish green.
+#n_meas
+A1|How tall are you?|Boyunuz kaç?
+A2|I'm one metre eighty.|Bir seksenim.|I'm about five foot eleven.
+A2|How much do you weigh?|Kaç kilosunuz?
+A2|Half a kilo of cheese, please.|Yarım kilo peynir lütfen.
+A2|It's about two kilometres away.|Yaklaşık iki kilometre uzakta.|It's about two kilometers away.
+B1|The room is twenty square metres.|Oda yirmi metrekare.|The room is twenty square meters.
+B1|What size do you take?|Kaç beden giyiyorsunuz?|What size do you wear?
+B1|The speed limit is fifty here.|Burada hız sınırı elli.
+B1|This bag is too heavy for me.|Bu çanta benim için çok ağır.
+B2|How long is the drive to Bucharest?|Bükreş'e araba yolculuğu ne kadar sürer?
+#h_rout
+A1|I get up at seven.|Saat yedide kalkarım.
+A1|I have breakfast at home.|Kahvaltıyı evde yaparım.
+A1|I go to bed at eleven.|On birde yatarım.
+A2|I take a shower every morning.|Her sabah duş alırım.
+A2|I usually walk to work.|Genelde işe yürüyerek giderim.
+A2|I come home at about six.|Altı gibi eve gelirim.
+A2|In the evening I watch TV.|Akşamları televizyon izlerim.
+A2|I do the shopping on Saturdays.|Alışverişi cumartesi günleri yaparım.
+B1|I brush my teeth twice a day.|Günde iki kez dişlerimi fırçalarım.
+B1|I usually skip breakfast.|Genelde kahvaltıyı atlarım.
+B1|I do the washing at the weekend.|Çamaşırı hafta sonu yıkarım.|I do the laundry on the weekend.
+B1|I'm not a morning person.|Sabah insanı değilim.
+B2|I tend to stay up late.|Geç saate kadar oturmaya meyilliyim.
+B2|I try to get eight hours' sleep.|Sekiz saat uyumaya çalışırım.
+C1|My mornings are a bit of a rush.|Sabahlarım biraz koşturmacalı geçiyor.
+#h_cook
+A1|I'm cooking dinner.|Akşam yemeğini pişiriyorum.
+A1|Can you set the table?|Masayı kurabilir misin?
+A2|What are we having for dinner?|Akşam yemeğinde ne var?
+A2|Could you pass the salt, please?|Tuzu uzatır mısın lütfen?
+A2|The soup is too salty.|Çorba fazla tuzlu.
+A2|Wash the vegetables first.|Önce sebzeleri yıka.
+B1|Chop the onions finely.|Soğanları ince doğra.
+B1|Boil the pasta for ten minutes.|Makarnayı on dakika haşla.
+B1|Preheat the oven to 180 degrees.|Fırını 180 dereceye ısıt.
+B1|Can you do the washing-up?|Bulaşıkları yıkayabilir misin?|Can you do the dishes?
+B1|We've run out of milk.|Sütümüz bitti.
+B2|It smells delicious!|Harika kokuyor!
+B2|Leave it to simmer for twenty minutes.|Yirmi dakika kısık ateşte pişsin.
+B2|Could you give me the recipe?|Tarifini verebilir misin?
+#c_mkt
+A1|Where is the milk?|Süt nerede?
+A1|A kilo of tomatoes, please.|Bir kilo domates lütfen.
+A1|How much are the apples?|Elmalar ne kadar?
+A2|Do you have any fresh bread?|Taze ekmeğiniz var mı?
+A2|I need a basket.|Bir sepete ihtiyacım var.
+A2|Is this on offer?|Bu kampanyada mı?|Is this on sale?
+A2|Can I have a receipt, please?|Fiş alabilir miyim lütfen?
+B1|Which aisle is the coffee in?|Kahve hangi reyonda?
+B1|Do you have a loyalty card?|Sadakat kartınız var mı?
+B1|This is past its sell-by date.|Bunun son kullanma tarihi geçmiş.|This is past its expiration date.
+B1|The self-checkout isn't working.|Self servis kasa çalışmıyor.
+B2|Could you weigh these for me?|Bunları benim için tartabilir misiniz?
+B2|I'll pay in cash.|Nakit ödeyeceğim.
+B2|Two for the price of one!|Bir alana bir bedava!
+#c_bank
+A2|I'd like to send this parcel to Turkey.|Bu paketi Türkiye'ye göndermek istiyorum.|I'd like to send this package to Turkey.
+A2|How much is a stamp for a letter?|Bir mektup için pul ne kadar?
+A2|Where is the nearest cash machine?|En yakın bankamatik nerede?|Where is the nearest ATM?
+B1|The cash machine swallowed my card.|Bankamatik kartımı yuttu.|The ATM ate my card.
+B1|I've lost my card. Can you block it?|Kartımı kaybettim. Bloke edebilir misiniz?
+B1|When will the parcel arrive?|Paket ne zaman gelir?|When will the package arrive?
+B1|I'm here to collect a parcel.|Bir paketi teslim almaya geldim.|I'm here to pick up a package.
+B1|Do I need to make an appointment?|Randevu almam gerekiyor mu?
+B1|Which documents do I need to bring?|Hangi belgeleri getirmem gerekiyor?
+B1|Please fill in this form.|Lütfen bu formu doldurun.|Please fill out this form.
+B2|I'd like to renew my residence permit.|İkamet iznimi yenilemek istiyorum.
+B2|Where do I sign?|Nereyi imzalayacağım?
+B2|The delivery failed because nobody was home.|Evde kimse olmadığı için teslimat yapılamadı.
+C1|My application is still being processed.|Başvurum hâlâ işlemde.
+#c_serv
+A2|I'd like a haircut, please.|Saç kestirmek istiyorum lütfen.
+A2|Just a little shorter, please.|Biraz kısaltın, lütfen.
+A2|My car is making a strange noise.|Arabam garip bir ses çıkarıyor.
+B1|Can you fix it today?|Bugün tamir edebilir misiniz?
+B1|How much will the repair cost?|Tamir ne kadar tutar?
+B1|When will it be ready?|Ne zaman hazır olur?
+B1|Could you take these trousers up?|Bu pantolonun paçasını kısaltabilir misiniz?|Could you hem these pants?
+B1|I need a new battery for my watch.|Saatim için yeni pil lazım.
+B1|My phone screen is cracked.|Telefonumun ekranı çatlak.
+B2|Is it still under warranty?|Hâlâ garantisi var mı?
+B2|Could you give me a quote first?|Önce bir fiyat teklifi verebilir misiniz?
+B2|Not too short on the sides, please.|Yanlardan çok kısa olmasın, lütfen.
+#c_tech
+A1|Is there free Wi-Fi here?|Burada ücretsiz Wi-Fi var mı?
+A2|My phone is dead. Can I charge it here?|Telefonumun şarjı bitti. Burada şarj edebilir miyim?
+A2|Can you send me the photo?|Fotoğrafı bana gönderebilir misin?
+A2|Download the app and sign up.|Uygulamayı indir ve kaydol.
+A2|The internet is very slow today.|İnternet bugün çok yavaş.
+B1|I forgot my password.|Şifremi unuttum.
+B1|Have you tried turning it off and on again?|Kapatıp açmayı denedin mi?
+B1|I ordered it online.|Online sipariş ettim.
+B1|The parcel should arrive tomorrow.|Paket yarın gelmeli.|The package should arrive tomorrow.
+B1|Can you share your screen?|Ekranını paylaşabilir misin?
+B1|I'll send you the link.|Sana bağlantıyı gönderirim.
+B2|The app keeps crashing.|Uygulama sürekli çöküyor.
+B2|I need to update my phone.|Telefonumu güncellemem lazım.
+B2|My account has been hacked.|Hesabım hacklendi.
+#p_cel
+A1|Happy New Year!|Mutlu yıllar! (Yeni yıl)
+A1|Merry Christmas!|Mutlu Noeller!
+A2|Happy anniversary!|Yıl dönümünüz kutlu olsun!
+A2|Happy Eid!|Bayramınız mübarek olsun!||Eid Mubarak!
+A2|Congratulations on your new baby!|Yeni bebeğiniz hayırlı olsun!
+A2|Cheers to that!|Buna içelim!
+B1|Best wishes for the future!|Gelecek için en iyi dileklerimle!
+B1|We're having a party on Saturday. Can you come?|Cumartesi parti veriyoruz. Gelebilir misin?
+B1|What are you doing for New Year's Eve?|Yılbaşı gecesi ne yapıyorsun?
+B1|Congratulations on your wedding!|Düğününüz kutlu olsun!
+B1|I got you a little something.|Sana küçük bir şey aldım.
+B2|I'm so sorry for your loss.|Başınız sağ olsun, çok üzgünüm.
+B2|Many happy returns!|Nice yıllara!
+B2|We're celebrating our tenth anniversary.|Onuncu evlilik yıl dönümümüzü kutluyoruz.
+#k_rep
+A1|Sorry?|Efendim? (Anlamadım)||Pardon?
+A1|I don't understand.|Anlamıyorum.
+A1|Slowly, please.|Yavaş lütfen.
+A1|Can you repeat that, please?|Tekrar eder misiniz lütfen?
+A2|What does "invoice" mean?|"Invoice" ne demek?
+A2|How do you say "masa" in English?|"Masa" İngilizcede nasıl denir?
+A2|How do you spell that?|Bu nasıl yazılıyor?
+A2|My English isn't very good.|İngilizcem pek iyi değil.
+A2|Could you write it down, please?|Yazabilir misiniz lütfen?
+B1|Sorry, I didn't catch that.|Kusura bakmayın, tam anlayamadım.
+B1|Do you mean…?|Şunu mu demek istiyorsunuz…?
+B1|What's the word for…?|… için kelime neydi?
+B1|Let me think how to say this.|Bunu nasıl söyleyeceğimi bir düşüneyim.
+B1|Could you say it in a different way?|Başka bir şekilde söyleyebilir misiniz?
+B2|I'm not sure I follow you.|Sizi takip edebildiğimden emin değilim.
+B2|Sorry, I'm a bit lost.|Kusura bakmayın, biraz kayboldum.
+B2|Correct me if I'm wrong.|Yanılıyorsam düzeltin.
+C1|It's on the tip of my tongue.|Dilimin ucunda.
+#k_q
+A1|What's this?|Bu ne?
+A1|Where are you going?|Nereye gidiyorsun?
+A1|Who is that?|O kim?
+A1|How much is it?|Ne kadar?
+A1|Why not?|Neden olmasın?
+A2|How long does it take?|Ne kadar sürer?
+A2|How often do you go there?|Oraya ne sıklıkla gidiyorsun?
+A2|Which one do you prefer?|Hangisini tercih edersin?
+A2|Whose bag is this?|Bu çanta kimin?
+A2|How far is it?|Ne kadar uzak?
+B1|What's the best way to get there?|Oraya gitmenin en iyi yolu ne?
+B1|Have you ever been to London?|Hiç Londra'ya gittin mi?
+B1|Do you know where the toilets are?|Tuvaletlerin nerede olduğunu biliyor musunuz?|Do you know where the restrooms are?
+B1|What do you mean by that?|Bununla ne demek istiyorsun?
+B2|You're from Turkey, aren't you?|Türkiyelisiniz, değil mi?
+B2|Would you mind telling me why?|Nedenini söyler misiniz?
+C1|What makes you say that?|Neden öyle düşünüyorsun?
+#k_story
+A2|Yesterday I went to the beach.|Dün plaja gittim.
+A2|Last week I visited my parents.|Geçen hafta ailemi ziyaret ettim.
+A2|Next year I'm going to learn to swim.|Gelecek yıl yüzme öğreneceğim.
+A2|First we had dinner, then we went to the cinema.|Önce yemek yedik, sonra sinemaya gittik.|First we had dinner, then we went to the movies.
+B1|You'll never guess what happened.|Ne olduğunu tahmin bile edemezsin.
+B1|At first I didn't like it, but in the end I loved it.|İlk başta beğenmedim ama sonunda bayıldım.
+B1|While I was walking home, it started to rain.|Eve yürürken yağmur başladı.
+B1|I've never seen anything like it.|Hiç böyle bir şey görmedim.
+B1|I used to live in Istanbul.|Eskiden İstanbul'da yaşardım.
+B1|Suddenly, the lights went out.|Birden ışıklar söndü.
+B2|To cut a long story short, we missed the flight.|Uzun lafın kısası, uçağı kaçırdık.
+B2|Anyway, where was I?|Neyse, nerede kalmıştım?
+B2|I was going to call you, but I forgot.|Seni arayacaktım ama unuttum.
+B2|By the time we arrived, the shop had closed.|Biz vardığımızda dükkân kapanmıştı.|By the time we arrived, the store had closed.
+C1|Little did I know what was about to happen.|Neler olacağından hiç haberim yoktu.
+#k_desc
+A1|He's tall and friendly.|Uzun boylu ve cana yakın.
+A1|My flat is small but nice.|Dairem küçük ama güzel.|My apartment is small but nice.
+A2|She has long black hair.|Uzun siyah saçları var.
+A2|What does he look like?|Neye benziyor? (Görünüşü nasıl?)
+A2|What's she like?|Nasıl biri?
+A2|It's a big old house with a garden.|Bahçeli, büyük, eski bir ev.|It's a big old house with a yard.
+B1|He's in his forties.|Kırklı yaşlarında.
+B1|She's very easy-going.|Çok rahat biridir.
+B1|It looks like a small box.|Küçük bir kutuya benziyor.
+B1|It's made of wood.|Tahtadan yapılmış.
+B1|It's a quiet neighbourhood near the sea.|Denize yakın sakin bir mahalle.|It's a quiet neighborhood near the ocean.
+B2|He's a bit on the shy side.|Biraz çekingen sayılır.
+B2|It's the kind of place where everyone knows each other.|Herkesin birbirini tanıdığı türden bir yer.
+C1|She has a very dry sense of humour.|Çok kuru (ince) bir mizah anlayışı var.|She has a very dry sense of humor.

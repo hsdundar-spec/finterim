@@ -1,0 +1,781 @@
+#v_tech
+A1|Phone|Telefon
+A1|Computer|Bilgisayar
+A2|Message|Mesaj
+A2|Password|Şifre / Parola
+A2|Website|İnternet sitesi
+A1|Mobile phone|Cep telefonu|Cell phone
+A1|Internet|İnternet
+A1|Photo|Fotoğraf
+A2|Charger|Şarj aleti
+A2|Battery|Pil / Batarya
+A2|Screen|Ekran
+A2|Keyboard|Klavye
+A2|App|Uygulama
+A2|Wi-Fi|Kablosuz internet
+A2|Download|İndirmek
+A2|Settings|Ayarlar
+A2|Social media|Sosyal medya
+A2|Video call|Görüntülü arama
+A2|Headphones|Kulaklık
+A2|Laptop|Dizüstü bilgisayar
+A2|Tablet|Tablet
+B1|Upload|Yüklemek
+B1|Log in|Giriş yapmak||sign in
+B1|Log out|Çıkış yapmak||sign out
+B1|User account|Kullanıcı hesabı
+B1|Username|Kullanıcı adı
+B1|Notification|Bildirim
+B1|Online order|Online sipariş
+B1|Delivery|Teslimat
+B1|Tracking number|Kargo takip numarası
+B1|Link|Bağlantı (link)
+B1|Screenshot|Ekran görüntüsü
+#v_home
+A1|Desk|Çalışma masası
+A1|House|Ev
+A1|Flat|Daire|Apartment
+A1|Room|Oda
+A1|Kitchen|Mutfak
+A1|Bathroom|Banyo
+A1|Bedroom|Yatak odası
+A1|Living room|Oturma odası
+A1|Door|Kapı
+A1|Window|Pencere
+A1|Bed|Yatak
+A1|Table|Masa
+A1|Chair|Sandalye
+A1|Key|Anahtar
+A2|Floor|Zemin / Kat
+A2|Wall|Duvar
+A2|Stairs|Merdiven
+A2|Lift|Asansör|Elevator
+A2|Balcony|Balkon
+A2|Garden|Bahçe|Yard
+A2|Sofa|Kanepe||couch
+A2|Wardrobe|Gardırop|Closet
+A2|Fridge|Buzdolabı||refrigerator
+A2|Oven|Fırın (mutfak)
+A2|Washing machine|Çamaşır makinesi
+A2|Mirror|Ayna
+A2|Pillow|Yastık
+A2|Blanket|Battaniye
+A2|Towel|Havlu
+A2|Rubbish|Çöp|Trash|garbage
+A2|Neighbour|Komşu|Neighbor
+A2|Rent|Kira
+B1|Dishwasher|Bulaşık makinesi
+B1|Tap|Musluk|Faucet
+B1|Heating|Isıtma / Kalorifer
+B1|Light bulb|Ampul
+B1|Landlord|Ev sahibi
+B1|Household bills|Ev faturaları (elektrik, su, gaz)|Utilities
+#b_noun
+A1|Work|İş / Çalışma
+A1|Job|Meslek / İş
+A1|Name|Ad / İsim
+A1|Address|Adres
+A2|Letter|Mektup / Resmî yazı
+A2|Appointment|Randevu
+A2|Problem|Sorun
+A2|Question|Soru
+A2|Answer|Cevap / Yanıt
+A2|Information|Bilgi
+A2|Idea|Fikir
+A2|Plan|Plan
+A2|List|Liste
+B1|Result|Sonuç
+B1|Decision|Karar
+B1|Request|Talep / Rica
+B1|Complaint|Şikâyet
+B1|Solution|Çözüm
+B1|Opportunity|Fırsat
+B1|Responsibility|Sorumluluk
+B1|Experience|Deneyim / Tecrübe
+B1|Skill|Beceri
+B1|Reminder|Hatırlatma
+B1|Delay|Gecikme
+B1|Mistake|Hata
+B1|Quality|Kalite
+B1|Quantity|Miktar
+B1|Purpose|Amaç
+B1|Reason|Neden / Sebep
+B1|Detail|Ayrıntı
+#n_num
+A1|Number|Numara / Sayı
+A1|Zero|Sıfır|||nought, oh
+A1|One, two, three|Bir, iki, üç
+A1|Four, five, six|Dört, beş, altı
+A1|Seven, eight, nine, ten|Yedi, sekiz, dokuz, on
+A1|Eleven, twelve, thirteen|On bir, on iki, on üç
+A1|Fourteen, fifteen, sixteen|On dört, on beş, on altı
+A1|Twenty, thirty, forty|Yirmi, otuz, kırk
+A1|Fifty, sixty, seventy|Elli, altmış, yetmiş
+A1|Eighty, ninety|Seksen, doksan
+A1|A hundred|Yüz
+A1|A thousand|Bin
+A2|A million|Milyon
+B1|A billion|Milyar
+A1|First, second, third|Birinci, ikinci, üçüncü
+A2|Fourth, fifth, tenth|Dördüncü, beşinci, onuncu
+A2|Twenty-first|Yirmi birinci
+A2|Half|Yarım / Yarı
+A2|A quarter|Çeyrek (1/4)
+B1|Three quarters|Dörtte üç (3/4)
+B1|A third|Üçte bir (1/3)
+B1|Two thirds|Üçte iki (2/3)
+A2|Percent|Yüzde||per cent
+B1|Point|Ondalık virgülü (2.5 = two point five)
+A2|Once, twice, three times|Bir kez, iki kez, üç kez
+A2|Double|İki katı
+B1|Dozen|Düzine
+B1|A couple of|Birkaç (iki tane kadar)
+B1|Odd number|Tek sayı
+B1|Even number|Çift sayı
+A2|Phone number|Telefon numarası
+B1|Double five|Telefonda "55"
+B2|Hundreds of|Yüzlerce
+B2|Thousands of|Binlerce
+#n_cal
+A1|Date|Tarih
+A2|Calendar|Takvim
+A2|Holiday|Tatil|Vacation (trip)
+A2|Monthly|Aylık
+A2|Weekly|Haftalık
+A2|Daily|Günlük
+A2|Annual|Yıllık||yearly
+A1|Today|Bugün
+A1|Tomorrow|Yarın
+A1|Yesterday|Dün
+A1|Now|Şimdi
+A1|Later|Sonra / Daha sonra
+A2|Next week|Gelecek hafta
+A2|Last month|Geçen ay
+A2|This morning|Bu sabah
+A2|By Friday|En geç cuma gününe kadar
+A1|Day|Gün
+A1|Week|Hafta
+A1|Month|Ay
+A1|Year|Yıl
+A1|Weekend|Hafta sonu
+A1|Monday, Tuesday, Wednesday|Pazartesi, salı, çarşamba
+A1|Thursday, Friday|Perşembe, cuma
+A1|Saturday, Sunday|Cumartesi, pazar
+A1|January, February, March|Ocak, şubat, mart
+A1|April, May, June|Nisan, mayıs, haziran
+A1|July, August, September|Temmuz, ağustos, eylül
+A1|October, November, December|Ekim, kasım, aralık
+A2|The day after tomorrow|Öbür gün
+A2|The day before yesterday|Evvelki gün
+A2|Two days ago|İki gün önce
+A2|In two weeks|İki hafta sonra
+A2|Every day|Her gün
+A2|Twice a week|Haftada iki kez
+A2|Birthday|Doğum günü
+B1|Fortnight|İki hafta|Two weeks
+B1|Weekday|Hafta içi (gün)
+B1|Decade|On yıl
+B1|Century|Yüzyıl
+B1|The twenty-eighth of November|28 Kasım|November twenty-eighth
+B1|Twenty twenty-six|2026 yılı (okunuşu)
+B2|Leap year|Artık yıl
+B2|Nowadays|Bu günlerde
+B2|In the long run|Uzun vadede
+#b_verb
+A1|Send|Göndermek
+A1|Call|Aramak (telefonla)
+A1|Meet|Buluşmak / Tanışmak
+A1|Write|Yazmak
+A1|Read|Okumak
+A1|Speak|Konuşmak
+A1|Listen|Dinlemek
+A1|Ask|Sormak / Rica etmek
+A1|Help|Yardım etmek
+A1|Start|Başlamak||begin
+A1|Finish|Bitirmek||end
+A1|Open|Açmak
+A1|Close|Kapatmak
+A1|Buy|Satın almak
+A1|Sell|Satmak
+A1|Pay|Ödemek
+A1|Need|İhtiyaç duymak
+A1|Want|İstemek
+A1|Know|Bilmek
+A1|Think|Düşünmek
+A1|Understand|Anlamak
+A1|Come|Gelmek
+A1|Go|Gitmek
+A1|Wait|Beklemek
+A1|Give|Vermek
+A1|Take|Almak
+A1|Make|Yapmak / Üretmek
+A1|Do|Yapmak
+A1|Have|Sahip olmak
+A2|Check|Kontrol etmek
+A2|Prepare|Hazırlamak
+A2|Receive|Almak (teslim almak)
+A2|Reply|Yanıtlamak
+A2|Print|Yazdırmak
+A2|Sign|İmzalamak
+A2|Book|Rezervasyon yapmak
+A2|Cancel|İptal etmek
+A2|Change|Değiştirmek
+A2|Arrive|Varmak
+A2|Leave|Ayrılmak / Bırakmak
+A2|Remember|Hatırlamak
+A2|Forget|Unutmak
+A2|Explain|Açıklamak
+A2|Agree|Aynı fikirde olmak / Kabul etmek
+A2|Decide|Karar vermek
+A2|Try|Denemek
+A2|Use|Kullanmak
+A2|Find|Bulmak
+A2|Show|Göstermek
+A2|Tell|Söylemek / Anlatmak
+A2|Save|Kaydetmek / Biriktirmek
+A2|Spend|Harcamak
+A2|Borrow|Ödünç almak
+A2|Lend|Ödünç vermek
+B1|Suggest|Önermek
+B1|Recommend|Tavsiye etmek
+B1|Improve|Geliştirmek / İyileştirmek
+B1|Increase|Artmak / Artırmak
+B1|Decrease|Azalmak / Azaltmak
+B1|Compare|Karşılaştırmak
+B1|Solve|Çözmek
+B1|Apologise|Özür dilemek|Apologize
+B1|Complain|Şikâyet etmek
+B1|Expect|Beklemek (ummak)
+B1|Mention|Bahsetmek
+B1|Realise|Farkına varmak|Realize
+B1|Notice|Fark etmek
+B1|Support|Desteklemek
+B1|Share|Paylaşmak
+B2|Look into|İncelemek / Araştırmak
+B2|Sort out|Halletmek / Çözmek
+B2|Set up|Kurmak / Ayarlamak
+B2|Figure out|Anlamak / Çözüm bulmak
+B2|Catch up|Yetişmek / Arayı kapatmak
+B2|Run out of|Tükenmek (-in bitmesi)
+B2|Point out|Belirtmek / Dikkat çekmek
+B2|Turn down|Reddetmek
+B2|Fill in|Doldurmak (form)|Fill out
+B2|Back up|Yedeklemek / Arka çıkmak
+#b_adj
+A1|Good|İyi
+A1|Bad|Kötü
+A1|Big|Büyük
+A1|Small|Küçük
+A1|New|Yeni
+A1|Old|Eski / Yaşlı
+A1|Easy|Kolay
+A1|Difficult|Zor||hard
+A1|Fast|Hızlı||quick
+A1|Slow|Yavaş
+A1|Late|Geç
+A1|Busy|Meşgul / Yoğun
+A1|Free|Boş / Ücretsiz
+A1|Ready|Hazır
+A1|Right|Doğru / Sağ
+A1|Wrong|Yanlış
+A1|Important|Önemli
+A2|Available|Müsait / Mevcut
+A2|Urgent|Acil
+A2|Possible|Mümkün
+A2|Impossible|İmkânsız
+A2|Necessary|Gerekli
+A2|Correct|Doğru (hatasız)
+A2|Expensive|Pahalı
+A2|Cheap|Ucuz
+A2|Same|Aynı
+A2|Different|Farklı
+A2|Similar|Benzer
+A2|Full|Dolu / Tam
+A2|Empty|Boş (içi boş)
+A2|Final|Son / Kesin
+B1|Recent|Son (yakın zamandaki)
+B1|Current|Mevcut / Güncel
+B1|Previous|Önceki
+B1|Following|Aşağıdaki / Sonraki
+B1|Reliable|Güvenilir
+B1|Flexible|Esnek
+B1|Responsible|Sorumlu
+B1|Successful|Başarılı
+B2|Temporary|Geçici
+B2|Permanent|Kalıcı
+C1|Inevitable|Kaçınılmaz
+C1|Unprecedented|Eşi görülmemiş
+#b_adv
+A1|Early|Erken
+A2|Usually|Genellikle
+A2|Always|Her zaman
+A2|Never|Asla / Hiç
+A2|Sometimes|Bazen
+A2|Often|Sık sık
+A2|Already|Zaten / Çoktan
+A2|Still|Hâlâ
+A2|Yet|Henüz
+A2|Soon|Yakında
+A2|Again|Tekrar
+A2|Together|Birlikte
+A2|Maybe|Belki||perhaps
+A2|Probably|Muhtemelen
+A2|Really|Gerçekten
+A2|Exactly|Tam olarak
+A2|Almost|Neredeyse
+B1|Unfortunately|Maalesef
+B1|Fortunately|Neyse ki
+B1|Immediately|Hemen
+B1|Recently|Son zamanlarda
+B1|Currently|Şu anda
+B1|Finally|Sonunda / Son olarak
+B1|Especially|Özellikle
+B1|Actually|Aslında
+B1|Obviously|Belli ki / Açıkçası
+B1|Directly|Doğrudan
+B1|Carefully|Dikkatlice
+B2|Eventually|Nihayetinde
+B2|Gradually|Yavaş yavaş
+B2|Apparently|Görünüşe göre
+B2|Briefly|Kısaca
+C1|Arguably|Tartışılabilir olsa da
+#b_small
+A1|And|Ve
+A1|But|Ama / Fakat
+A1|Or|Veya
+A1|Because|Çünkü
+A1|With|İle
+A1|Without|-sız (olmadan)
+A1|For|İçin
+A1|From|-den
+A1|In|İçinde / -de
+A1|On|Üzerinde / -de (gün)
+A1|At|-de (saat, yer)
+A2|Before|Önce
+A2|After|Sonra
+A2|During|Sırasında
+A2|Until|-e kadar||till
+A2|Since|-den beri
+A2|So|Bu yüzden
+A2|If|Eğer
+A2|When|-dığında / Ne zaman
+A2|Also|Ayrıca / -de
+A2|About|Hakkında / Yaklaşık
+B1|However|Ancak / Bununla birlikte
+B1|Although|-e rağmen / -dığı halde||though
+B1|While|-iken / Oysa
+B1|Unless|-medikçe / -mezse
+B1|As soon as|-er -mez
+B1|As long as|-dığı sürece
+B1|Whenever|Her ne zaman
+B1|Instead of|Yerine
+B1|Due to|Nedeniyle||because of
+B1|Therefore|Bu nedenle
+B1|Otherwise|Aksi halde
+B1|In addition|Ek olarak
+B1|Except|Hariç
+B1|Within|İçinde (süre)
+B2|Whereas|Oysa (karşıtlık)
+B2|Even though|-diği halde (güçlü karşıtlık)
+B2|In case|Olur diye (ihtimale karşı)
+B2|So that|-sın diye
+#n_time
+A1|O'clock|Saat (tam)
+A1|Half past|Buçuk (otuz geçe)
+A1|Quarter past|Çeyrek geçe
+A1|Quarter to|Çeyrek var|Quarter of
+A1|Minute|Dakika
+A1|Hour|Saat (süre)
+A1|Second|Saniye
+A1|Morning|Sabah
+A1|Afternoon|Öğleden sonra
+A1|Evening|Akşam
+A1|Night|Gece
+A1|Noon|Öğle (12:00)||midday
+A1|Midnight|Gece yarısı
+A2|a.m.|Öğleden önce (gece 12'den öğlen 12'ye)
+A2|p.m.|Öğleden sonra (öğlen 12'den gece 12'ye)
+A2|Ten past five|Beşi on geçe
+A2|Twenty to six|Altıya yirmi var|Twenty of six
+B1|On time|Zamanında
+B1|In time|Vaktinde (geç kalmadan)
+B1|Half an hour|Yarım saat
+B1|An hour and a half|Bir buçuk saat
+B2|Around ten|Saat on civarı||ten-ish
+#n_wea
+A1|Weather|Hava (durumu)
+A1|Sun / Sunny|Güneş / Güneşli
+A1|Rain / Rainy|Yağmur / Yağmurlu
+A1|Snow / Snowy|Kar / Karlı
+A1|Wind / Windy|Rüzgâr / Rüzgârlı
+A1|Cloud / Cloudy|Bulut / Bulutlu
+A1|Hot|Sıcak
+A1|Cold|Soğuk
+A1|Warm|Ilık
+A2|Cool|Serin
+A1|Spring|İlkbahar
+A1|Summer|Yaz
+A1|Autumn|Sonbahar|Fall
+A1|Winter|Kış
+A2|Fog / Foggy|Sis / Sisli
+A2|Storm|Fırtına
+A2|Ice / Icy|Buz / Buzlu
+A2|Temperature|Sıcaklık
+A2|Degrees|Derece
+A2|Minus five|Eksi beş (−5)||five below zero
+B1|Weather forecast|Hava tahmini
+B1|Thunder / Lightning|Gök gürültüsü / Şimşek
+B1|Shower|Sağanak
+B1|Humid|Nemli
+B1|Heatwave|Sıcak hava dalgası
+B2|Drizzle|Çisenti
+B2|Sleet|Sulu kar
+B2|Breeze|Esinti
+B2|Mild|Ilıman
+B2|Chilly|Soğukça
+C1|Overcast|Kapalı (bulutlu)
+C1|Scorching|Kavurucu sıcak
+#n_math
+A1|Plus|Artı (+)
+A1|Minus|Eksi (−)
+A1|Times|Çarpı (×)||multiplied by
+A1|Divided by|Bölü (÷)
+A1|Equals|Eşittir (=)
+A2|Add|Toplamak
+A2|Subtract|Çıkarmak||take away
+A2|Multiply|Çarpmak
+A2|Divide|Bölmek
+A2|Count|Saymak
+A2|Sum|Toplam (toplama sonucu)
+A2|Average|Ortalama
+B1|Difference|Fark (çıkarma sonucu)
+B1|Quotient|Bölüm (bölme sonucu)
+B1|Calculator|Hesap makinesi
+B1|Round up|Yukarı yuvarlamak
+B1|Round down|Aşağı yuvarlamak
+B1|Five squared|Beşin karesi (5²)
+B1|Square root|Karekök
+B1|More than / Less than|Büyüktür / Küçüktür (> <)
+#n_col
+A1|Red|Kırmızı
+A1|Blue|Mavi
+A1|Green|Yeşil
+A1|Yellow|Sarı
+A1|Black|Siyah
+A1|White|Beyaz
+A1|Orange|Turuncu
+A1|Brown|Kahverengi
+A1|Pink|Pembe
+A1|Purple|Mor
+A1|Grey|Gri|Gray
+A2|Light blue|Açık mavi
+A2|Dark green|Koyu yeşil
+A2|Gold|Altın rengi
+A2|Silver|Gümüş rengi
+B1|Beige|Bej
+B1|Navy blue|Lacivert
+A2|Circle|Daire
+A2|Square|Kare
+A2|Triangle|Üçgen
+B1|Rectangle|Dikdörtgen
+A2|Line|Çizgi
+A2|Dot|Nokta
+A2|Round|Yuvarlak
+#n_meas
+A1|Long|Uzun
+A1|Short|Kısa
+A1|Tall|Uzun boylu
+A2|Wide|Geniş
+A2|Narrow|Dar
+A2|Heavy|Ağır
+A2|Light|Hafif
+A2|Kilogram (kg)|Kilogram
+A2|Gram (g)|Gram
+A2|Litre (l)|Litre|Liter
+A2|Metre (m)|Metre|Meter
+A2|Centimetre (cm)|Santimetre|Centimeter
+A2|Kilometre (km)|Kilometre|Kilometer
+B1|Millimetre (mm)|Milimetre|Millimeter
+A2|Weight|Ağırlık
+A2|Height|Boy / Yükseklik
+A2|Length|Uzunluk
+B1|Width|Genişlik
+A2|Size|Beden / Boyut
+B1|Distance|Mesafe
+B1|Speed|Hız
+B1|Square metre|Metrekare|Square meter
+B1|Half a kilo|Yarım kilo
+B1|Mile|Mil (1,6 km)
+B1|Pound (lb)|Libre (yaklaşık 0,45 kg)
+B2|Inch|İnç (2,54 cm)
+B2|Foot (ft)|Fit (30,5 cm)
+#n_dir
+A1|Left|Sol
+A1|On the left / On the right|Solda / Sağda
+A1|Straight on|Dümdüz ileri|Straight ahead
+A1|Here / There|Burada / Orada
+A1|Near|Yakın
+A1|Far|Uzak
+A1|Next to|Yanında
+A1|Behind|Arkasında
+A1|In front of|Önünde
+A1|Under|Altında
+A2|Above|Üstünde (yukarısında)
+A2|Opposite|Karşısında
+A2|Between|Arasında
+A2|Inside|İçinde
+A2|Outside|Dışında
+A2|Upstairs|Üst katta
+A2|Downstairs|Alt katta
+A2|Corner|Köşe
+A2|North, south, east, west|Kuzey, güney, doğu, batı
+A2|Traffic lights|Trafik ışıkları|Stoplight
+A2|Turn|Dönmek
+A2|Cross the road|Karşıya geçmek|Cross the street
+B1|Around the corner|Köşeyi dönünce
+B1|Crossroads|Kavşak|Intersection
+B1|Roundabout|Döner kavşak|Traffic circle
+#v_food
+A1|Bread|Ekmek
+A1|Water|Su
+A1|Milk|Süt
+A1|Coffee|Kahve
+A1|Tea|Çay
+A1|Egg|Yumurta
+A1|Cheese|Peynir
+A1|Meat|Et
+A1|Chicken|Tavuk
+A1|Fish|Balık
+A1|Rice|Pirinç / Pilav
+A1|Pasta|Makarna
+A1|Salad|Salata
+A1|Vegetables|Sebzeler
+A1|Fruit|Meyve
+A1|Apple|Elma
+A1|Potato|Patates
+A1|Tomato|Domates
+A1|Sugar|Şeker
+A1|Salt|Tuz
+A1|Juice|Meyve suyu
+A1|Breakfast|Kahvaltı
+A1|Lunch|Öğle yemeği
+A1|Dinner|Akşam yemeği
+A1|Glass|Bardak
+A1|Cup|Fincan
+A2|Soup|Çorba
+A2|Onion|Soğan
+A2|Pepper|Biber / Karabiber
+A2|Oil|Yağ
+A2|Butter|Tereyağı
+A2|Beer|Bira
+A2|Wine|Şarap
+A2|Dessert|Tatlı (yemek sonu)
+A2|Spicy|Acı (baharatlı)
+A2|Sweet|Tatlı (tadı)
+A2|Salty|Tuzlu
+A2|Fresh|Taze
+A2|Knife, fork, spoon|Bıçak, çatal, kaşık
+A2|Plate|Tabak
+B1|Snack|Atıştırmalık
+B1|Frying pan|Tava
+B1|Pot|Tencere
+B1|Boil|Kaynatmak / Haşlamak
+B1|Fry|Kızartmak
+B1|Bake|Fırında pişirmek
+B1|Chop|Doğramak
+B1|Recipe|Yemek tarifi
+B1|Ingredients|Malzemeler
+#v_clo
+A1|Clothes|Kıyafetler
+A1|Shirt|Gömlek
+A1|T-shirt|Tişört
+A1|Trousers|Pantolon|Pants
+A1|Jeans|Kot pantolon
+A1|Dress|Elbise
+A1|Skirt|Etek
+A1|Jacket|Ceket
+A1|Coat|Palto / Mont
+A1|Shoes|Ayakkabı
+A1|Socks|Çorap
+A1|Hat|Şapka
+A1|Bag|Çanta
+A2|Boots|Bot / Çizme
+A2|Scarf|Atkı
+A2|Gloves|Eldiven
+A2|Jumper|Kazak|Sweater
+A2|Suit|Takım elbise
+A2|Tie|Kravat
+A2|Belt|Kemer
+A2|Wallet|Cüzdan
+A2|Watch|Kol saati
+A2|Glasses|Gözlük
+A2|Pyjamas|Pijama|Pajamas
+A2|Umbrella|Şemsiye
+B1|Tight|Dar (sıkı)
+B1|Loose|Bol
+B1|Cotton|Pamuk
+B1|Leather|Deri
+B1|Sale|İndirim sezonu
+#v_body
+A1|Head|Baş
+A1|Hair|Saç
+A1|Face|Yüz
+A1|Eye|Göz
+A1|Ear|Kulak
+A1|Nose|Burun
+A1|Mouth|Ağız
+A1|Tooth / Teeth|Diş / Dişler
+A1|Arm|Kol
+A1|Hand|El
+A1|Leg|Bacak
+A1|Foot / Feet|Ayak / Ayaklar
+A2|Neck|Boyun
+A2|Shoulder|Omuz
+A2|Finger|Parmak
+A2|Back|Sırt
+A2|Chest|Göğüs
+A2|Stomach|Mide / Karın
+A2|Knee|Diz
+A2|Heart|Kalp
+A2|Pain|Ağrı
+A2|Fever|Ateş
+A2|Cough|Öksürük
+A2|Medicine|İlaç
+A2|Chemist's|Eczane|Pharmacy|drugstore
+B1|Skin|Cilt
+B1|Blood|Kan
+B1|Throat|Boğaz
+B1|Ankle|Ayak bileği
+B1|Wrist|El bileği
+B1|Elbow|Dirsek
+B1|Prescription|Reçete
+B1|Injection|İğne (enjeksiyon)||jab
+B1|Plaster|Yara bandı|Band-Aid
+#v_job
+A1|Doctor|Doktor
+A1|Nurse|Hemşire
+A1|Teacher|Öğretmen
+A1|Student|Öğrenci
+A1|Driver|Şoför
+A1|Waiter / Waitress|Garson
+A1|Pilot|Pilot
+A2|Engineer|Mühendis
+A2|Cook|Aşçı||chef
+A2|Shop assistant|Satış görevlisi|Sales clerk
+A2|Police officer|Polis memuru
+A2|Dentist|Diş hekimi
+A2|Hairdresser|Kuaför
+A2|Farmer|Çiftçi
+A2|Cleaner|Temizlikçi
+B1|Lawyer|Avukat
+B1|Pharmacist|Eczacı
+B1|Mechanic|Oto tamircisi
+B1|Electrician|Elektrikçi
+B1|Plumber|Tesisatçı
+B1|Builder|İnşaat işçisi
+B1|Architect|Mimar
+B1|Software developer|Yazılımcı
+B1|Journalist|Gazeteci
+B1|Receptionist|Resepsiyonist
+B1|Retired|Emekli
+B1|Unemployed|İşsiz
+B1|Self-employed|Serbest çalışan
+#v_country
+A1|Country|Ülke
+A1|Language|Dil
+A1|Turkey / Turkish|Türkiye / Türk, Türkçe
+A1|Romania / Romanian|Romanya / Rumen, Romence
+A1|England / English|İngiltere / İngiliz, İngilizce
+A1|Germany / German|Almanya / Alman, Almanca
+A1|France / French|Fransa / Fransız, Fransızca
+A1|Italy / Italian|İtalya / İtalyan, İtalyanca
+A1|Spain / Spanish|İspanya / İspanyol, İspanyolca
+A2|Nationality|Uyruk
+A2|The United Kingdom (UK) / British|Birleşik Krallık / Britanyalı
+A2|The United States (USA) / American|ABD / Amerikalı
+A2|Greece / Greek|Yunanistan / Yunan, Yunanca
+A2|Bulgaria / Bulgarian|Bulgaristan / Bulgar, Bulgarca
+A2|Russia / Russian|Rusya / Rus, Rusça
+A2|Europe / European|Avrupa / Avrupalı
+A2|Capital city|Başkent
+B1|The Netherlands / Dutch|Hollanda / Hollandalı, Felemenkçe
+B1|Abroad|Yurt dışı
+B1|Mother tongue|Ana dil||native language
+B1|Foreigner|Yabancı
+B1|Accent|Aksan
+B1|Fluent|Akıcı
+B2|Bilingual|İki dilli
+#v_city
+A1|City|Şehir
+A1|Town|Kasaba / Küçük şehir
+A1|Street|Sokak / Cadde
+A1|Road|Yol
+A1|Park|Park
+A1|Shop|Dükkân / Mağaza|Store
+A1|Supermarket|Süpermarket
+A1|Hospital|Hastane
+A1|Bank|Banka
+A1|Station|İstasyon
+A1|Bus stop|Otobüs durağı
+A1|Airport|Havalimanı
+A1|Car|Araba
+A1|Bus|Otobüs
+A1|Train|Tren
+A1|Taxi|Taksi
+A1|Bicycle|Bisiklet||bike
+A1|Plane|Uçak
+A1|Ticket|Bilet
+A2|Village|Köy
+A2|Bakery|Fırın (ekmek)
+A2|Post office|Postane
+A2|Police station|Karakol
+A2|Car park|Otopark|Parking lot
+A2|Petrol station|Benzin istasyonu|Gas station
+A2|Bridge|Köprü
+A2|Museum|Müze
+A2|Church / Mosque|Kilise / Cami
+A2|Beach|Plaj
+A2|Parcel|Koli / Kargo paketi|Package
+A2|Envelope|Zarf
+B1|Butcher's|Kasap
+B1|Port|Liman
+B1|Town hall|Belediye binası|City hall
+B1|Neighbourhood|Mahalle|Neighborhood
+B1|Pavement|Kaldırım|Sidewalk
+B1|Driving licence|Ehliyet|Driver's license
+B1|Tyre|Lastik|Tire
+B1|Seat belt|Emniyet kemeri
+B1|Motorway|Otoyol|Highway
+B1|Traffic jam|Trafik sıkışıklığı
+B1|Fine|Para cezası
+B1|Cash machine|Bankamatik|ATM|cashpoint
+B1|Postage stamp|Posta pulu
+#v_people
+A1|Family|Aile
+A1|Mother|Anne
+A1|Father|Baba
+A1|Brother|Erkek kardeş
+A1|Sister|Kız kardeş
+A1|Son|Oğul
+A1|Daughter|Kız (evlat)
+A1|Child / Children|Çocuk / Çocuklar
+A1|Baby|Bebek
+A1|Husband|Koca (eş)
+A1|Wife|Karı (eş)
+A1|Grandmother|Büyükanne (babaanne / anneanne)
+A1|Grandfather|Büyükbaba (dede)
+A1|Friend|Arkadaş
+A1|Man / Woman|Adam / Kadın
+A1|Boy / Girl|Erkek çocuk / Kız çocuk
+A1|People|İnsanlar
+A1|Young|Genç
+A2|Parents|Anne-baba (ebeveyn)
+A2|Aunt|Teyze / Hala / Yenge
+A2|Uncle|Amca / Dayı / Enişte
+A2|Cousin|Kuzen
+A2|Boyfriend / Girlfriend|Erkek arkadaş / Kız arkadaş
+B1|Nephew / Niece|Erkek yeğen / Kız yeğen
+B1|Relatives|Akrabalar
+B1|In-laws|Eşin ailesi (kayın aile)
+B1|Twins|İkizler
+B1|Partner|Hayat arkadaşı (partner)

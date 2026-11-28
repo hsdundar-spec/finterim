@@ -1,17 +1,31 @@
 {
-  "name": "FinTerim – Muhasebe ve İş İngilizcesi",
-  "short_name": "FinTerim",
-  "description": "EN⇄TR muhasebe, vergi, bordro ve finans sözlüğü; iş ve günlük İngilizce kalıpları; telaffuz ve dinleme modu.",
-  "lang": "tr",
-  "start_url": "./index.html",
-  "scope": "./",
-  "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#0b0b0c",
-  "theme_color": "#0b0b0c",
-  "icons": [
-    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
-    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
-    {"src": "maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
-  ]
+ "id": "finterim",
+ "name": "FinTerim – Muhasebe ve İş İngilizcesi",
+ "short_name": "FinTerim",
+ "description": "Muhasebe, vergi, bordro ve finans sözlüğü; iş İngilizcesi kalıpları; telaffuz, gölge ve dinleme modu.",
+ "lang": "tr",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#0b0b0c",
+ "theme_color": "#0b0b0c",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
 }
